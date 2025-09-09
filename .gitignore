@@ -1,4 +1,4 @@
 /old
-*.tsv
+# *.tsv
 *.obo
 .DS_Store

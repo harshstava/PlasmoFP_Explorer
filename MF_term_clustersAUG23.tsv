@@ -1,0 +1,1437 @@
+GO_ID	ClusterID	ClusterName
+GO:0000009	4	Kinases & Transferases
+GO:0000014	1	Hydrolases & Phosphatases
+GO:0000026	4	Kinases & Transferases
+GO:0000030	4	Kinases & Transferases
+GO:0000035	2	DNA/RNA Binding & Polymerase Activity
+GO:0000036	2	DNA/RNA Binding & Polymerase Activity
+GO:0000049	2	DNA/RNA Binding & Polymerase Activity
+GO:0000062	2	DNA/RNA Binding & Polymerase Activity
+GO:0000095	6	Transporter & Channel Activity
+GO:0000104	0	Redox Activity
+GO:0000146	0	Redox Activity
+GO:0000149	2	DNA/RNA Binding & Polymerase Activity
+GO:0000150	3	RNA Processing
+GO:0000166	2	DNA/RNA Binding & Polymerase Activity
+GO:0000171	1	Hydrolases & Phosphatases
+GO:0000175	1	Hydrolases & Phosphatases
+GO:0000179	3	RNA Processing
+GO:0000182	2	DNA/RNA Binding & Polymerase Activity
+GO:0000213	1	Hydrolases & Phosphatases
+GO:0000225	1	Hydrolases & Phosphatases
+GO:0000234	4	Kinases & Transferases
+GO:0000285	4	Kinases & Transferases
+GO:0000287	2	DNA/RNA Binding & Polymerase Activity
+GO:0000309	4	Kinases & Transferases
+GO:0000339	2	DNA/RNA Binding & Polymerase Activity
+GO:0000340	2	DNA/RNA Binding & Polymerase Activity
+GO:0000386	3	RNA Processing
+GO:0000400	2	DNA/RNA Binding & Polymerase Activity
+GO:0000406	2	DNA/RNA Binding & Polymerase Activity
+GO:0000701	1	Hydrolases & Phosphatases
+GO:0000703	1	Hydrolases & Phosphatases
+GO:0000774	0	Redox Activity
+GO:0000822	2	DNA/RNA Binding & Polymerase Activity
+GO:0000823	4	Kinases & Transferases
+GO:0000827	4	Kinases & Transferases
+GO:0000828	4	Kinases & Transferases
+GO:0000829	4	Kinases & Transferases
+GO:0000832	4	Kinases & Transferases
+GO:0000900	2	DNA/RNA Binding & Polymerase Activity
+GO:0000976	2	DNA/RNA Binding & Polymerase Activity
+GO:0000977	2	DNA/RNA Binding & Polymerase Activity
+GO:0000978	2	DNA/RNA Binding & Polymerase Activity
+GO:0000979	2	DNA/RNA Binding & Polymerase Activity
+GO:0000981	0	Redox Activity
+GO:0000993	2	DNA/RNA Binding & Polymerase Activity
+GO:0000994	2	DNA/RNA Binding & Polymerase Activity
+GO:0000995	0	Redox Activity
+GO:0001006	2	DNA/RNA Binding & Polymerase Activity
+GO:0001054	3	RNA Processing
+GO:0001055	3	RNA Processing
+GO:0001056	3	RNA Processing
+GO:0001139	2	DNA/RNA Binding & Polymerase Activity
+GO:0001164	2	DNA/RNA Binding & Polymerase Activity
+GO:0001181	0	Redox Activity
+GO:0001216	0	Redox Activity
+GO:0001217	0	Redox Activity
+GO:0001228	0	Redox Activity
+GO:0001671	0	Redox Activity
+GO:0001734	3	RNA Processing
+GO:0001786	2	DNA/RNA Binding & Polymerase Activity
+GO:0001791	2	DNA/RNA Binding & Polymerase Activity
+GO:0002020	2	DNA/RNA Binding & Polymerase Activity
+GO:0002094	4	Kinases & Transferases
+GO:0002161	1	Hydrolases & Phosphatases
+GO:0003676	2	DNA/RNA Binding & Polymerase Activity
+GO:0003677	2	DNA/RNA Binding & Polymerase Activity
+GO:0003678	3	RNA Processing
+GO:0003680	2	DNA/RNA Binding & Polymerase Activity
+GO:0003681	2	DNA/RNA Binding & Polymerase Activity
+GO:0003682	2	DNA/RNA Binding & Polymerase Activity
+GO:0003684	2	DNA/RNA Binding & Polymerase Activity
+GO:0003688	2	DNA/RNA Binding & Polymerase Activity
+GO:0003689	3	RNA Processing
+GO:0003690	2	DNA/RNA Binding & Polymerase Activity
+GO:0003691	2	DNA/RNA Binding & Polymerase Activity
+GO:0003697	2	DNA/RNA Binding & Polymerase Activity
+GO:0003700	0	Redox Activity
+GO:0003711	0	Redox Activity
+GO:0003712	0	Redox Activity
+GO:0003713	0	Redox Activity
+GO:0003714	0	Redox Activity
+GO:0003723	2	DNA/RNA Binding & Polymerase Activity
+GO:0003724	3	RNA Processing
+GO:0003725	2	DNA/RNA Binding & Polymerase Activity
+GO:0003727	2	DNA/RNA Binding & Polymerase Activity
+GO:0003729	2	DNA/RNA Binding & Polymerase Activity
+GO:0003730	2	DNA/RNA Binding & Polymerase Activity
+GO:0003735	0	Redox Activity
+GO:0003743	2	DNA/RNA Binding & Polymerase Activity
+GO:0003746	2	DNA/RNA Binding & Polymerase Activity
+GO:0003747	2	DNA/RNA Binding & Polymerase Activity
+GO:0003755	0	Redox Activity
+GO:0003756	0	Redox Activity
+GO:0003774	0	Redox Activity
+GO:0003777	0	Redox Activity
+GO:0003779	2	DNA/RNA Binding & Polymerase Activity
+GO:0003785	2	DNA/RNA Binding & Polymerase Activity
+GO:0003823	2	DNA/RNA Binding & Polymerase Activity
+GO:0003824	0	Redox Activity
+GO:0003826	0	Redox Activity
+GO:0003841	4	Kinases & Transferases
+GO:0003848	4	Kinases & Transferases
+GO:0003855	5	Lyase & Synthase Enzymes
+GO:0003856	5	Lyase & Synthase Enzymes
+GO:0003857	0	Redox Activity
+GO:0003860	1	Hydrolases & Phosphatases
+GO:0003863	0	Redox Activity
+GO:0003865	0	Redox Activity
+GO:0003866	4	Kinases & Transferases
+GO:0003870	4	Kinases & Transferases
+GO:0003872	4	Kinases & Transferases
+GO:0003874	5	Lyase & Synthase Enzymes
+GO:0003876	1	Hydrolases & Phosphatases
+GO:0003878	4	Kinases & Transferases
+GO:0003881	4	Kinases & Transferases
+GO:0003882	4	Kinases & Transferases
+GO:0003883	0	Redox Activity
+GO:0003886	3	RNA Processing
+GO:0003887	3	RNA Processing
+GO:0003896	3	RNA Processing
+GO:0003899	3	RNA Processing
+GO:0003904	5	Lyase & Synthase Enzymes
+GO:0003905	1	Hydrolases & Phosphatases
+GO:0003906	3	RNA Processing
+GO:0003909	3	RNA Processing
+GO:0003910	3	RNA Processing
+GO:0003916	3	RNA Processing
+GO:0003917	3	RNA Processing
+GO:0003918	3	RNA Processing
+GO:0003919	4	Kinases & Transferases
+GO:0003921	0	Redox Activity
+GO:0003922	0	Redox Activity
+GO:0003923	1	Hydrolases & Phosphatases
+GO:0003924	1	Hydrolases & Phosphatases
+GO:0003925	1	Hydrolases & Phosphatases
+GO:0003934	1	Hydrolases & Phosphatases
+GO:0003938	0	Redox Activity
+GO:0003951	4	Kinases & Transferases
+GO:0003952	0	Redox Activity
+GO:0003954	0	Redox Activity
+GO:0003958	0	Redox Activity
+GO:0003959	0	Redox Activity
+GO:0003960	0	Redox Activity
+GO:0003963	3	RNA Processing
+GO:0003964	3	RNA Processing
+GO:0003968	3	RNA Processing
+GO:0003972	3	RNA Processing
+GO:0003975	4	Kinases & Transferases
+GO:0003977	4	Kinases & Transferases
+GO:0003983	4	Kinases & Transferases
+GO:0003985	4	Kinases & Transferases
+GO:0003987	0	Redox Activity
+GO:0003988	4	Kinases & Transferases
+GO:0003989	0	Redox Activity
+GO:0003993	1	Hydrolases & Phosphatases
+GO:0003994	5	Lyase & Synthase Enzymes
+GO:0003998	1	Hydrolases & Phosphatases
+GO:0004000	1	Hydrolases & Phosphatases
+GO:0004013	1	Hydrolases & Phosphatases
+GO:0004014	5	Lyase & Synthase Enzymes
+GO:0004016	5	Lyase & Synthase Enzymes
+GO:0004017	4	Kinases & Transferases
+GO:0004018	5	Lyase & Synthase Enzymes
+GO:0004019	0	Redox Activity
+GO:0004032	0	Redox Activity
+GO:0004033	0	Redox Activity
+GO:0004035	1	Hydrolases & Phosphatases
+GO:0004037	1	Hydrolases & Phosphatases
+GO:0004040	1	Hydrolases & Phosphatases
+GO:0004042	4	Kinases & Transferases
+GO:0004045	1	Hydrolases & Phosphatases
+GO:0004047	4	Kinases & Transferases
+GO:0004049	5	Lyase & Synthase Enzymes
+GO:0004053	1	Hydrolases & Phosphatases
+GO:0004057	4	Kinases & Transferases
+GO:0004066	0	Redox Activity
+GO:0004069	4	Kinases & Transferases
+GO:0004070	4	Kinases & Transferases
+GO:0004075	0	Redox Activity
+GO:0004077	0	Redox Activity
+GO:0004081	1	Hydrolases & Phosphatases
+GO:0004084	4	Kinases & Transferases
+GO:0004087	0	Redox Activity
+GO:0004088	0	Redox Activity
+GO:0004089	5	Lyase & Synthase Enzymes
+GO:0004103	4	Kinases & Transferases
+GO:0004105	4	Kinases & Transferases
+GO:0004107	5	Lyase & Synthase Enzymes
+GO:0004108	4	Kinases & Transferases
+GO:0004109	0	Redox Activity
+GO:0004114	1	Hydrolases & Phosphatases
+GO:0004115	1	Hydrolases & Phosphatases
+GO:0004117	1	Hydrolases & Phosphatases
+GO:0004123	5	Lyase & Synthase Enzymes
+GO:0004126	1	Hydrolases & Phosphatases
+GO:0004127	4	Kinases & Transferases
+GO:0004128	0	Redox Activity
+GO:0004129	6	Transporter & Channel Activity
+GO:0004139	5	Lyase & Synthase Enzymes
+GO:0004140	4	Kinases & Transferases
+GO:0004142	4	Kinases & Transferases
+GO:0004143	4	Kinases & Transferases
+GO:0004144	4	Kinases & Transferases
+GO:0004146	0	Redox Activity
+GO:0004148	0	Redox Activity
+GO:0004149	4	Kinases & Transferases
+GO:0004151	1	Hydrolases & Phosphatases
+GO:0004152	0	Redox Activity
+GO:0004156	4	Kinases & Transferases
+GO:0004161	4	Kinases & Transferases
+GO:0004164	4	Kinases & Transferases
+GO:0004168	4	Kinases & Transferases
+GO:0004169	4	Kinases & Transferases
+GO:0004170	1	Hydrolases & Phosphatases
+GO:0004175	1	Hydrolases & Phosphatases
+GO:0004176	1	Hydrolases & Phosphatases
+GO:0004177	1	Hydrolases & Phosphatases
+GO:0004180	1	Hydrolases & Phosphatases
+GO:0004181	1	Hydrolases & Phosphatases
+GO:0004190	1	Hydrolases & Phosphatases
+GO:0004197	1	Hydrolases & Phosphatases
+GO:0004198	1	Hydrolases & Phosphatases
+GO:0004222	1	Hydrolases & Phosphatases
+GO:0004239	1	Hydrolases & Phosphatases
+GO:0004252	1	Hydrolases & Phosphatases
+GO:0004298	1	Hydrolases & Phosphatases
+GO:0004300	5	Lyase & Synthase Enzymes
+GO:0004301	1	Hydrolases & Phosphatases
+GO:0004305	4	Kinases & Transferases
+GO:0004306	4	Kinases & Transferases
+GO:0004307	4	Kinases & Transferases
+GO:0004309	1	Hydrolases & Phosphatases
+GO:0004311	4	Kinases & Transferases
+GO:0004312	4	Kinases & Transferases
+GO:0004314	4	Kinases & Transferases
+GO:0004315	4	Kinases & Transferases
+GO:0004316	0	Redox Activity
+GO:0004318	0	Redox Activity
+GO:0004324	0	Redox Activity
+GO:0004325	5	Lyase & Synthase Enzymes
+GO:0004326	0	Redox Activity
+GO:0004332	5	Lyase & Synthase Enzymes
+GO:0004333	5	Lyase & Synthase Enzymes
+GO:0004337	4	Kinases & Transferases
+GO:0004340	4	Kinases & Transferases
+GO:0004342	1	Hydrolases & Phosphatases
+GO:0004343	4	Kinases & Transferases
+GO:0004345	0	Redox Activity
+GO:0004347	0	Redox Activity
+GO:0004352	0	Redox Activity
+GO:0004354	0	Redox Activity
+GO:0004356	0	Redox Activity
+GO:0004357	0	Redox Activity
+GO:0004359	1	Hydrolases & Phosphatases
+GO:0004360	4	Kinases & Transferases
+GO:0004362	0	Redox Activity
+GO:0004363	0	Redox Activity
+GO:0004364	4	Kinases & Transferases
+GO:0004365	0	Redox Activity
+GO:0004366	4	Kinases & Transferases
+GO:0004367	0	Redox Activity
+GO:0004368	0	Redox Activity
+GO:0004370	4	Kinases & Transferases
+GO:0004372	4	Kinases & Transferases
+GO:0004376	4	Kinases & Transferases
+GO:0004379	4	Kinases & Transferases
+GO:0004383	5	Lyase & Synthase Enzymes
+GO:0004385	4	Kinases & Transferases
+GO:0004386	3	RNA Processing
+GO:0004392	0	Redox Activity
+GO:0004396	4	Kinases & Transferases
+GO:0004402	4	Kinases & Transferases
+GO:0004407	1	Hydrolases & Phosphatases
+GO:0004408	5	Lyase & Synthase Enzymes
+GO:0004416	1	Hydrolases & Phosphatases
+GO:0004417	4	Kinases & Transferases
+GO:0004418	4	Kinases & Transferases
+GO:0004422	4	Kinases & Transferases
+GO:0004425	5	Lyase & Synthase Enzymes
+GO:0004427	1	Hydrolases & Phosphatases
+GO:0004430	4	Kinases & Transferases
+GO:0004435	1	Hydrolases & Phosphatases
+GO:0004438	1	Hydrolases & Phosphatases
+GO:0004439	1	Hydrolases & Phosphatases
+GO:0004445	1	Hydrolases & Phosphatases
+GO:0004450	0	Redox Activity
+GO:0004459	0	Redox Activity
+GO:0004462	5	Lyase & Synthase Enzymes
+GO:0004467	0	Redox Activity
+GO:0004475	4	Kinases & Transferases
+GO:0004476	0	Redox Activity
+GO:0004477	1	Hydrolases & Phosphatases
+GO:0004478	4	Kinases & Transferases
+GO:0004479	3	RNA Processing
+GO:0004482	3	RNA Processing
+GO:0004483	3	RNA Processing
+GO:0004484	3	RNA Processing
+GO:0004488	0	Redox Activity
+GO:0004497	0	Redox Activity
+GO:0004499	0	Redox Activity
+GO:0004512	0	Redox Activity
+GO:0004514	4	Kinases & Transferases
+GO:0004515	4	Kinases & Transferases
+GO:0004516	0	Redox Activity
+GO:0004517	0	Redox Activity
+GO:0004518	1	Hydrolases & Phosphatases
+GO:0004519	1	Hydrolases & Phosphatases
+GO:0004520	1	Hydrolases & Phosphatases
+GO:0004521	1	Hydrolases & Phosphatases
+GO:0004522	1	Hydrolases & Phosphatases
+GO:0004523	1	Hydrolases & Phosphatases
+GO:0004525	1	Hydrolases & Phosphatases
+GO:0004526	1	Hydrolases & Phosphatases
+GO:0004527	1	Hydrolases & Phosphatases
+GO:0004528	1	Hydrolases & Phosphatases
+GO:0004530	1	Hydrolases & Phosphatases
+GO:0004532	1	Hydrolases & Phosphatases
+GO:0004534	1	Hydrolases & Phosphatases
+GO:0004535	1	Hydrolases & Phosphatases
+GO:0004536	1	Hydrolases & Phosphatases
+GO:0004540	1	Hydrolases & Phosphatases
+GO:0004550	4	Kinases & Transferases
+GO:0004553	1	Hydrolases & Phosphatases
+GO:0004568	1	Hydrolases & Phosphatases
+GO:0004576	4	Kinases & Transferases
+GO:0004577	4	Kinases & Transferases
+GO:0004579	4	Kinases & Transferases
+GO:0004582	4	Kinases & Transferases
+GO:0004585	4	Kinases & Transferases
+GO:0004586	5	Lyase & Synthase Enzymes
+GO:0004587	4	Kinases & Transferases
+GO:0004588	4	Kinases & Transferases
+GO:0004590	5	Lyase & Synthase Enzymes
+GO:0004591	0	Redox Activity
+GO:0004594	4	Kinases & Transferases
+GO:0004595	4	Kinases & Transferases
+GO:0004596	4	Kinases & Transferases
+GO:0004601	0	Redox Activity
+GO:0004602	0	Redox Activity
+GO:0004605	4	Kinases & Transferases
+GO:0004607	4	Kinases & Transferases
+GO:0004609	5	Lyase & Synthase Enzymes
+GO:0004610	0	Redox Activity
+GO:0004611	5	Lyase & Synthase Enzymes
+GO:0004612	5	Lyase & Synthase Enzymes
+GO:0004614	0	Redox Activity
+GO:0004615	0	Redox Activity
+GO:0004616	0	Redox Activity
+GO:0004618	4	Kinases & Transferases
+GO:0004619	0	Redox Activity
+GO:0004620	1	Hydrolases & Phosphatases
+GO:0004622	1	Hydrolases & Phosphatases
+GO:0004623	1	Hydrolases & Phosphatases
+GO:0004629	1	Hydrolases & Phosphatases
+GO:0004632	0	Redox Activity
+GO:0004633	5	Lyase & Synthase Enzymes
+GO:0004634	5	Lyase & Synthase Enzymes
+GO:0004651	1	Hydrolases & Phosphatases
+GO:0004655	5	Lyase & Synthase Enzymes
+GO:0004656	0	Redox Activity
+GO:0004659	4	Kinases & Transferases
+GO:0004660	4	Kinases & Transferases
+GO:0004661	4	Kinases & Transferases
+GO:0004663	4	Kinases & Transferases
+GO:0004671	4	Kinases & Transferases
+GO:0004672	4	Kinases & Transferases
+GO:0004674	4	Kinases & Transferases
+GO:0004679	4	Kinases & Transferases
+GO:0004683	4	Kinases & Transferases
+GO:0004686	4	Kinases & Transferases
+GO:0004691	4	Kinases & Transferases
+GO:0004692	4	Kinases & Transferases
+GO:0004693	4	Kinases & Transferases
+GO:0004694	4	Kinases & Transferases
+GO:0004707	4	Kinases & Transferases
+GO:0004708	4	Kinases & Transferases
+GO:0004712	4	Kinases & Transferases
+GO:0004713	4	Kinases & Transferases
+GO:0004715	4	Kinases & Transferases
+GO:0004719	4	Kinases & Transferases
+GO:0004721	1	Hydrolases & Phosphatases
+GO:0004722	1	Hydrolases & Phosphatases
+GO:0004723	1	Hydrolases & Phosphatases
+GO:0004724	1	Hydrolases & Phosphatases
+GO:0004725	1	Hydrolases & Phosphatases
+GO:0004729	0	Redox Activity
+GO:0004730	5	Lyase & Synthase Enzymes
+GO:0004731	4	Kinases & Transferases
+GO:0004735	0	Redox Activity
+GO:0004739	0	Redox Activity
+GO:0004742	4	Kinases & Transferases
+GO:0004743	4	Kinases & Transferases
+GO:0004748	0	Redox Activity
+GO:0004749	4	Kinases & Transferases
+GO:0004750	0	Redox Activity
+GO:0004751	0	Redox Activity
+GO:0004756	4	Kinases & Transferases
+GO:0004758	4	Kinases & Transferases
+GO:0004764	0	Redox Activity
+GO:0004765	4	Kinases & Transferases
+GO:0004766	4	Kinases & Transferases
+GO:0004767	1	Hydrolases & Phosphatases
+GO:0004768	0	Redox Activity
+GO:0004771	1	Hydrolases & Phosphatases
+GO:0004775	0	Redox Activity
+GO:0004776	0	Redox Activity
+GO:0004784	0	Redox Activity
+GO:0004788	4	Kinases & Transferases
+GO:0004789	4	Kinases & Transferases
+GO:0004791	0	Redox Activity
+GO:0004792	4	Kinases & Transferases
+GO:0004798	4	Kinases & Transferases
+GO:0004799	4	Kinases & Transferases
+GO:0004802	4	Kinases & Transferases
+GO:0004806	1	Hydrolases & Phosphatases
+GO:0004807	0	Redox Activity
+GO:0004808	3	RNA Processing
+GO:0004810	3	RNA Processing
+GO:0004812	3	RNA Processing
+GO:0004813	3	RNA Processing
+GO:0004814	3	RNA Processing
+GO:0004815	3	RNA Processing
+GO:0004816	3	RNA Processing
+GO:0004817	3	RNA Processing
+GO:0004818	3	RNA Processing
+GO:0004819	3	RNA Processing
+GO:0004820	3	RNA Processing
+GO:0004821	3	RNA Processing
+GO:0004822	3	RNA Processing
+GO:0004823	3	RNA Processing
+GO:0004824	3	RNA Processing
+GO:0004825	3	RNA Processing
+GO:0004826	3	RNA Processing
+GO:0004827	3	RNA Processing
+GO:0004828	3	RNA Processing
+GO:0004829	3	RNA Processing
+GO:0004830	3	RNA Processing
+GO:0004831	3	RNA Processing
+GO:0004832	3	RNA Processing
+GO:0004835	0	Redox Activity
+GO:0004839	3	RNA Processing
+GO:0004842	4	Kinases & Transferases
+GO:0004843	1	Hydrolases & Phosphatases
+GO:0004844	1	Hydrolases & Phosphatases
+GO:0004849	4	Kinases & Transferases
+GO:0004850	4	Kinases & Transferases
+GO:0004852	5	Lyase & Synthase Enzymes
+GO:0004853	5	Lyase & Synthase Enzymes
+GO:0004860	0	Redox Activity
+GO:0004864	0	Redox Activity
+GO:0004865	0	Redox Activity
+GO:0004866	0	Redox Activity
+GO:0004867	0	Redox Activity
+GO:0004869	0	Redox Activity
+GO:0004888	0	Redox Activity
+GO:0004930	0	Redox Activity
+GO:0005044	0	Redox Activity
+GO:0005046	2	DNA/RNA Binding & Polymerase Activity
+GO:0005047	2	DNA/RNA Binding & Polymerase Activity
+GO:0005048	2	DNA/RNA Binding & Polymerase Activity
+GO:0005049	0	Redox Activity
+GO:0005080	2	DNA/RNA Binding & Polymerase Activity
+GO:0005085	0	Redox Activity
+GO:0005092	0	Redox Activity
+GO:0005093	0	Redox Activity
+GO:0005096	0	Redox Activity
+GO:0005125	2	DNA/RNA Binding & Polymerase Activity
+GO:0005178	2	DNA/RNA Binding & Polymerase Activity
+GO:0005198	0	Redox Activity
+GO:0005200	0	Redox Activity
+GO:0005201	0	Redox Activity
+GO:0005215	6	Transporter & Channel Activity
+GO:0005227	6	Transporter & Channel Activity
+GO:0005249	6	Transporter & Channel Activity
+GO:0005253	6	Transporter & Channel Activity
+GO:0005262	6	Transporter & Channel Activity
+GO:0005267	6	Transporter & Channel Activity
+GO:0005310	6	Transporter & Channel Activity
+GO:0005315	6	Transporter & Channel Activity
+GO:0005319	6	Transporter & Channel Activity
+GO:0005324	6	Transporter & Channel Activity
+GO:0005328	6	Transporter & Channel Activity
+GO:0005337	6	Transporter & Channel Activity
+GO:0005338	6	Transporter & Channel Activity
+GO:0005344	0	Redox Activity
+GO:0005345	6	Transporter & Channel Activity
+GO:0005347	6	Transporter & Channel Activity
+GO:0005351	6	Transporter & Channel Activity
+GO:0005353	6	Transporter & Channel Activity
+GO:0005371	6	Transporter & Channel Activity
+GO:0005375	6	Transporter & Channel Activity
+GO:0005381	6	Transporter & Channel Activity
+GO:0005384	6	Transporter & Channel Activity
+GO:0005385	6	Transporter & Channel Activity
+GO:0005388	6	Transporter & Channel Activity
+GO:0005457	6	Transporter & Channel Activity
+GO:0005459	6	Transporter & Channel Activity
+GO:0005460	6	Transporter & Channel Activity
+GO:0005471	6	Transporter & Channel Activity
+GO:0005483	0	Redox Activity
+GO:0005484	0	Redox Activity
+GO:0005488	2	DNA/RNA Binding & Polymerase Activity
+GO:0005504	2	DNA/RNA Binding & Polymerase Activity
+GO:0005506	2	DNA/RNA Binding & Polymerase Activity
+GO:0005507	2	DNA/RNA Binding & Polymerase Activity
+GO:0005509	2	DNA/RNA Binding & Polymerase Activity
+GO:0005515	2	DNA/RNA Binding & Polymerase Activity
+GO:0005516	2	DNA/RNA Binding & Polymerase Activity
+GO:0005524	2	DNA/RNA Binding & Polymerase Activity
+GO:0005525	2	DNA/RNA Binding & Polymerase Activity
+GO:0005528	2	DNA/RNA Binding & Polymerase Activity
+GO:0005536	2	DNA/RNA Binding & Polymerase Activity
+GO:0005537	2	DNA/RNA Binding & Polymerase Activity
+GO:0005543	2	DNA/RNA Binding & Polymerase Activity
+GO:0005544	2	DNA/RNA Binding & Polymerase Activity
+GO:0005546	2	DNA/RNA Binding & Polymerase Activity
+GO:0005548	6	Transporter & Channel Activity
+GO:0008017	2	DNA/RNA Binding & Polymerase Activity
+GO:0008028	6	Transporter & Channel Activity
+GO:0008047	0	Redox Activity
+GO:0008061	2	DNA/RNA Binding & Polymerase Activity
+GO:0008080	4	Kinases & Transferases
+GO:0008081	1	Hydrolases & Phosphatases
+GO:0008083	2	DNA/RNA Binding & Polymerase Activity
+GO:0008092	2	DNA/RNA Binding & Polymerase Activity
+GO:0008094	3	RNA Processing
+GO:0008097	2	DNA/RNA Binding & Polymerase Activity
+GO:0008106	0	Redox Activity
+GO:0008121	6	Transporter & Channel Activity
+GO:0008124	5	Lyase & Synthase Enzymes
+GO:0008134	2	DNA/RNA Binding & Polymerase Activity
+GO:0008135	2	DNA/RNA Binding & Polymerase Activity
+GO:0008137	6	Transporter & Channel Activity
+GO:0008138	1	Hydrolases & Phosphatases
+GO:0008139	2	DNA/RNA Binding & Polymerase Activity
+GO:0008143	2	DNA/RNA Binding & Polymerase Activity
+GO:0008157	2	DNA/RNA Binding & Polymerase Activity
+GO:0008158	0	Redox Activity
+GO:0008160	0	Redox Activity
+GO:0008168	4	Kinases & Transferases
+GO:0008170	4	Kinases & Transferases
+GO:0008171	4	Kinases & Transferases
+GO:0008173	3	RNA Processing
+GO:0008175	3	RNA Processing
+GO:0008176	3	RNA Processing
+GO:0008177	0	Redox Activity
+GO:0008179	2	DNA/RNA Binding & Polymerase Activity
+GO:0008186	0	Redox Activity
+GO:0008187	2	DNA/RNA Binding & Polymerase Activity
+GO:0008193	3	RNA Processing
+GO:0008195	1	Hydrolases & Phosphatases
+GO:0008198	2	DNA/RNA Binding & Polymerase Activity
+GO:0008199	2	DNA/RNA Binding & Polymerase Activity
+GO:0008201	2	DNA/RNA Binding & Polymerase Activity
+GO:0008233	1	Hydrolases & Phosphatases
+GO:0008234	1	Hydrolases & Phosphatases
+GO:0008235	1	Hydrolases & Phosphatases
+GO:0008236	1	Hydrolases & Phosphatases
+GO:0008237	1	Hydrolases & Phosphatases
+GO:0008239	1	Hydrolases & Phosphatases
+GO:0008242	1	Hydrolases & Phosphatases
+GO:0008266	2	DNA/RNA Binding & Polymerase Activity
+GO:0008270	2	DNA/RNA Binding & Polymerase Activity
+GO:0008271	6	Transporter & Channel Activity
+GO:0008273	6	Transporter & Channel Activity
+GO:0008276	4	Kinases & Transferases
+GO:0008289	2	DNA/RNA Binding & Polymerase Activity
+GO:0008296	1	Hydrolases & Phosphatases
+GO:0008301	2	DNA/RNA Binding & Polymerase Activity
+GO:0008308	6	Transporter & Channel Activity
+GO:0008310	1	Hydrolases & Phosphatases
+GO:0008311	1	Hydrolases & Phosphatases
+GO:0008312	2	DNA/RNA Binding & Polymerase Activity
+GO:0008318	4	Kinases & Transferases
+GO:0008320	6	Transporter & Channel Activity
+GO:0008324	6	Transporter & Channel Activity
+GO:0008330	1	Hydrolases & Phosphatases
+GO:0008353	4	Kinases & Transferases
+GO:0008374	4	Kinases & Transferases
+GO:0008379	0	Redox Activity
+GO:0008381	6	Transporter & Channel Activity
+GO:0008408	1	Hydrolases & Phosphatases
+GO:0008409	1	Hydrolases & Phosphatases
+GO:0008412	4	Kinases & Transferases
+GO:0008419	1	Hydrolases & Phosphatases
+GO:0008420	1	Hydrolases & Phosphatases
+GO:0008425	4	Kinases & Transferases
+GO:0008426	0	Redox Activity
+GO:0008429	2	DNA/RNA Binding & Polymerase Activity
+GO:0008440	4	Kinases & Transferases
+GO:0008443	4	Kinases & Transferases
+GO:0008444	4	Kinases & Transferases
+GO:0008446	5	Lyase & Synthase Enzymes
+GO:0008452	3	RNA Processing
+GO:0008463	1	Hydrolases & Phosphatases
+GO:0008469	4	Kinases & Transferases
+GO:0008474	1	Hydrolases & Phosphatases
+GO:0008475	0	Redox Activity
+GO:0008478	4	Kinases & Transferases
+GO:0008479	3	RNA Processing
+GO:0008483	4	Kinases & Transferases
+GO:0008494	2	DNA/RNA Binding & Polymerase Activity
+GO:0008495	4	Kinases & Transferases
+GO:0008517	6	Transporter & Channel Activity
+GO:0008519	6	Transporter & Channel Activity
+GO:0008521	6	Transporter & Channel Activity
+GO:0008525	6	Transporter & Channel Activity
+GO:0008526	6	Transporter & Channel Activity
+GO:0008531	4	Kinases & Transferases
+GO:0008534	1	Hydrolases & Phosphatases
+GO:0008553	6	Transporter & Channel Activity
+GO:0008559	6	Transporter & Channel Activity
+GO:0008568	0	Redox Activity
+GO:0008569	0	Redox Activity
+GO:0008574	0	Redox Activity
+GO:0008597	0	Redox Activity
+GO:0008603	0	Redox Activity
+GO:0008641	3	RNA Processing
+GO:0008649	3	RNA Processing
+GO:0008650	3	RNA Processing
+GO:0008661	4	Kinases & Transferases
+GO:0008685	5	Lyase & Synthase Enzymes
+GO:0008696	5	Lyase & Synthase Enzymes
+GO:0008725	1	Hydrolases & Phosphatases
+GO:0008750	6	Transporter & Channel Activity
+GO:0008757	4	Kinases & Transferases
+GO:0008796	1	Hydrolases & Phosphatases
+GO:0008821	1	Hydrolases & Phosphatases
+GO:0008829	1	Hydrolases & Phosphatases
+GO:0008832	1	Hydrolases & Phosphatases
+GO:0008841	0	Redox Activity
+GO:0008854	1	Hydrolases & Phosphatases
+GO:0008859	1	Hydrolases & Phosphatases
+GO:0008865	4	Kinases & Transferases
+GO:0008889	1	Hydrolases & Phosphatases
+GO:0008897	4	Kinases & Transferases
+GO:0008898	4	Kinases & Transferases
+GO:0008902	4	Kinases & Transferases
+GO:0008914	4	Kinases & Transferases
+GO:0008923	5	Lyase & Synthase Enzymes
+GO:0008924	0	Redox Activity
+GO:0008934	1	Hydrolases & Phosphatases
+GO:0008936	1	Hydrolases & Phosphatases
+GO:0008937	0	Redox Activity
+GO:0008942	0	Redox Activity
+GO:0008963	4	Kinases & Transferases
+GO:0008964	5	Lyase & Synthase Enzymes
+GO:0008966	0	Redox Activity
+GO:0008967	1	Hydrolases & Phosphatases
+GO:0008970	1	Hydrolases & Phosphatases
+GO:0008972	4	Kinases & Transferases
+GO:0008989	3	RNA Processing
+GO:0009022	3	RNA Processing
+GO:0009041	4	Kinases & Transferases
+GO:0009055	0	Redox Activity
+GO:0009374	2	DNA/RNA Binding & Polymerase Activity
+GO:0009378	3	RNA Processing
+GO:0009383	3	RNA Processing
+GO:0009670	6	Transporter & Channel Activity
+GO:0009678	6	Transporter & Channel Activity
+GO:0009922	4	Kinases & Transferases
+GO:0009931	4	Kinases & Transferases
+GO:0009982	0	Redox Activity
+GO:0010181	2	DNA/RNA Binding & Polymerase Activity
+GO:0010314	2	DNA/RNA Binding & Polymerase Activity
+GO:0010484	4	Kinases & Transferases
+GO:0010485	4	Kinases & Transferases
+GO:0010997	2	DNA/RNA Binding & Polymerase Activity
+GO:0015035	0	Redox Activity
+GO:0015036	0	Redox Activity
+GO:0015038	0	Redox Activity
+GO:0015039	0	Redox Activity
+GO:0015078	6	Transporter & Channel Activity
+GO:0015086	6	Transporter & Channel Activity
+GO:0015091	6	Transporter & Channel Activity
+GO:0015093	6	Transporter & Channel Activity
+GO:0015095	6	Transporter & Channel Activity
+GO:0015097	6	Transporter & Channel Activity
+GO:0015116	6	Transporter & Channel Activity
+GO:0015136	6	Transporter & Channel Activity
+GO:0015145	6	Transporter & Channel Activity
+GO:0015149	6	Transporter & Channel Activity
+GO:0015165	6	Transporter & Channel Activity
+GO:0015171	6	Transporter & Channel Activity
+GO:0015181	6	Transporter & Channel Activity
+GO:0015211	6	Transporter & Channel Activity
+GO:0015220	6	Transporter & Channel Activity
+GO:0015230	6	Transporter & Channel Activity
+GO:0015233	6	Transporter & Channel Activity
+GO:0015250	6	Transporter & Channel Activity
+GO:0015267	6	Transporter & Channel Activity
+GO:0015269	6	Transporter & Channel Activity
+GO:0015293	6	Transporter & Channel Activity
+GO:0015295	6	Transporter & Channel Activity
+GO:0015297	6	Transporter & Channel Activity
+GO:0015367	6	Transporter & Channel Activity
+GO:0015369	6	Transporter & Channel Activity
+GO:0015385	6	Transporter & Channel Activity
+GO:0015386	6	Transporter & Channel Activity
+GO:0015421	6	Transporter & Channel Activity
+GO:0015446	6	Transporter & Channel Activity
+GO:0015450	6	Transporter & Channel Activity
+GO:0015485	2	DNA/RNA Binding & Polymerase Activity
+GO:0015513	6	Transporter & Channel Activity
+GO:0015520	6	Transporter & Channel Activity
+GO:0015616	3	RNA Processing
+GO:0015631	2	DNA/RNA Binding & Polymerase Activity
+GO:0015650	6	Transporter & Channel Activity
+GO:0015662	6	Transporter & Channel Activity
+GO:0015668	1	Hydrolases & Phosphatases
+GO:0015930	0	Redox Activity
+GO:0016018	2	DNA/RNA Binding & Polymerase Activity
+GO:0016040	0	Redox Activity
+GO:0016041	0	Redox Activity
+GO:0016149	2	DNA/RNA Binding & Polymerase Activity
+GO:0016208	2	DNA/RNA Binding & Polymerase Activity
+GO:0016209	0	Redox Activity
+GO:0016251	0	Redox Activity
+GO:0016273	4	Kinases & Transferases
+GO:0016274	4	Kinases & Transferases
+GO:0016279	4	Kinases & Transferases
+GO:0016287	4	Kinases & Transferases
+GO:0016298	1	Hydrolases & Phosphatases
+GO:0016300	3	RNA Processing
+GO:0016301	4	Kinases & Transferases
+GO:0016303	4	Kinases & Transferases
+GO:0016308	4	Kinases & Transferases
+GO:0016407	4	Kinases & Transferases
+GO:0016409	4	Kinases & Transferases
+GO:0016410	4	Kinases & Transferases
+GO:0016422	3	RNA Processing
+GO:0016423	3	RNA Processing
+GO:0016428	3	RNA Processing
+GO:0016435	3	RNA Processing
+GO:0016462	1	Hydrolases & Phosphatases
+GO:0016491	0	Redox Activity
+GO:0016504	0	Redox Activity
+GO:0016531	0	Redox Activity
+GO:0016538	0	Redox Activity
+GO:0016597	2	DNA/RNA Binding & Polymerase Activity
+GO:0016603	4	Kinases & Transferases
+GO:0016614	0	Redox Activity
+GO:0016615	0	Redox Activity
+GO:0016616	0	Redox Activity
+GO:0016620	0	Redox Activity
+GO:0016624	0	Redox Activity
+GO:0016627	0	Redox Activity
+GO:0016631	0	Redox Activity
+GO:0016638	0	Redox Activity
+GO:0016639	0	Redox Activity
+GO:0016653	0	Redox Activity
+GO:0016668	0	Redox Activity
+GO:0016671	0	Redox Activity
+GO:0016705	0	Redox Activity
+GO:0016706	0	Redox Activity
+GO:0016709	0	Redox Activity
+GO:0016715	0	Redox Activity
+GO:0016717	0	Redox Activity
+GO:0016740	4	Kinases & Transferases
+GO:0016741	4	Kinases & Transferases
+GO:0016742	4	Kinases & Transferases
+GO:0016743	4	Kinases & Transferases
+GO:0016744	4	Kinases & Transferases
+GO:0016746	4	Kinases & Transferases
+GO:0016747	4	Kinases & Transferases
+GO:0016757	4	Kinases & Transferases
+GO:0016758	4	Kinases & Transferases
+GO:0016763	4	Kinases & Transferases
+GO:0016765	4	Kinases & Transferases
+GO:0016767	4	Kinases & Transferases
+GO:0016772	4	Kinases & Transferases
+GO:0016773	4	Kinases & Transferases
+GO:0016776	4	Kinases & Transferases
+GO:0016779	4	Kinases & Transferases
+GO:0016780	4	Kinases & Transferases
+GO:0016783	4	Kinases & Transferases
+GO:0016785	4	Kinases & Transferases
+GO:0016787	1	Hydrolases & Phosphatases
+GO:0016788	1	Hydrolases & Phosphatases
+GO:0016791	1	Hydrolases & Phosphatases
+GO:0016798	1	Hydrolases & Phosphatases
+GO:0016799	1	Hydrolases & Phosphatases
+GO:0016805	1	Hydrolases & Phosphatases
+GO:0016810	1	Hydrolases & Phosphatases
+GO:0016811	1	Hydrolases & Phosphatases
+GO:0016812	1	Hydrolases & Phosphatases
+GO:0016813	1	Hydrolases & Phosphatases
+GO:0016817	1	Hydrolases & Phosphatases
+GO:0016818	1	Hydrolases & Phosphatases
+GO:0016829	5	Lyase & Synthase Enzymes
+GO:0016831	5	Lyase & Synthase Enzymes
+GO:0016836	5	Lyase & Synthase Enzymes
+GO:0016843	5	Lyase & Synthase Enzymes
+GO:0016853	0	Redox Activity
+GO:0016857	0	Redox Activity
+GO:0016866	0	Redox Activity
+GO:0016868	0	Redox Activity
+GO:0016874	0	Redox Activity
+GO:0016879	0	Redox Activity
+GO:0016881	0	Redox Activity
+GO:0016884	0	Redox Activity
+GO:0016887	1	Hydrolases & Phosphatases
+GO:0016888	1	Hydrolases & Phosphatases
+GO:0016889	1	Hydrolases & Phosphatases
+GO:0016891	1	Hydrolases & Phosphatases
+GO:0016929	1	Hydrolases & Phosphatases
+GO:0016971	0	Redox Activity
+GO:0016972	0	Redox Activity
+GO:0016977	1	Hydrolases & Phosphatases
+GO:0016979	4	Kinases & Transferases
+GO:0016984	5	Lyase & Synthase Enzymes
+GO:0016987	0	Redox Activity
+GO:0016992	4	Kinases & Transferases
+GO:0017017	1	Hydrolases & Phosphatases
+GO:0017018	1	Hydrolases & Phosphatases
+GO:0017022	2	DNA/RNA Binding & Polymerase Activity
+GO:0017025	2	DNA/RNA Binding & Polymerase Activity
+GO:0017056	0	Redox Activity
+GO:0017057	1	Hydrolases & Phosphatases
+GO:0017069	2	DNA/RNA Binding & Polymerase Activity
+GO:0017070	2	DNA/RNA Binding & Polymerase Activity
+GO:0017076	2	DNA/RNA Binding & Polymerase Activity
+GO:0017089	6	Transporter & Channel Activity
+GO:0017108	1	Hydrolases & Phosphatases
+GO:0017110	1	Hydrolases & Phosphatases
+GO:0017111	1	Hydrolases & Phosphatases
+GO:0017116	3	RNA Processing
+GO:0017118	4	Kinases & Transferases
+GO:0017124	2	DNA/RNA Binding & Polymerase Activity
+GO:0017125	4	Kinases & Transferases
+GO:0017128	6	Transporter & Channel Activity
+GO:0017134	2	DNA/RNA Binding & Polymerase Activity
+GO:0017136	1	Hydrolases & Phosphatases
+GO:0017150	3	RNA Processing
+GO:0017176	4	Kinases & Transferases
+GO:0017178	0	Redox Activity
+GO:0018454	0	Redox Activity
+GO:0018812	5	Lyase & Synthase Enzymes
+GO:0019001	2	DNA/RNA Binding & Polymerase Activity
+GO:0019103	2	DNA/RNA Binding & Polymerase Activity
+GO:0019104	1	Hydrolases & Phosphatases
+GO:0019107	4	Kinases & Transferases
+GO:0019135	0	Redox Activity
+GO:0019153	0	Redox Activity
+GO:0019158	4	Kinases & Transferases
+GO:0019171	5	Lyase & Synthase Enzymes
+GO:0019205	4	Kinases & Transferases
+GO:0019209	0	Redox Activity
+GO:0019211	0	Redox Activity
+GO:0019213	1	Hydrolases & Phosphatases
+GO:0019237	2	DNA/RNA Binding & Polymerase Activity
+GO:0019239	1	Hydrolases & Phosphatases
+GO:0019706	4	Kinases & Transferases
+GO:0019776	4	Kinases & Transferases
+GO:0019778	3	RNA Processing
+GO:0019779	3	RNA Processing
+GO:0019781	3	RNA Processing
+GO:0019784	1	Hydrolases & Phosphatases
+GO:0019786	1	Hydrolases & Phosphatases
+GO:0019787	4	Kinases & Transferases
+GO:0019788	4	Kinases & Transferases
+GO:0019789	4	Kinases & Transferases
+GO:0019799	4	Kinases & Transferases
+GO:0019829	6	Transporter & Channel Activity
+GO:0019843	2	DNA/RNA Binding & Polymerase Activity
+GO:0019887	0	Redox Activity
+GO:0019888	0	Redox Activity
+GO:0019899	2	DNA/RNA Binding & Polymerase Activity
+GO:0019900	2	DNA/RNA Binding & Polymerase Activity
+GO:0019901	2	DNA/RNA Binding & Polymerase Activity
+GO:0019903	2	DNA/RNA Binding & Polymerase Activity
+GO:0019904	2	DNA/RNA Binding & Polymerase Activity
+GO:0019905	2	DNA/RNA Binding & Polymerase Activity
+GO:0019948	3	RNA Processing
+GO:0019956	2	DNA/RNA Binding & Polymerase Activity
+GO:0020037	2	DNA/RNA Binding & Polymerase Activity
+GO:0022829	6	Transporter & Channel Activity
+GO:0022857	6	Transporter & Channel Activity
+GO:0030060	0	Redox Activity
+GO:0030145	2	DNA/RNA Binding & Polymerase Activity
+GO:0030170	2	DNA/RNA Binding & Polymerase Activity
+GO:0030234	0	Redox Activity
+GO:0030246	2	DNA/RNA Binding & Polymerase Activity
+GO:0030272	0	Redox Activity
+GO:0030276	2	DNA/RNA Binding & Polymerase Activity
+GO:0030295	0	Redox Activity
+GO:0030332	2	DNA/RNA Binding & Polymerase Activity
+GO:0030337	0	Redox Activity
+GO:0030414	0	Redox Activity
+GO:0030492	2	DNA/RNA Binding & Polymerase Activity
+GO:0030506	2	DNA/RNA Binding & Polymerase Activity
+GO:0030507	2	DNA/RNA Binding & Polymerase Activity
+GO:0030515	2	DNA/RNA Binding & Polymerase Activity
+GO:0030527	0	Redox Activity
+GO:0030544	2	DNA/RNA Binding & Polymerase Activity
+GO:0030552	2	DNA/RNA Binding & Polymerase Activity
+GO:0030553	2	DNA/RNA Binding & Polymerase Activity
+GO:0030554	2	DNA/RNA Binding & Polymerase Activity
+GO:0030604	0	Redox Activity
+GO:0030619	2	DNA/RNA Binding & Polymerase Activity
+GO:0030620	2	DNA/RNA Binding & Polymerase Activity
+GO:0030621	2	DNA/RNA Binding & Polymerase Activity
+GO:0030623	2	DNA/RNA Binding & Polymerase Activity
+GO:0030627	2	DNA/RNA Binding & Polymerase Activity
+GO:0030628	2	DNA/RNA Binding & Polymerase Activity
+GO:0030674	0	Redox Activity
+GO:0030695	0	Redox Activity
+GO:0030697	3	RNA Processing
+GO:0030732	4	Kinases & Transferases
+GO:0030735	4	Kinases & Transferases
+GO:0030743	3	RNA Processing
+GO:0030898	0	Redox Activity
+GO:0030942	2	DNA/RNA Binding & Polymerase Activity
+GO:0030943	2	DNA/RNA Binding & Polymerase Activity
+GO:0030955	2	DNA/RNA Binding & Polymerase Activity
+GO:0030975	2	DNA/RNA Binding & Polymerase Activity
+GO:0030976	2	DNA/RNA Binding & Polymerase Activity
+GO:0030983	2	DNA/RNA Binding & Polymerase Activity
+GO:0031071	4	Kinases & Transferases
+GO:0031072	2	DNA/RNA Binding & Polymerase Activity
+GO:0031210	2	DNA/RNA Binding & Polymerase Activity
+GO:0031267	2	DNA/RNA Binding & Polymerase Activity
+GO:0031369	2	DNA/RNA Binding & Polymerase Activity
+GO:0031386	0	Redox Activity
+GO:0031405	2	DNA/RNA Binding & Polymerase Activity
+GO:0031418	2	DNA/RNA Binding & Polymerase Activity
+GO:0031490	2	DNA/RNA Binding & Polymerase Activity
+GO:0031491	2	DNA/RNA Binding & Polymerase Activity
+GO:0031593	2	DNA/RNA Binding & Polymerase Activity
+GO:0031624	2	DNA/RNA Binding & Polymerase Activity
+GO:0031625	2	DNA/RNA Binding & Polymerase Activity
+GO:0031956	0	Redox Activity
+GO:0032041	1	Hydrolases & Phosphatases
+GO:0032051	2	DNA/RNA Binding & Polymerase Activity
+GO:0032216	4	Kinases & Transferases
+GO:0032266	2	DNA/RNA Binding & Polymerase Activity
+GO:0032357	2	DNA/RNA Binding & Polymerase Activity
+GO:0032451	0	Redox Activity
+GO:0032452	0	Redox Activity
+GO:0032549	2	DNA/RNA Binding & Polymerase Activity
+GO:0032559	2	DNA/RNA Binding & Polymerase Activity
+GO:0032934	2	DNA/RNA Binding & Polymerase Activity
+GO:0032977	0	Redox Activity
+GO:0033188	4	Kinases & Transferases
+GO:0033192	1	Hydrolases & Phosphatases
+GO:0033204	2	DNA/RNA Binding & Polymerase Activity
+GO:0033265	2	DNA/RNA Binding & Polymerase Activity
+GO:0033678	3	RNA Processing
+GO:0033679	3	RNA Processing
+GO:0033691	2	DNA/RNA Binding & Polymerase Activity
+GO:0033818	4	Kinases & Transferases
+GO:0033819	4	Kinases & Transferases
+GO:0033857	4	Kinases & Transferases
+GO:0033862	4	Kinases & Transferases
+GO:0034038	4	Kinases & Transferases
+GO:0034039	1	Hydrolases & Phosphatases
+GO:0034235	2	DNA/RNA Binding & Polymerase Activity
+GO:0034237	2	DNA/RNA Binding & Polymerase Activity
+GO:0034450	4	Kinases & Transferases
+GO:0034511	2	DNA/RNA Binding & Polymerase Activity
+GO:0034513	2	DNA/RNA Binding & Polymerase Activity
+GO:0034647	0	Redox Activity
+GO:0034979	1	Hydrolases & Phosphatases
+GO:0035064	2	DNA/RNA Binding & Polymerase Activity
+GO:0035091	2	DNA/RNA Binding & Polymerase Activity
+GO:0035241	4	Kinases & Transferases
+GO:0035299	4	Kinases & Transferases
+GO:0035312	1	Hydrolases & Phosphatases
+GO:0035368	2	DNA/RNA Binding & Polymerase Activity
+GO:0035373	2	DNA/RNA Binding & Polymerase Activity
+GO:0035485	2	DNA/RNA Binding & Polymerase Activity
+GO:0035529	1	Hydrolases & Phosphatases
+GO:0035596	4	Kinases & Transferases
+GO:0035598	4	Kinases & Transferases
+GO:0035615	0	Redox Activity
+GO:0035650	2	DNA/RNA Binding & Polymerase Activity
+GO:0036002	2	DNA/RNA Binding & Polymerase Activity
+GO:0036054	1	Hydrolases & Phosphatases
+GO:0036055	1	Hydrolases & Phosphatases
+GO:0036218	1	Hydrolases & Phosphatases
+GO:0036310	2	DNA/RNA Binding & Polymerase Activity
+GO:0036381	5	Lyase & Synthase Enzymes
+GO:0036402	0	Redox Activity
+GO:0036524	1	Hydrolases & Phosphatases
+GO:0038023	0	Redox Activity
+GO:0042054	4	Kinases & Transferases
+GO:0042134	2	DNA/RNA Binding & Polymerase Activity
+GO:0042162	2	DNA/RNA Binding & Polymerase Activity
+GO:0042292	3	RNA Processing
+GO:0042392	1	Hydrolases & Phosphatases
+GO:0042393	2	DNA/RNA Binding & Polymerase Activity
+GO:0042500	1	Hydrolases & Phosphatases
+GO:0042577	1	Hydrolases & Phosphatases
+GO:0042578	1	Hydrolases & Phosphatases
+GO:0042586	1	Hydrolases & Phosphatases
+GO:0042625	6	Transporter & Channel Activity
+GO:0042626	6	Transporter & Channel Activity
+GO:0042781	1	Hydrolases & Phosphatases
+GO:0042800	4	Kinases & Transferases
+GO:0042802	2	DNA/RNA Binding & Polymerase Activity
+GO:0042803	2	DNA/RNA Binding & Polymerase Activity
+GO:0042826	2	DNA/RNA Binding & Polymerase Activity
+GO:0042910	6	Transporter & Channel Activity
+GO:0043014	2	DNA/RNA Binding & Polymerase Activity
+GO:0043015	2	DNA/RNA Binding & Polymerase Activity
+GO:0043021	2	DNA/RNA Binding & Polymerase Activity
+GO:0043022	2	DNA/RNA Binding & Polymerase Activity
+GO:0043023	2	DNA/RNA Binding & Polymerase Activity
+GO:0043024	2	DNA/RNA Binding & Polymerase Activity
+GO:0043047	2	DNA/RNA Binding & Polymerase Activity
+GO:0043130	2	DNA/RNA Binding & Polymerase Activity
+GO:0043136	1	Hydrolases & Phosphatases
+GO:0043138	3	RNA Processing
+GO:0043139	3	RNA Processing
+GO:0043169	2	DNA/RNA Binding & Polymerase Activity
+GO:0043175	2	DNA/RNA Binding & Polymerase Activity
+GO:0043274	2	DNA/RNA Binding & Polymerase Activity
+GO:0043295	2	DNA/RNA Binding & Polymerase Activity
+GO:0043395	2	DNA/RNA Binding & Polymerase Activity
+GO:0043495	0	Redox Activity
+GO:0043531	2	DNA/RNA Binding & Polymerase Activity
+GO:0043565	2	DNA/RNA Binding & Polymerase Activity
+GO:0043758	0	Redox Activity
+GO:0043768	5	Lyase & Synthase Enzymes
+GO:0043812	1	Hydrolases & Phosphatases
+GO:0043813	1	Hydrolases & Phosphatases
+GO:0043906	1	Hydrolases & Phosphatases
+GO:0043915	3	RNA Processing
+GO:0043916	1	Hydrolases & Phosphatases
+GO:0043998	4	Kinases & Transferases
+GO:0044183	0	Redox Activity
+GO:0044389	2	DNA/RNA Binding & Polymerase Activity
+GO:0044390	2	DNA/RNA Binding & Polymerase Activity
+GO:0044547	2	DNA/RNA Binding & Polymerase Activity
+GO:0044548	2	DNA/RNA Binding & Polymerase Activity
+GO:0044877	2	DNA/RNA Binding & Polymerase Activity
+GO:0045015	2	DNA/RNA Binding & Polymerase Activity
+GO:0045131	2	DNA/RNA Binding & Polymerase Activity
+GO:0045134	1	Hydrolases & Phosphatases
+GO:0045145	1	Hydrolases & Phosphatases
+GO:0045153	6	Transporter & Channel Activity
+GO:0045182	0	Redox Activity
+GO:0045503	2	DNA/RNA Binding & Polymerase Activity
+GO:0045504	2	DNA/RNA Binding & Polymerase Activity
+GO:0045505	2	DNA/RNA Binding & Polymerase Activity
+GO:0045735	0	Redox Activity
+GO:0046403	1	Hydrolases & Phosphatases
+GO:0046404	4	Kinases & Transferases
+GO:0046429	0	Redox Activity
+GO:0046523	0	Redox Activity
+GO:0046592	0	Redox Activity
+GO:0046625	2	DNA/RNA Binding & Polymerase Activity
+GO:0046789	2	DNA/RNA Binding & Polymerase Activity
+GO:0046812	2	DNA/RNA Binding & Polymerase Activity
+GO:0046820	4	Kinases & Transferases
+GO:0046872	2	DNA/RNA Binding & Polymerase Activity
+GO:0046873	6	Transporter & Channel Activity
+GO:0046899	4	Kinases & Transferases
+GO:0046912	4	Kinases & Transferases
+GO:0046914	2	DNA/RNA Binding & Polymerase Activity
+GO:0046922	4	Kinases & Transferases
+GO:0046923	2	DNA/RNA Binding & Polymerase Activity
+GO:0046933	6	Transporter & Channel Activity
+GO:0046936	1	Hydrolases & Phosphatases
+GO:0046961	6	Transporter & Channel Activity
+GO:0046974	4	Kinases & Transferases
+GO:0046975	4	Kinases & Transferases
+GO:0046982	2	DNA/RNA Binding & Polymerase Activity
+GO:0046983	2	DNA/RNA Binding & Polymerase Activity
+GO:0047131	0	Redox Activity
+GO:0047134	0	Redox Activity
+GO:0047334	4	Kinases & Transferases
+GO:0047372	1	Hydrolases & Phosphatases
+GO:0047429	1	Hydrolases & Phosphatases
+GO:0047453	5	Lyase & Synthase Enzymes
+GO:0047493	4	Kinases & Transferases
+GO:0047555	1	Hydrolases & Phosphatases
+GO:0047617	1	Hydrolases & Phosphatases
+GO:0047710	1	Hydrolases & Phosphatases
+GO:0047822	0	Redox Activity
+GO:0047834	0	Redox Activity
+GO:0047874	1	Hydrolases & Phosphatases
+GO:0047952	0	Redox Activity
+GO:0048027	2	DNA/RNA Binding & Polymerase Activity
+GO:0048029	2	DNA/RNA Binding & Polymerase Activity
+GO:0048039	2	DNA/RNA Binding & Polymerase Activity
+GO:0048256	1	Hydrolases & Phosphatases
+GO:0048257	1	Hydrolases & Phosphatases
+GO:0048306	2	DNA/RNA Binding & Polymerase Activity
+GO:0048487	2	DNA/RNA Binding & Polymerase Activity
+GO:0050178	0	Redox Activity
+GO:0050277	4	Kinases & Transferases
+GO:0050291	4	Kinases & Transferases
+GO:0050308	1	Hydrolases & Phosphatases
+GO:0050321	4	Kinases & Transferases
+GO:0050483	1	Hydrolases & Phosphatases
+GO:0050515	4	Kinases & Transferases
+GO:0050518	4	Kinases & Transferases
+GO:0050567	3	RNA Processing
+GO:0050577	0	Redox Activity
+GO:0050660	2	DNA/RNA Binding & Polymerase Activity
+GO:0050661	2	DNA/RNA Binding & Polymerase Activity
+GO:0050693	2	DNA/RNA Binding & Polymerase Activity
+GO:0050699	2	DNA/RNA Binding & Polymerase Activity
+GO:0050833	6	Transporter & Channel Activity
+GO:0050839	2	DNA/RNA Binding & Polymerase Activity
+GO:0050897	2	DNA/RNA Binding & Polymerase Activity
+GO:0051010	2	DNA/RNA Binding & Polymerase Activity
+GO:0051015	2	DNA/RNA Binding & Polymerase Activity
+GO:0051019	2	DNA/RNA Binding & Polymerase Activity
+GO:0051020	2	DNA/RNA Binding & Polymerase Activity
+GO:0051082	2	DNA/RNA Binding & Polymerase Activity
+GO:0051087	2	DNA/RNA Binding & Polymerase Activity
+GO:0051117	2	DNA/RNA Binding & Polymerase Activity
+GO:0051213	0	Redox Activity
+GO:0051287	2	DNA/RNA Binding & Polymerase Activity
+GO:0051377	4	Kinases & Transferases
+GO:0051499	1	Hydrolases & Phosphatases
+GO:0051500	1	Hydrolases & Phosphatases
+GO:0051536	2	DNA/RNA Binding & Polymerase Activity
+GO:0051537	2	DNA/RNA Binding & Polymerase Activity
+GO:0051538	2	DNA/RNA Binding & Polymerase Activity
+GO:0051539	2	DNA/RNA Binding & Polymerase Activity
+GO:0051721	2	DNA/RNA Binding & Polymerase Activity
+GO:0051731	4	Kinases & Transferases
+GO:0051745	0	Redox Activity
+GO:0051751	4	Kinases & Transferases
+GO:0051765	4	Kinases & Transferases
+GO:0051787	2	DNA/RNA Binding & Polymerase Activity
+GO:0051861	2	DNA/RNA Binding & Polymerase Activity
+GO:0051864	0	Redox Activity
+GO:0051879	2	DNA/RNA Binding & Polymerase Activity
+GO:0051880	2	DNA/RNA Binding & Polymerase Activity
+GO:0051920	0	Redox Activity
+GO:0051959	2	DNA/RNA Binding & Polymerase Activity
+GO:0051998	4	Kinases & Transferases
+GO:0052381	3	RNA Processing
+GO:0052657	4	Kinases & Transferases
+GO:0052658	1	Hydrolases & Phosphatases
+GO:0052659	1	Hydrolases & Phosphatases
+GO:0052717	1	Hydrolases & Phosphatases
+GO:0052723	4	Kinases & Transferases
+GO:0052724	4	Kinases & Transferases
+GO:0052739	1	Hydrolases & Phosphatases
+GO:0052742	4	Kinases & Transferases
+GO:0052821	1	Hydrolases & Phosphatases
+GO:0052822	1	Hydrolases & Phosphatases
+GO:0052832	1	Hydrolases & Phosphatases
+GO:0052833	1	Hydrolases & Phosphatases
+GO:0052855	5	Lyase & Synthase Enzymes
+GO:0052856	0	Redox Activity
+GO:0052905	3	RNA Processing
+GO:0052906	3	RNA Processing
+GO:0052907	3	RNA Processing
+GO:0052909	3	RNA Processing
+GO:0052927	3	RNA Processing
+GO:0052928	3	RNA Processing
+GO:0052929	3	RNA Processing
+GO:0055056	6	Transporter & Channel Activity
+GO:0060090	0	Redox Activity
+GO:0060590	0	Redox Activity
+GO:0061133	0	Redox Activity
+GO:0061513	6	Transporter & Channel Activity
+GO:0061575	0	Redox Activity
+GO:0061578	1	Hydrolases & Phosphatases
+GO:0061608	0	Redox Activity
+GO:0061630	4	Kinases & Transferases
+GO:0061631	4	Kinases & Transferases
+GO:0061656	4	Kinases & Transferases
+GO:0061665	4	Kinases & Transferases
+GO:0061685	1	Hydrolases & Phosphatases
+GO:0061710	4	Kinases & Transferases
+GO:0061711	4	Kinases & Transferases
+GO:0061712	3	RNA Processing
+GO:0061863	4	Kinases & Transferases
+GO:0062072	2	DNA/RNA Binding & Polymerase Activity
+GO:0070006	1	Hydrolases & Phosphatases
+GO:0070034	2	DNA/RNA Binding & Polymerase Activity
+GO:0070037	3	RNA Processing
+GO:0070042	3	RNA Processing
+GO:0070063	2	DNA/RNA Binding & Polymerase Activity
+GO:0070064	2	DNA/RNA Binding & Polymerase Activity
+GO:0070180	2	DNA/RNA Binding & Polymerase Activity
+GO:0070181	2	DNA/RNA Binding & Polymerase Activity
+GO:0070182	2	DNA/RNA Binding & Polymerase Activity
+GO:0070280	2	DNA/RNA Binding & Polymerase Activity
+GO:0070281	2	DNA/RNA Binding & Polymerase Activity
+GO:0070282	2	DNA/RNA Binding & Polymerase Activity
+GO:0070290	1	Hydrolases & Phosphatases
+GO:0070402	2	DNA/RNA Binding & Polymerase Activity
+GO:0070403	2	DNA/RNA Binding & Polymerase Activity
+GO:0070530	2	DNA/RNA Binding & Polymerase Activity
+GO:0070567	4	Kinases & Transferases
+GO:0070569	4	Kinases & Transferases
+GO:0070577	2	DNA/RNA Binding & Polymerase Activity
+GO:0070615	3	RNA Processing
+GO:0070626	5	Lyase & Synthase Enzymes
+GO:0070628	2	DNA/RNA Binding & Polymerase Activity
+GO:0070733	4	Kinases & Transferases
+GO:0070740	0	Redox Activity
+GO:0070840	2	DNA/RNA Binding & Polymerase Activity
+GO:0070905	2	DNA/RNA Binding & Polymerase Activity
+GO:0071074	2	DNA/RNA Binding & Polymerase Activity
+GO:0071164	3	RNA Processing
+GO:0071207	2	DNA/RNA Binding & Polymerase Activity
+GO:0071424	3	RNA Processing
+GO:0071889	2	DNA/RNA Binding & Polymerase Activity
+GO:0071949	2	DNA/RNA Binding & Polymerase Activity
+GO:0072587	0	Redox Activity
+GO:0080025	2	DNA/RNA Binding & Polymerase Activity
+GO:0080084	2	DNA/RNA Binding & Polymerase Activity
+GO:0090560	4	Kinases & Transferases
+GO:0097023	5	Lyase & Synthase Enzymes
+GO:0097027	0	Redox Activity
+GO:0097157	2	DNA/RNA Binding & Polymerase Activity
+GO:0097177	2	DNA/RNA Binding & Polymerase Activity
+GO:0097367	2	DNA/RNA Binding & Polymerase Activity
+GO:0097602	2	DNA/RNA Binding & Polymerase Activity
+GO:0098505	2	DNA/RNA Binding & Polymerase Activity
+GO:0098808	2	DNA/RNA Binding & Polymerase Activity
+GO:0099122	2	DNA/RNA Binding & Polymerase Activity
+GO:0101005	1	Hydrolases & Phosphatases
+GO:0102009	1	Hydrolases & Phosphatases
+GO:0102092	4	Kinases & Transferases
+GO:0102158	5	Lyase & Synthase Enzymes
+GO:0102265	3	RNA Processing
+GO:0102389	0	Redox Activity
+GO:0102391	0	Redox Activity
+GO:0102521	5	Lyase & Synthase Enzymes
+GO:0102522	3	RNA Processing
+GO:0102545	1	Hydrolases & Phosphatases
+GO:0102555	4	Kinases & Transferases
+GO:0102567	1	Hydrolases & Phosphatases
+GO:0102568	1	Hydrolases & Phosphatases
+GO:0103026	1	Hydrolases & Phosphatases
+GO:0103045	4	Kinases & Transferases
+GO:0106026	1	Hydrolases & Phosphatases
+GO:0106029	3	RNA Processing
+GO:0106050	3	RNA Processing
+GO:0106153	2	DNA/RNA Binding & Polymerase Activity
+GO:0106222	2	DNA/RNA Binding & Polymerase Activity
+GO:0106245	4	Kinases & Transferases
+GO:0106306	1	Hydrolases & Phosphatases
+GO:0106307	1	Hydrolases & Phosphatases
+GO:0106310	4	Kinases & Transferases
+GO:0106311	4	Kinases & Transferases
+GO:0106388	3	RNA Processing
+GO:0120013	6	Transporter & Channel Activity
+GO:0140078	5	Lyase & Synthase Enzymes
+GO:0140312	0	Redox Activity
+GO:0140326	6	Transporter & Channel Activity
+GO:0140345	6	Transporter & Channel Activity
+GO:0140359	6	Transporter & Channel Activity
+GO:0140657	0	Redox Activity
+GO:0140658	3	RNA Processing
+GO:0140662	0	Redox Activity
+GO:0140663	0	Redox Activity
+GO:0140664	3	RNA Processing
+GO:1902387	2	DNA/RNA Binding & Polymerase Activity
+GO:1902388	6	Transporter & Channel Activity
+GO:1904047	2	DNA/RNA Binding & Polymerase Activity
+GO:1905394	2	DNA/RNA Binding & Polymerase Activity
+GO:1990050	6	Transporter & Channel Activity
+GO:1990189	4	Kinases & Transferases
+GO:1990190	4	Kinases & Transferases
+GO:1990247	0	Redox Activity
+GO:1990259	4	Kinases & Transferases
+GO:1990275	2	DNA/RNA Binding & Polymerase Activity
+GO:1990380	1	Hydrolases & Phosphatases
+GO:1990381	2	DNA/RNA Binding & Polymerase Activity
+GO:1990583	0	Redox Activity
+GO:1990757	0	Redox Activity
+GO:1990817	4	Kinases & Transferases
+GO:1990825	2	DNA/RNA Binding & Polymerase Activity
+GO:1990883	4	Kinases & Transferases
+GO:1990939	0	Redox Activity
+GO:2001070	2	DNA/RNA Binding & Polymerase Activity
+GO:0000295	6	Transporter & Channel Activity
+GO:0001098	2	DNA/RNA Binding & Polymerase Activity
+GO:0003913	5	Lyase & Synthase Enzymes
+GO:0004112	1	Hydrolases & Phosphatases
+GO:0004549	1	Hydrolases & Phosphatases
+GO:0004857	0	Redox Activity
+GO:0005216	6	Transporter & Channel Activity
+GO:0005225	6	Transporter & Channel Activity
+GO:0005244	6	Transporter & Channel Activity
+GO:0005254	6	Transporter & Channel Activity
+GO:0005261	6	Transporter & Channel Activity
+GO:0005342	6	Transporter & Channel Activity
+GO:0005346	6	Transporter & Channel Activity
+GO:0008169	4	Kinases & Transferases
+GO:0008174	3	RNA Processing
+GO:0008238	1	Hydrolases & Phosphatases
+GO:0008252	1	Hydrolases & Phosphatases
+GO:0008253	1	Hydrolases & Phosphatases
+GO:0008375	4	Kinases & Transferases
+GO:0008417	4	Kinases & Transferases
+GO:0008509	6	Transporter & Channel Activity
+GO:0008514	6	Transporter & Channel Activity
+GO:0015075	6	Transporter & Channel Activity
+GO:0015081	6	Transporter & Channel Activity
+GO:0015101	6	Transporter & Channel Activity
+GO:0015103	6	Transporter & Channel Activity
+GO:0015108	6	Transporter & Channel Activity
+GO:0015144	6	Transporter & Channel Activity
+GO:0015205	6	Transporter & Channel Activity
+GO:0015215	6	Transporter & Channel Activity
+GO:0015216	6	Transporter & Channel Activity
+GO:0015217	6	Transporter & Channel Activity
+GO:0015252	6	Transporter & Channel Activity
+GO:0015291	6	Transporter & Channel Activity
+GO:0015399	6	Transporter & Channel Activity
+GO:0015453	6	Transporter & Channel Activity
+GO:0015605	6	Transporter & Channel Activity
+GO:0015932	6	Transporter & Channel Activity
+GO:0016278	4	Kinases & Transferases
+GO:0016289	1	Hydrolases & Phosphatases
+GO:0016634	0	Redox Activity
+GO:0016651	0	Redox Activity
+GO:0016667	0	Redox Activity
+GO:0016675	0	Redox Activity
+GO:0016684	0	Redox Activity
+GO:0016701	0	Redox Activity
+GO:0016731	0	Redox Activity
+GO:0016755	4	Kinases & Transferases
+GO:0016769	4	Kinases & Transferases
+GO:0016778	4	Kinases & Transferases
+GO:0016782	4	Kinases & Transferases
+GO:0016790	1	Hydrolases & Phosphatases
+GO:0016796	1	Hydrolases & Phosphatases
+GO:0016832	5	Lyase & Synthase Enzymes
+GO:0016835	5	Lyase & Synthase Enzymes
+GO:0016840	5	Lyase & Synthase Enzymes
+GO:0016849	5	Lyase & Synthase Enzymes
+GO:0016854	0	Redox Activity
+GO:0016859	0	Redox Activity
+GO:0016860	0	Redox Activity
+GO:0016862	0	Redox Activity
+GO:0016864	0	Redox Activity
+GO:0016875	0	Redox Activity
+GO:0016877	0	Redox Activity
+GO:0016878	0	Redox Activity
+GO:0016893	1	Hydrolases & Phosphatases
+GO:0016894	1	Hydrolases & Phosphatases
+GO:0017171	1	Hydrolases & Phosphatases
+GO:0019203	1	Hydrolases & Phosphatases
+GO:0019207	0	Redox Activity
+GO:0019208	0	Redox Activity
+GO:0019783	1	Hydrolases & Phosphatases
+GO:0019842	2	DNA/RNA Binding & Polymerase Activity
+GO:0019902	2	DNA/RNA Binding & Polymerase Activity
+GO:0022803	6	Transporter & Channel Activity
+GO:0022804	6	Transporter & Channel Activity
+GO:0022832	6	Transporter & Channel Activity
+GO:0022834	6	Transporter & Channel Activity
+GO:0022836	6	Transporter & Channel Activity
+GO:0022839	6	Transporter & Channel Activity
+GO:0022843	6	Transporter & Channel Activity
+GO:0022853	6	Transporter & Channel Activity
+GO:0022884	6	Transporter & Channel Activity
+GO:0022890	6	Transporter & Channel Activity
+GO:0030545	0	Redox Activity
+GO:0030546	0	Redox Activity
+GO:0032182	2	DNA/RNA Binding & Polymerase Activity
+GO:0032553	2	DNA/RNA Binding & Polymerase Activity
+GO:0032555	2	DNA/RNA Binding & Polymerase Activity
+GO:0032561	2	DNA/RNA Binding & Polymerase Activity
+GO:0033218	2	DNA/RNA Binding & Polymerase Activity
+GO:0033549	1	Hydrolases & Phosphatases
+GO:0033558	1	Hydrolases & Phosphatases
+GO:0034061	3	RNA Processing
+GO:0034062	3	RNA Processing
+GO:0034212	4	Kinases & Transferases
+GO:0035639	2	DNA/RNA Binding & Polymerase Activity
+GO:0036094	2	DNA/RNA Binding & Polymerase Activity
+GO:0042277	2	DNA/RNA Binding & Polymerase Activity
+GO:0043168	2	DNA/RNA Binding & Polymerase Activity
+GO:0043178	2	DNA/RNA Binding & Polymerase Activity
+GO:0043539	0	Redox Activity
+GO:0044620	2	DNA/RNA Binding & Polymerase Activity
+GO:0046906	2	DNA/RNA Binding & Polymerase Activity
+GO:0046915	6	Transporter & Channel Activity
+GO:0046943	6	Transporter & Channel Activity
+GO:0048018	2	DNA/RNA Binding & Polymerase Activity
+GO:0048038	2	DNA/RNA Binding & Polymerase Activity
+GO:0050145	4	Kinases & Transferases
+GO:0051192	2	DNA/RNA Binding & Polymerase Activity
+GO:0051540	2	DNA/RNA Binding & Polymerase Activity
+GO:0052689	1	Hydrolases & Phosphatases
+GO:0060589	0	Redox Activity
+GO:0061134	0	Redox Activity
+GO:0061135	0	Redox Activity
+GO:0061659	4	Kinases & Transferases
+GO:0062105	3	RNA Processing
+GO:0070001	1	Hydrolases & Phosphatases
+GO:0070003	1	Hydrolases & Phosphatases
+GO:0070008	1	Hydrolases & Phosphatases
+GO:0070279	2	DNA/RNA Binding & Polymerase Activity
+GO:0070566	4	Kinases & Transferases
+GO:0071568	4	Kinases & Transferases
+GO:0071617	4	Kinases & Transferases
+GO:0072341	2	DNA/RNA Binding & Polymerase Activity
+GO:0090079	2	DNA/RNA Binding & Polymerase Activity
+GO:0097159	2	DNA/RNA Binding & Polymerase Activity
+GO:0097747	3	RNA Processing
+GO:0098847	2	DNA/RNA Binding & Polymerase Activity
+GO:0099094	6	Transporter & Channel Activity
+GO:0099095	6	Transporter & Channel Activity
+GO:0120014	6	Transporter & Channel Activity
+GO:0140030	2	DNA/RNA Binding & Polymerase Activity
+GO:0140034	2	DNA/RNA Binding & Polymerase Activity
+GO:0140096	0	Redox Activity
+GO:0140097	3	RNA Processing
+GO:0140098	3	RNA Processing
+GO:0140101	3	RNA Processing
+GO:0140102	3	RNA Processing
+GO:0140296	2	DNA/RNA Binding & Polymerase Activity
+GO:0140299	0	Redox Activity
+GO:0140318	6	Transporter & Channel Activity
+GO:0140414	0	Redox Activity
+GO:0140457	0	Redox Activity
+GO:0140597	0	Redox Activity
+GO:0140612	0	Redox Activity
+GO:0140640	3	RNA Processing
+GO:0140677	0	Redox Activity
+GO:0140678	0	Redox Activity
+GO:0140993	0	Redox Activity
+GO:0141147	6	Transporter & Channel Activity
+GO:1901265	2	DNA/RNA Binding & Polymerase Activity
+GO:1901363	2	DNA/RNA Binding & Polymerase Activity
+GO:1901474	6	Transporter & Channel Activity
+GO:1901505	6	Transporter & Channel Activity
+GO:1901682	6	Transporter & Channel Activity
+GO:1901981	2	DNA/RNA Binding & Polymerase Activity
+GO:1902936	2	DNA/RNA Binding & Polymerase Activity
+GO:1990837	2	DNA/RNA Binding & Polymerase Activity

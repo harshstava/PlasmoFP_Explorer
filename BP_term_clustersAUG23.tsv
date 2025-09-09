@@ -1,0 +1,1910 @@
+GO_ID	ClusterID	ClusterName
+GO:0000019	2	Regulation of Biological Processes
+GO:0000027	5	Macromolecular Complex Assembly & Organization
+GO:0000028	5	Macromolecular Complex Assembly & Organization
+GO:0000032	7	Nucleotide Metabolism & Biosynthesis
+GO:0000045	5	Macromolecular Complex Assembly & Organization
+GO:0000054	3	Protein Transport & Localization
+GO:0000055	3	Protein Transport & Localization
+GO:0000056	3	Protein Transport & Localization
+GO:0000070	5	Macromolecular Complex Assembly & Organization
+GO:0000077	2	Regulation of Biological Processes
+GO:0000079	2	Regulation of Biological Processes
+GO:0000082	1	Cellular & Host Stress Response
+GO:0000086	1	Cellular & Host Stress Response
+GO:0000105	4	Amino Acid & Fatty Acid Metabolism
+GO:0000122	2	Regulation of Biological Processes
+GO:0000154	0	RNA Processing & Modification
+GO:0000162	4	Amino Acid & Fatty Acid Metabolism
+GO:0000165	2	Regulation of Biological Processes
+GO:0000184	0	RNA Processing & Modification
+GO:0000209	0	RNA Processing & Modification
+GO:0000212	5	Macromolecular Complex Assembly & Organization
+GO:0000226	5	Macromolecular Complex Assembly & Organization
+GO:0000244	5	Macromolecular Complex Assembly & Organization
+GO:0000245	5	Macromolecular Complex Assembly & Organization
+GO:0000256	4	Amino Acid & Fatty Acid Metabolism
+GO:0000266	5	Macromolecular Complex Assembly & Organization
+GO:0000278	1	Cellular & Host Stress Response
+GO:0000280	5	Macromolecular Complex Assembly & Organization
+GO:0000281	1	Cellular & Host Stress Response
+GO:0000288	2	Regulation of Biological Processes
+GO:0000289	0	RNA Processing & Modification
+GO:0000290	0	RNA Processing & Modification
+GO:0000302	1	Cellular & Host Stress Response
+GO:0000304	1	Cellular & Host Stress Response
+GO:0000338	0	RNA Processing & Modification
+GO:0000349	5	Macromolecular Complex Assembly & Organization
+GO:0000350	5	Macromolecular Complex Assembly & Organization
+GO:0000354	5	Macromolecular Complex Assembly & Organization
+GO:0000375	0	RNA Processing & Modification
+GO:0000379	0	RNA Processing & Modification
+GO:0000380	0	RNA Processing & Modification
+GO:0000381	2	Regulation of Biological Processes
+GO:0000387	5	Macromolecular Complex Assembly & Organization
+GO:0000389	5	Macromolecular Complex Assembly & Organization
+GO:0000390	5	Macromolecular Complex Assembly & Organization
+GO:0000395	5	Macromolecular Complex Assembly & Organization
+GO:0000398	0	RNA Processing & Modification
+GO:0000413	0	RNA Processing & Modification
+GO:0000422	4	Amino Acid & Fatty Acid Metabolism
+GO:0000447	0	RNA Processing & Modification
+GO:0000448	0	RNA Processing & Modification
+GO:0000454	0	RNA Processing & Modification
+GO:0000455	0	RNA Processing & Modification
+GO:0000460	0	RNA Processing & Modification
+GO:0000461	0	RNA Processing & Modification
+GO:0000462	0	RNA Processing & Modification
+GO:0000463	0	RNA Processing & Modification
+GO:0000466	0	RNA Processing & Modification
+GO:0000467	0	RNA Processing & Modification
+GO:0000470	0	RNA Processing & Modification
+GO:0000472	0	RNA Processing & Modification
+GO:0000479	0	RNA Processing & Modification
+GO:0000480	0	RNA Processing & Modification
+GO:0000481	0	RNA Processing & Modification
+GO:0000492	5	Macromolecular Complex Assembly & Organization
+GO:0000494	0	RNA Processing & Modification
+GO:0000495	0	RNA Processing & Modification
+GO:0000706	6	DNA Damage Response & Repair
+GO:0000710	6	DNA Damage Response & Repair
+GO:0000712	1	Cellular & Host Stress Response
+GO:0000715	5	Macromolecular Complex Assembly & Organization
+GO:0000717	5	Macromolecular Complex Assembly & Organization
+GO:0000719	6	DNA Damage Response & Repair
+GO:0000722	6	DNA Damage Response & Repair
+GO:0000723	6	DNA Damage Response & Repair
+GO:0000724	6	DNA Damage Response & Repair
+GO:0000725	6	DNA Damage Response & Repair
+GO:0000727	6	DNA Damage Response & Repair
+GO:0000730	5	Macromolecular Complex Assembly & Organization
+GO:0000741	5	Macromolecular Complex Assembly & Organization
+GO:0000819	5	Macromolecular Complex Assembly & Organization
+GO:0000902	1	Cellular & Host Stress Response
+GO:0000910	1	Cellular & Host Stress Response
+GO:0000917	5	Macromolecular Complex Assembly & Organization
+GO:0000956	0	RNA Processing & Modification
+GO:0000965	0	RNA Processing & Modification
+GO:0000973	5	Macromolecular Complex Assembly & Organization
+GO:0001113	5	Macromolecular Complex Assembly & Organization
+GO:0001174	7	Nucleotide Metabolism & Biosynthesis
+GO:0001193	7	Nucleotide Metabolism & Biosynthesis
+GO:0001503	1	Cellular & Host Stress Response
+GO:0001510	0	RNA Processing & Modification
+GO:0001514	4	Amino Acid & Fatty Acid Metabolism
+GO:0001522	0	RNA Processing & Modification
+GO:0001539	1	Cellular & Host Stress Response
+GO:0001666	1	Cellular & Host Stress Response
+GO:0001672	2	Regulation of Biological Processes
+GO:0001678	1	Cellular & Host Stress Response
+GO:0001680	0	RNA Processing & Modification
+GO:0001682	0	RNA Processing & Modification
+GO:0001717	0	RNA Processing & Modification
+GO:0001731	5	Macromolecular Complex Assembly & Organization
+GO:0001732	5	Macromolecular Complex Assembly & Organization
+GO:0001819	2	Regulation of Biological Processes
+GO:0001881	0	RNA Processing & Modification
+GO:0001932	2	Regulation of Biological Processes
+GO:0001934	2	Regulation of Biological Processes
+GO:0002028	2	Regulation of Biological Processes
+GO:0002098	0	RNA Processing & Modification
+GO:0002099	0	RNA Processing & Modification
+GO:0002100	0	RNA Processing & Modification
+GO:0002128	0	RNA Processing & Modification
+GO:0002143	0	RNA Processing & Modification
+GO:0002181	4	Amino Acid & Fatty Acid Metabolism
+GO:0002182	4	Amino Acid & Fatty Acid Metabolism
+GO:0002183	4	Amino Acid & Fatty Acid Metabolism
+GO:0002184	5	Macromolecular Complex Assembly & Organization
+GO:0002188	4	Amino Acid & Fatty Acid Metabolism
+GO:0002191	4	Amino Acid & Fatty Acid Metabolism
+GO:0002224	2	Regulation of Biological Processes
+GO:0002253	2	Regulation of Biological Processes
+GO:0002312	1	Cellular & Host Stress Response
+GO:0002377	4	Amino Acid & Fatty Acid Metabolism
+GO:0002720	2	Regulation of Biological Processes
+GO:0002926	0	RNA Processing & Modification
+GO:0002939	0	RNA Processing & Modification
+GO:0002940	0	RNA Processing & Modification
+GO:0002943	0	RNA Processing & Modification
+GO:0002949	0	RNA Processing & Modification
+GO:0003333	3	Protein Transport & Localization
+GO:0003341	1	Cellular & Host Stress Response
+GO:0003352	2	Regulation of Biological Processes
+GO:0003400	2	Regulation of Biological Processes
+GO:0005975	4	Amino Acid & Fatty Acid Metabolism
+GO:0005992	4	Amino Acid & Fatty Acid Metabolism
+GO:0006002	7	Nucleotide Metabolism & Biosynthesis
+GO:0006004	4	Amino Acid & Fatty Acid Metabolism
+GO:0006006	4	Amino Acid & Fatty Acid Metabolism
+GO:0006013	4	Amino Acid & Fatty Acid Metabolism
+GO:0006015	7	Nucleotide Metabolism & Biosynthesis
+GO:0006020	4	Amino Acid & Fatty Acid Metabolism
+GO:0006021	4	Amino Acid & Fatty Acid Metabolism
+GO:0006032	0	RNA Processing & Modification
+GO:0006041	4	Amino Acid & Fatty Acid Metabolism
+GO:0006047	7	Nucleotide Metabolism & Biosynthesis
+GO:0006048	7	Nucleotide Metabolism & Biosynthesis
+GO:0006071	4	Amino Acid & Fatty Acid Metabolism
+GO:0006072	7	Nucleotide Metabolism & Biosynthesis
+GO:0006085	7	Nucleotide Metabolism & Biosynthesis
+GO:0006086	7	Nucleotide Metabolism & Biosynthesis
+GO:0006089	4	Amino Acid & Fatty Acid Metabolism
+GO:0006090	4	Amino Acid & Fatty Acid Metabolism
+GO:0006091	4	Amino Acid & Fatty Acid Metabolism
+GO:0006094	4	Amino Acid & Fatty Acid Metabolism
+GO:0006096	7	Nucleotide Metabolism & Biosynthesis
+GO:0006097	4	Amino Acid & Fatty Acid Metabolism
+GO:0006098	7	Nucleotide Metabolism & Biosynthesis
+GO:0006099	4	Amino Acid & Fatty Acid Metabolism
+GO:0006101	4	Amino Acid & Fatty Acid Metabolism
+GO:0006102	4	Amino Acid & Fatty Acid Metabolism
+GO:0006103	4	Amino Acid & Fatty Acid Metabolism
+GO:0006104	7	Nucleotide Metabolism & Biosynthesis
+GO:0006106	4	Amino Acid & Fatty Acid Metabolism
+GO:0006116	7	Nucleotide Metabolism & Biosynthesis
+GO:0006119	4	Amino Acid & Fatty Acid Metabolism
+GO:0006121	4	Amino Acid & Fatty Acid Metabolism
+GO:0006122	4	Amino Acid & Fatty Acid Metabolism
+GO:0006123	4	Amino Acid & Fatty Acid Metabolism
+GO:0006127	7	Nucleotide Metabolism & Biosynthesis
+GO:0006139	0	RNA Processing & Modification
+GO:0006148	7	Nucleotide Metabolism & Biosynthesis
+GO:0006152	7	Nucleotide Metabolism & Biosynthesis
+GO:0006154	7	Nucleotide Metabolism & Biosynthesis
+GO:0006163	7	Nucleotide Metabolism & Biosynthesis
+GO:0006164	7	Nucleotide Metabolism & Biosynthesis
+GO:0006166	7	Nucleotide Metabolism & Biosynthesis
+GO:0006167	7	Nucleotide Metabolism & Biosynthesis
+GO:0006168	7	Nucleotide Metabolism & Biosynthesis
+GO:0006171	7	Nucleotide Metabolism & Biosynthesis
+GO:0006177	7	Nucleotide Metabolism & Biosynthesis
+GO:0006178	7	Nucleotide Metabolism & Biosynthesis
+GO:0006182	7	Nucleotide Metabolism & Biosynthesis
+GO:0006183	7	Nucleotide Metabolism & Biosynthesis
+GO:0006188	7	Nucleotide Metabolism & Biosynthesis
+GO:0006189	7	Nucleotide Metabolism & Biosynthesis
+GO:0006190	7	Nucleotide Metabolism & Biosynthesis
+GO:0006196	7	Nucleotide Metabolism & Biosynthesis
+GO:0006203	7	Nucleotide Metabolism & Biosynthesis
+GO:0006206	7	Nucleotide Metabolism & Biosynthesis
+GO:0006207	7	Nucleotide Metabolism & Biosynthesis
+GO:0006221	7	Nucleotide Metabolism & Biosynthesis
+GO:0006222	7	Nucleotide Metabolism & Biosynthesis
+GO:0006225	7	Nucleotide Metabolism & Biosynthesis
+GO:0006226	7	Nucleotide Metabolism & Biosynthesis
+GO:0006227	7	Nucleotide Metabolism & Biosynthesis
+GO:0006228	7	Nucleotide Metabolism & Biosynthesis
+GO:0006231	7	Nucleotide Metabolism & Biosynthesis
+GO:0006233	7	Nucleotide Metabolism & Biosynthesis
+GO:0006235	7	Nucleotide Metabolism & Biosynthesis
+GO:0006241	7	Nucleotide Metabolism & Biosynthesis
+GO:0006259	0	RNA Processing & Modification
+GO:0006260	0	RNA Processing & Modification
+GO:0006261	0	RNA Processing & Modification
+GO:0006264	0	RNA Processing & Modification
+GO:0006265	6	DNA Damage Response & Repair
+GO:0006266	0	RNA Processing & Modification
+GO:0006267	5	Macromolecular Complex Assembly & Organization
+GO:0006268	5	Macromolecular Complex Assembly & Organization
+GO:0006269	7	Nucleotide Metabolism & Biosynthesis
+GO:0006270	0	RNA Processing & Modification
+GO:0006271	0	RNA Processing & Modification
+GO:0006272	0	RNA Processing & Modification
+GO:0006273	0	RNA Processing & Modification
+GO:0006275	2	Regulation of Biological Processes
+GO:0006278	7	Nucleotide Metabolism & Biosynthesis
+GO:0006281	6	DNA Damage Response & Repair
+GO:0006282	2	Regulation of Biological Processes
+GO:0006283	6	DNA Damage Response & Repair
+GO:0006284	6	DNA Damage Response & Repair
+GO:0006285	0	RNA Processing & Modification
+GO:0006287	0	RNA Processing & Modification
+GO:0006289	6	DNA Damage Response & Repair
+GO:0006290	6	DNA Damage Response & Repair
+GO:0006294	5	Macromolecular Complex Assembly & Organization
+GO:0006297	0	RNA Processing & Modification
+GO:0006298	6	DNA Damage Response & Repair
+GO:0006301	6	DNA Damage Response & Repair
+GO:0006302	6	DNA Damage Response & Repair
+GO:0006303	6	DNA Damage Response & Repair
+GO:0006304	0	RNA Processing & Modification
+GO:0006308	0	RNA Processing & Modification
+GO:0006310	0	RNA Processing & Modification
+GO:0006312	0	RNA Processing & Modification
+GO:0006323	5	Macromolecular Complex Assembly & Organization
+GO:0006325	5	Macromolecular Complex Assembly & Organization
+GO:0006333	5	Macromolecular Complex Assembly & Organization
+GO:0006334	5	Macromolecular Complex Assembly & Organization
+GO:0006335	5	Macromolecular Complex Assembly & Organization
+GO:0006336	5	Macromolecular Complex Assembly & Organization
+GO:0006337	5	Macromolecular Complex Assembly & Organization
+GO:0006338	5	Macromolecular Complex Assembly & Organization
+GO:0006342	2	Regulation of Biological Processes
+GO:0006348	2	Regulation of Biological Processes
+GO:0006351	7	Nucleotide Metabolism & Biosynthesis
+GO:0006352	7	Nucleotide Metabolism & Biosynthesis
+GO:0006354	7	Nucleotide Metabolism & Biosynthesis
+GO:0006355	2	Regulation of Biological Processes
+GO:0006357	2	Regulation of Biological Processes
+GO:0006359	2	Regulation of Biological Processes
+GO:0006360	7	Nucleotide Metabolism & Biosynthesis
+GO:0006361	7	Nucleotide Metabolism & Biosynthesis
+GO:0006363	7	Nucleotide Metabolism & Biosynthesis
+GO:0006364	0	RNA Processing & Modification
+GO:0006366	7	Nucleotide Metabolism & Biosynthesis
+GO:0006367	7	Nucleotide Metabolism & Biosynthesis
+GO:0006368	7	Nucleotide Metabolism & Biosynthesis
+GO:0006370	0	RNA Processing & Modification
+GO:0006376	5	Macromolecular Complex Assembly & Organization
+GO:0006383	7	Nucleotide Metabolism & Biosynthesis
+GO:0006384	7	Nucleotide Metabolism & Biosynthesis
+GO:0006386	7	Nucleotide Metabolism & Biosynthesis
+GO:0006388	0	RNA Processing & Modification
+GO:0006390	7	Nucleotide Metabolism & Biosynthesis
+GO:0006396	0	RNA Processing & Modification
+GO:0006397	0	RNA Processing & Modification
+GO:0006398	0	RNA Processing & Modification
+GO:0006399	0	RNA Processing & Modification
+GO:0006400	0	RNA Processing & Modification
+GO:0006401	0	RNA Processing & Modification
+GO:0006402	0	RNA Processing & Modification
+GO:0006405	3	Protein Transport & Localization
+GO:0006406	3	Protein Transport & Localization
+GO:0006409	3	Protein Transport & Localization
+GO:0006412	4	Amino Acid & Fatty Acid Metabolism
+GO:0006413	4	Amino Acid & Fatty Acid Metabolism
+GO:0006414	4	Amino Acid & Fatty Acid Metabolism
+GO:0006415	5	Macromolecular Complex Assembly & Organization
+GO:0006417	2	Regulation of Biological Processes
+GO:0006418	0	RNA Processing & Modification
+GO:0006419	0	RNA Processing & Modification
+GO:0006420	0	RNA Processing & Modification
+GO:0006421	0	RNA Processing & Modification
+GO:0006422	0	RNA Processing & Modification
+GO:0006423	0	RNA Processing & Modification
+GO:0006424	0	RNA Processing & Modification
+GO:0006425	0	RNA Processing & Modification
+GO:0006426	0	RNA Processing & Modification
+GO:0006427	0	RNA Processing & Modification
+GO:0006428	0	RNA Processing & Modification
+GO:0006429	0	RNA Processing & Modification
+GO:0006430	0	RNA Processing & Modification
+GO:0006431	0	RNA Processing & Modification
+GO:0006432	0	RNA Processing & Modification
+GO:0006433	0	RNA Processing & Modification
+GO:0006434	0	RNA Processing & Modification
+GO:0006435	0	RNA Processing & Modification
+GO:0006436	0	RNA Processing & Modification
+GO:0006437	0	RNA Processing & Modification
+GO:0006438	0	RNA Processing & Modification
+GO:0006446	2	Regulation of Biological Processes
+GO:0006447	2	Regulation of Biological Processes
+GO:0006449	2	Regulation of Biological Processes
+GO:0006450	2	Regulation of Biological Processes
+GO:0006452	4	Amino Acid & Fatty Acid Metabolism
+GO:0006457	1	Cellular & Host Stress Response
+GO:0006458	1	Cellular & Host Stress Response
+GO:0006464	0	RNA Processing & Modification
+GO:0006465	0	RNA Processing & Modification
+GO:0006468	0	RNA Processing & Modification
+GO:0006469	2	Regulation of Biological Processes
+GO:0006470	0	RNA Processing & Modification
+GO:0006474	0	RNA Processing & Modification
+GO:0006476	0	RNA Processing & Modification
+GO:0006479	0	RNA Processing & Modification
+GO:0006481	0	RNA Processing & Modification
+GO:0006486	0	RNA Processing & Modification
+GO:0006487	0	RNA Processing & Modification
+GO:0006488	7	Nucleotide Metabolism & Biosynthesis
+GO:0006489	7	Nucleotide Metabolism & Biosynthesis
+GO:0006497	0	RNA Processing & Modification
+GO:0006499	0	RNA Processing & Modification
+GO:0006501	0	RNA Processing & Modification
+GO:0006505	7	Nucleotide Metabolism & Biosynthesis
+GO:0006506	7	Nucleotide Metabolism & Biosynthesis
+GO:0006508	0	RNA Processing & Modification
+GO:0006509	0	RNA Processing & Modification
+GO:0006511	0	RNA Processing & Modification
+GO:0006513	0	RNA Processing & Modification
+GO:0006515	0	RNA Processing & Modification
+GO:0006518	1	Cellular & Host Stress Response
+GO:0006520	4	Amino Acid & Fatty Acid Metabolism
+GO:0006525	4	Amino Acid & Fatty Acid Metabolism
+GO:0006526	4	Amino Acid & Fatty Acid Metabolism
+GO:0006527	4	Amino Acid & Fatty Acid Metabolism
+GO:0006529	4	Amino Acid & Fatty Acid Metabolism
+GO:0006534	4	Amino Acid & Fatty Acid Metabolism
+GO:0006536	4	Amino Acid & Fatty Acid Metabolism
+GO:0006537	4	Amino Acid & Fatty Acid Metabolism
+GO:0006538	4	Amino Acid & Fatty Acid Metabolism
+GO:0006541	4	Amino Acid & Fatty Acid Metabolism
+GO:0006542	4	Amino Acid & Fatty Acid Metabolism
+GO:0006544	4	Amino Acid & Fatty Acid Metabolism
+GO:0006545	4	Amino Acid & Fatty Acid Metabolism
+GO:0006546	4	Amino Acid & Fatty Acid Metabolism
+GO:0006554	4	Amino Acid & Fatty Acid Metabolism
+GO:0006556	4	Amino Acid & Fatty Acid Metabolism
+GO:0006561	4	Amino Acid & Fatty Acid Metabolism
+GO:0006563	4	Amino Acid & Fatty Acid Metabolism
+GO:0006565	4	Amino Acid & Fatty Acid Metabolism
+GO:0006568	4	Amino Acid & Fatty Acid Metabolism
+GO:0006574	4	Amino Acid & Fatty Acid Metabolism
+GO:0006576	1	Cellular & Host Stress Response
+GO:0006591	4	Amino Acid & Fatty Acid Metabolism
+GO:0006596	4	Amino Acid & Fatty Acid Metabolism
+GO:0006597	4	Amino Acid & Fatty Acid Metabolism
+GO:0006605	3	Protein Transport & Localization
+GO:0006606	3	Protein Transport & Localization
+GO:0006607	3	Protein Transport & Localization
+GO:0006611	3	Protein Transport & Localization
+GO:0006612	3	Protein Transport & Localization
+GO:0006614	3	Protein Transport & Localization
+GO:0006616	3	Protein Transport & Localization
+GO:0006617	5	Macromolecular Complex Assembly & Organization
+GO:0006620	3	Protein Transport & Localization
+GO:0006621	3	Protein Transport & Localization
+GO:0006623	3	Protein Transport & Localization
+GO:0006624	0	RNA Processing & Modification
+GO:0006625	3	Protein Transport & Localization
+GO:0006626	3	Protein Transport & Localization
+GO:0006627	0	RNA Processing & Modification
+GO:0006629	4	Amino Acid & Fatty Acid Metabolism
+GO:0006631	4	Amino Acid & Fatty Acid Metabolism
+GO:0006633	4	Amino Acid & Fatty Acid Metabolism
+GO:0006635	4	Amino Acid & Fatty Acid Metabolism
+GO:0006636	4	Amino Acid & Fatty Acid Metabolism
+GO:0006637	7	Nucleotide Metabolism & Biosynthesis
+GO:0006638	4	Amino Acid & Fatty Acid Metabolism
+GO:0006641	4	Amino Acid & Fatty Acid Metabolism
+GO:0006644	7	Nucleotide Metabolism & Biosynthesis
+GO:0006646	7	Nucleotide Metabolism & Biosynthesis
+GO:0006650	7	Nucleotide Metabolism & Biosynthesis
+GO:0006654	7	Nucleotide Metabolism & Biosynthesis
+GO:0006655	7	Nucleotide Metabolism & Biosynthesis
+GO:0006656	7	Nucleotide Metabolism & Biosynthesis
+GO:0006657	7	Nucleotide Metabolism & Biosynthesis
+GO:0006659	7	Nucleotide Metabolism & Biosynthesis
+GO:0006661	7	Nucleotide Metabolism & Biosynthesis
+GO:0006662	4	Amino Acid & Fatty Acid Metabolism
+GO:0006665	4	Amino Acid & Fatty Acid Metabolism
+GO:0006684	7	Nucleotide Metabolism & Biosynthesis
+GO:0006729	4	Amino Acid & Fatty Acid Metabolism
+GO:0006730	4	Amino Acid & Fatty Acid Metabolism
+GO:0006739	7	Nucleotide Metabolism & Biosynthesis
+GO:0006740	7	Nucleotide Metabolism & Biosynthesis
+GO:0006741	7	Nucleotide Metabolism & Biosynthesis
+GO:0006743	4	Amino Acid & Fatty Acid Metabolism
+GO:0006744	4	Amino Acid & Fatty Acid Metabolism
+GO:0006747	7	Nucleotide Metabolism & Biosynthesis
+GO:0006749	4	Amino Acid & Fatty Acid Metabolism
+GO:0006750	4	Amino Acid & Fatty Acid Metabolism
+GO:0006754	7	Nucleotide Metabolism & Biosynthesis
+GO:0006761	4	Amino Acid & Fatty Acid Metabolism
+GO:0006771	4	Amino Acid & Fatty Acid Metabolism
+GO:0006772	4	Amino Acid & Fatty Acid Metabolism
+GO:0006779	4	Amino Acid & Fatty Acid Metabolism
+GO:0006780	4	Amino Acid & Fatty Acid Metabolism
+GO:0006782	4	Amino Acid & Fatty Acid Metabolism
+GO:0006783	4	Amino Acid & Fatty Acid Metabolism
+GO:0006784	4	Amino Acid & Fatty Acid Metabolism
+GO:0006788	1	Cellular & Host Stress Response
+GO:0006796	4	Amino Acid & Fatty Acid Metabolism
+GO:0006797	4	Amino Acid & Fatty Acid Metabolism
+GO:0006798	4	Amino Acid & Fatty Acid Metabolism
+GO:0006801	4	Amino Acid & Fatty Acid Metabolism
+GO:0006810	3	Protein Transport & Localization
+GO:0006811	3	Protein Transport & Localization
+GO:0006812	3	Protein Transport & Localization
+GO:0006813	3	Protein Transport & Localization
+GO:0006814	3	Protein Transport & Localization
+GO:0006816	3	Protein Transport & Localization
+GO:0006817	3	Protein Transport & Localization
+GO:0006820	3	Protein Transport & Localization
+GO:0006825	3	Protein Transport & Localization
+GO:0006826	3	Protein Transport & Localization
+GO:0006829	3	Protein Transport & Localization
+GO:0006833	3	Protein Transport & Localization
+GO:0006835	3	Protein Transport & Localization
+GO:0006836	3	Protein Transport & Localization
+GO:0006839	3	Protein Transport & Localization
+GO:0006842	3	Protein Transport & Localization
+GO:0006843	3	Protein Transport & Localization
+GO:0006846	3	Protein Transport & Localization
+GO:0006848	3	Protein Transport & Localization
+GO:0006850	3	Protein Transport & Localization
+GO:0006855	3	Protein Transport & Localization
+GO:0006862	3	Protein Transport & Localization
+GO:0006863	3	Protein Transport & Localization
+GO:0006865	3	Protein Transport & Localization
+GO:0006869	3	Protein Transport & Localization
+GO:0006874	1	Cellular & Host Stress Response
+GO:0006878	1	Cellular & Host Stress Response
+GO:0006879	1	Cellular & Host Stress Response
+GO:0006880	3	Protein Transport & Localization
+GO:0006884	5	Macromolecular Complex Assembly & Organization
+GO:0006885	2	Regulation of Biological Processes
+GO:0006886	3	Protein Transport & Localization
+GO:0006887	3	Protein Transport & Localization
+GO:0006888	3	Protein Transport & Localization
+GO:0006890	3	Protein Transport & Localization
+GO:0006891	3	Protein Transport & Localization
+GO:0006892	3	Protein Transport & Localization
+GO:0006895	3	Protein Transport & Localization
+GO:0006896	3	Protein Transport & Localization
+GO:0006897	3	Protein Transport & Localization
+GO:0006898	3	Protein Transport & Localization
+GO:0006900	5	Macromolecular Complex Assembly & Organization
+GO:0006904	3	Protein Transport & Localization
+GO:0006906	5	Macromolecular Complex Assembly & Organization
+GO:0006913	3	Protein Transport & Localization
+GO:0006914	4	Amino Acid & Fatty Acid Metabolism
+GO:0006915	1	Cellular & Host Stress Response
+GO:0006950	1	Cellular & Host Stress Response
+GO:0006952	1	Cellular & Host Stress Response
+GO:0006955	1	Cellular & Host Stress Response
+GO:0006956	2	Regulation of Biological Processes
+GO:0006974	1	Cellular & Host Stress Response
+GO:0006979	1	Cellular & Host Stress Response
+GO:0006986	1	Cellular & Host Stress Response
+GO:0006995	1	Cellular & Host Stress Response
+GO:0006996	5	Macromolecular Complex Assembly & Organization
+GO:0006998	5	Macromolecular Complex Assembly & Organization
+GO:0007004	6	DNA Damage Response & Repair
+GO:0007005	5	Macromolecular Complex Assembly & Organization
+GO:0007009	5	Macromolecular Complex Assembly & Organization
+GO:0007010	5	Macromolecular Complex Assembly & Organization
+GO:0007015	5	Macromolecular Complex Assembly & Organization
+GO:0007017	1	Cellular & Host Stress Response
+GO:0007018	1	Cellular & Host Stress Response
+GO:0007019	5	Macromolecular Complex Assembly & Organization
+GO:0007020	5	Macromolecular Complex Assembly & Organization
+GO:0007021	5	Macromolecular Complex Assembly & Organization
+GO:0007023	1	Cellular & Host Stress Response
+GO:0007029	5	Macromolecular Complex Assembly & Organization
+GO:0007030	5	Macromolecular Complex Assembly & Organization
+GO:0007031	5	Macromolecular Complex Assembly & Organization
+GO:0007032	5	Macromolecular Complex Assembly & Organization
+GO:0007033	5	Macromolecular Complex Assembly & Organization
+GO:0007034	3	Protein Transport & Localization
+GO:0007035	2	Regulation of Biological Processes
+GO:0007041	3	Protein Transport & Localization
+GO:0007049	1	Cellular & Host Stress Response
+GO:0007050	2	Regulation of Biological Processes
+GO:0007051	5	Macromolecular Complex Assembly & Organization
+GO:0007052	5	Macromolecular Complex Assembly & Organization
+GO:0007059	1	Cellular & Host Stress Response
+GO:0007062	5	Macromolecular Complex Assembly & Organization
+GO:0007064	5	Macromolecular Complex Assembly & Organization
+GO:0007076	5	Macromolecular Complex Assembly & Organization
+GO:0007091	2	Regulation of Biological Processes
+GO:0007093	2	Regulation of Biological Processes
+GO:0007094	2	Regulation of Biological Processes
+GO:0007095	2	Regulation of Biological Processes
+GO:0007097	3	Protein Transport & Localization
+GO:0007098	5	Macromolecular Complex Assembly & Organization
+GO:0007099	5	Macromolecular Complex Assembly & Organization
+GO:0007113	1	Cellular & Host Stress Response
+GO:0007131	0	RNA Processing & Modification
+GO:0007155	1	Cellular & Host Stress Response
+GO:0007162	2	Regulation of Biological Processes
+GO:0007163	1	Cellular & Host Stress Response
+GO:0007165	2	Regulation of Biological Processes
+GO:0007186	2	Regulation of Biological Processes
+GO:0007264	2	Regulation of Biological Processes
+GO:0007266	2	Regulation of Biological Processes
+GO:0007275	1	Cellular & Host Stress Response
+GO:0007276	1	Cellular & Host Stress Response
+GO:0007338	1	Cellular & Host Stress Response
+GO:0007346	2	Regulation of Biological Processes
+GO:0007416	5	Macromolecular Complex Assembly & Organization
+GO:0007530	1	Cellular & Host Stress Response
+GO:0007584	1	Cellular & Host Stress Response
+GO:0007586	1	Cellular & Host Stress Response
+GO:0007596	2	Regulation of Biological Processes
+GO:0007623	1	Cellular & Host Stress Response
+GO:0008033	0	RNA Processing & Modification
+GO:0008037	1	Cellular & Host Stress Response
+GO:0008053	5	Macromolecular Complex Assembly & Organization
+GO:0008152	1	Cellular & Host Stress Response
+GO:0008153	4	Amino Acid & Fatty Acid Metabolism
+GO:0008154	5	Macromolecular Complex Assembly & Organization
+GO:0008202	4	Amino Acid & Fatty Acid Metabolism
+GO:0008283	1	Cellular & Host Stress Response
+GO:0008284	2	Regulation of Biological Processes
+GO:0008295	4	Amino Acid & Fatty Acid Metabolism
+GO:0008298	3	Protein Transport & Localization
+GO:0008299	4	Amino Acid & Fatty Acid Metabolism
+GO:0008333	3	Protein Transport & Localization
+GO:0008360	2	Regulation of Biological Processes
+GO:0008380	0	RNA Processing & Modification
+GO:0008535	5	Macromolecular Complex Assembly & Organization
+GO:0008612	0	RNA Processing & Modification
+GO:0008614	4	Amino Acid & Fatty Acid Metabolism
+GO:0008615	4	Amino Acid & Fatty Acid Metabolism
+GO:0008616	7	Nucleotide Metabolism & Biosynthesis
+GO:0008643	3	Protein Transport & Localization
+GO:0008645	3	Protein Transport & Localization
+GO:0008652	4	Amino Acid & Fatty Acid Metabolism
+GO:0008654	7	Nucleotide Metabolism & Biosynthesis
+GO:0009051	7	Nucleotide Metabolism & Biosynthesis
+GO:0009052	7	Nucleotide Metabolism & Biosynthesis
+GO:0009056	4	Amino Acid & Fatty Acid Metabolism
+GO:0009058	4	Amino Acid & Fatty Acid Metabolism
+GO:0009059	4	Amino Acid & Fatty Acid Metabolism
+GO:0009060	4	Amino Acid & Fatty Acid Metabolism
+GO:0009073	4	Amino Acid & Fatty Acid Metabolism
+GO:0009082	4	Amino Acid & Fatty Acid Metabolism
+GO:0009083	4	Amino Acid & Fatty Acid Metabolism
+GO:0009086	4	Amino Acid & Fatty Acid Metabolism
+GO:0009107	4	Amino Acid & Fatty Acid Metabolism
+GO:0009116	7	Nucleotide Metabolism & Biosynthesis
+GO:0009117	7	Nucleotide Metabolism & Biosynthesis
+GO:0009132	7	Nucleotide Metabolism & Biosynthesis
+GO:0009142	7	Nucleotide Metabolism & Biosynthesis
+GO:0009143	7	Nucleotide Metabolism & Biosynthesis
+GO:0009152	7	Nucleotide Metabolism & Biosynthesis
+GO:0009165	7	Nucleotide Metabolism & Biosynthesis
+GO:0009168	7	Nucleotide Metabolism & Biosynthesis
+GO:0009186	7	Nucleotide Metabolism & Biosynthesis
+GO:0009187	7	Nucleotide Metabolism & Biosynthesis
+GO:0009190	7	Nucleotide Metabolism & Biosynthesis
+GO:0009204	7	Nucleotide Metabolism & Biosynthesis
+GO:0009220	7	Nucleotide Metabolism & Biosynthesis
+GO:0009226	7	Nucleotide Metabolism & Biosynthesis
+GO:0009228	4	Amino Acid & Fatty Acid Metabolism
+GO:0009229	7	Nucleotide Metabolism & Biosynthesis
+GO:0009231	4	Amino Acid & Fatty Acid Metabolism
+GO:0009245	7	Nucleotide Metabolism & Biosynthesis
+GO:0009247	7	Nucleotide Metabolism & Biosynthesis
+GO:0009249	0	RNA Processing & Modification
+GO:0009263	7	Nucleotide Metabolism & Biosynthesis
+GO:0009264	7	Nucleotide Metabolism & Biosynthesis
+GO:0009266	1	Cellular & Host Stress Response
+GO:0009268	1	Cellular & Host Stress Response
+GO:0009298	7	Nucleotide Metabolism & Biosynthesis
+GO:0009306	3	Protein Transport & Localization
+GO:0009307	6	DNA Damage Response & Repair
+GO:0009396	4	Amino Acid & Fatty Acid Metabolism
+GO:0009398	7	Nucleotide Metabolism & Biosynthesis
+GO:0009399	1	Cellular & Host Stress Response
+GO:0009408	1	Cellular & Host Stress Response
+GO:0009410	1	Cellular & Host Stress Response
+GO:0009411	1	Cellular & Host Stress Response
+GO:0009423	4	Amino Acid & Fatty Acid Metabolism
+GO:0009435	7	Nucleotide Metabolism & Biosynthesis
+GO:0009438	4	Amino Acid & Fatty Acid Metabolism
+GO:0009443	7	Nucleotide Metabolism & Biosynthesis
+GO:0009445	1	Cellular & Host Stress Response
+GO:0009451	0	RNA Processing & Modification
+GO:0009452	0	RNA Processing & Modification
+GO:0009566	1	Cellular & Host Stress Response
+GO:0009594	1	Cellular & Host Stress Response
+GO:0009651	1	Cellular & Host Stress Response
+GO:0009657	5	Macromolecular Complex Assembly & Organization
+GO:0009742	2	Regulation of Biological Processes
+GO:0009749	1	Cellular & Host Stress Response
+GO:0009966	2	Regulation of Biological Processes
+GO:0009987	1	Cellular & Host Stress Response
+GO:0010032	5	Macromolecular Complex Assembly & Organization
+GO:0010038	1	Cellular & Host Stress Response
+GO:0010121	4	Amino Acid & Fatty Acid Metabolism
+GO:0010212	1	Cellular & Host Stress Response
+GO:0010323	2	Regulation of Biological Processes
+GO:0010389	2	Regulation of Biological Processes
+GO:0010458	1	Cellular & Host Stress Response
+GO:0010467	4	Amino Acid & Fatty Acid Metabolism
+GO:0010468	2	Regulation of Biological Processes
+GO:0010498	0	RNA Processing & Modification
+GO:0010499	0	RNA Processing & Modification
+GO:0010501	0	RNA Processing & Modification
+GO:0010506	2	Regulation of Biological Processes
+GO:0010564	2	Regulation of Biological Processes
+GO:0010569	2	Regulation of Biological Processes
+GO:0010603	2	Regulation of Biological Processes
+GO:0010608	2	Regulation of Biological Processes
+GO:0010628	2	Regulation of Biological Processes
+GO:0010738	2	Regulation of Biological Processes
+GO:0010793	2	Regulation of Biological Processes
+GO:0010821	2	Regulation of Biological Processes
+GO:0010828	2	Regulation of Biological Processes
+GO:0010950	2	Regulation of Biological Processes
+GO:0010951	2	Regulation of Biological Processes
+GO:0010960	1	Cellular & Host Stress Response
+GO:0010970	3	Protein Transport & Localization
+GO:0010998	0	RNA Processing & Modification
+GO:0012501	1	Cellular & Host Stress Response
+GO:0015031	3	Protein Transport & Localization
+GO:0015074	0	RNA Processing & Modification
+GO:0015693	3	Protein Transport & Localization
+GO:0015694	3	Protein Transport & Localization
+GO:0015707	3	Protein Transport & Localization
+GO:0015718	3	Protein Transport & Localization
+GO:0015724	3	Protein Transport & Localization
+GO:0015742	3	Protein Transport & Localization
+GO:0015743	3	Protein Transport & Localization
+GO:0015749	3	Protein Transport & Localization
+GO:0015755	3	Protein Transport & Localization
+GO:0015791	3	Protein Transport & Localization
+GO:0015809	3	Protein Transport & Localization
+GO:0015819	3	Protein Transport & Localization
+GO:0015833	3	Protein Transport & Localization
+GO:0015858	3	Protein Transport & Localization
+GO:0015860	3	Protein Transport & Localization
+GO:0015871	3	Protein Transport & Localization
+GO:0015887	3	Protein Transport & Localization
+GO:0015904	3	Protein Transport & Localization
+GO:0015908	3	Protein Transport & Localization
+GO:0015909	3	Protein Transport & Localization
+GO:0015914	3	Protein Transport & Localization
+GO:0015917	3	Protein Transport & Localization
+GO:0015937	7	Nucleotide Metabolism & Biosynthesis
+GO:0015966	7	Nucleotide Metabolism & Biosynthesis
+GO:0015977	1	Cellular & Host Stress Response
+GO:0015986	7	Nucleotide Metabolism & Biosynthesis
+GO:0016024	7	Nucleotide Metabolism & Biosynthesis
+GO:0016032	1	Cellular & Host Stress Response
+GO:0016036	1	Cellular & Host Stress Response
+GO:0016042	4	Amino Acid & Fatty Acid Metabolism
+GO:0016043	5	Macromolecular Complex Assembly & Organization
+GO:0016049	1	Cellular & Host Stress Response
+GO:0016050	5	Macromolecular Complex Assembly & Organization
+GO:0016051	4	Amino Acid & Fatty Acid Metabolism
+GO:0016052	4	Amino Acid & Fatty Acid Metabolism
+GO:0016070	0	RNA Processing & Modification
+GO:0016071	0	RNA Processing & Modification
+GO:0016072	0	RNA Processing & Modification
+GO:0016075	0	RNA Processing & Modification
+GO:0016094	4	Amino Acid & Fatty Acid Metabolism
+GO:0016095	4	Amino Acid & Fatty Acid Metabolism
+GO:0016114	4	Amino Acid & Fatty Acid Metabolism
+GO:0016117	4	Amino Acid & Fatty Acid Metabolism
+GO:0016125	4	Amino Acid & Fatty Acid Metabolism
+GO:0016180	0	RNA Processing & Modification
+GO:0016192	3	Protein Transport & Localization
+GO:0016197	3	Protein Transport & Localization
+GO:0016226	5	Macromolecular Complex Assembly & Organization
+GO:0016233	6	DNA Damage Response & Repair
+GO:0016236	4	Amino Acid & Fatty Acid Metabolism
+GO:0016255	0	RNA Processing & Modification
+GO:0016260	4	Amino Acid & Fatty Acid Metabolism
+GO:0016310	4	Amino Acid & Fatty Acid Metabolism
+GO:0016311	4	Amino Acid & Fatty Acid Metabolism
+GO:0016320	5	Macromolecular Complex Assembly & Organization
+GO:0016441	2	Regulation of Biological Processes
+GO:0016480	2	Regulation of Biological Processes
+GO:0016485	0	RNA Processing & Modification
+GO:0016539	0	RNA Processing & Modification
+GO:0016540	0	RNA Processing & Modification
+GO:0016559	5	Macromolecular Complex Assembly & Organization
+GO:0016567	0	RNA Processing & Modification
+GO:0016579	0	RNA Processing & Modification
+GO:0016598	0	RNA Processing & Modification
+GO:0016925	0	RNA Processing & Modification
+GO:0016926	0	RNA Processing & Modification
+GO:0016973	3	Protein Transport & Localization
+GO:0017038	3	Protein Transport & Localization
+GO:0017121	3	Protein Transport & Localization
+GO:0017148	2	Regulation of Biological Processes
+GO:0017183	0	RNA Processing & Modification
+GO:0017186	0	RNA Processing & Modification
+GO:0017196	0	RNA Processing & Modification
+GO:0018002	0	RNA Processing & Modification
+GO:0018008	0	RNA Processing & Modification
+GO:0018022	0	RNA Processing & Modification
+GO:0018026	0	RNA Processing & Modification
+GO:0018027	0	RNA Processing & Modification
+GO:0018063	6	DNA Damage Response & Repair
+GO:0018095	0	RNA Processing & Modification
+GO:0018103	0	RNA Processing & Modification
+GO:0018105	0	RNA Processing & Modification
+GO:0018107	0	RNA Processing & Modification
+GO:0018149	0	RNA Processing & Modification
+GO:0018200	0	RNA Processing & Modification
+GO:0018206	0	RNA Processing & Modification
+GO:0018216	0	RNA Processing & Modification
+GO:0018230	0	RNA Processing & Modification
+GO:0018279	0	RNA Processing & Modification
+GO:0018342	0	RNA Processing & Modification
+GO:0018343	0	RNA Processing & Modification
+GO:0018344	0	RNA Processing & Modification
+GO:0018345	0	RNA Processing & Modification
+GO:0018364	0	RNA Processing & Modification
+GO:0018401	4	Amino Acid & Fatty Acid Metabolism
+GO:0018406	0	RNA Processing & Modification
+GO:0019062	1	Cellular & Host Stress Response
+GO:0019216	2	Regulation of Biological Processes
+GO:0019222	2	Regulation of Biological Processes
+GO:0019236	1	Cellular & Host Stress Response
+GO:0019243	4	Amino Acid & Fatty Acid Metabolism
+GO:0019264	4	Amino Acid & Fatty Acid Metabolism
+GO:0019288	7	Nucleotide Metabolism & Biosynthesis
+GO:0019323	4	Amino Acid & Fatty Acid Metabolism
+GO:0019346	4	Amino Acid & Fatty Acid Metabolism
+GO:0019348	4	Amino Acid & Fatty Acid Metabolism
+GO:0019353	4	Amino Acid & Fatty Acid Metabolism
+GO:0019358	7	Nucleotide Metabolism & Biosynthesis
+GO:0019367	4	Amino Acid & Fatty Acid Metabolism
+GO:0019368	4	Amino Acid & Fatty Acid Metabolism
+GO:0019408	4	Amino Acid & Fatty Acid Metabolism
+GO:0019427	7	Nucleotide Metabolism & Biosynthesis
+GO:0019430	4	Amino Acid & Fatty Acid Metabolism
+GO:0019432	4	Amino Acid & Fatty Acid Metabolism
+GO:0019433	4	Amino Acid & Fatty Acid Metabolism
+GO:0019464	4	Amino Acid & Fatty Acid Metabolism
+GO:0019478	4	Amino Acid & Fatty Acid Metabolism
+GO:0019521	4	Amino Acid & Fatty Acid Metabolism
+GO:0019538	0	RNA Processing & Modification
+GO:0019544	4	Amino Acid & Fatty Acid Metabolism
+GO:0019547	4	Amino Acid & Fatty Acid Metabolism
+GO:0019563	4	Amino Acid & Fatty Acid Metabolism
+GO:0019646	4	Amino Acid & Fatty Acid Metabolism
+GO:0019673	7	Nucleotide Metabolism & Biosynthesis
+GO:0019674	7	Nucleotide Metabolism & Biosynthesis
+GO:0019676	4	Amino Acid & Fatty Acid Metabolism
+GO:0019722	2	Regulation of Biological Processes
+GO:0019752	4	Amino Acid & Fatty Acid Metabolism
+GO:0019856	7	Nucleotide Metabolism & Biosynthesis
+GO:0019915	3	Protein Transport & Localization
+GO:0019933	2	Regulation of Biological Processes
+GO:0019941	0	RNA Processing & Modification
+GO:0019985	6	DNA Damage Response & Repair
+GO:0020013	1	Cellular & Host Stress Response
+GO:0020014	1	Cellular & Host Stress Response
+GO:0020027	0	RNA Processing & Modification
+GO:0020033	1	Cellular & Host Stress Response
+GO:0020035	1	Cellular & Host Stress Response
+GO:0022618	5	Macromolecular Complex Assembly & Organization
+GO:0022900	4	Amino Acid & Fatty Acid Metabolism
+GO:0022904	4	Amino Acid & Fatty Acid Metabolism
+GO:0023051	2	Regulation of Biological Processes
+GO:0030001	3	Protein Transport & Localization
+GO:0030026	1	Cellular & Host Stress Response
+GO:0030030	5	Macromolecular Complex Assembly & Organization
+GO:0030036	5	Macromolecular Complex Assembly & Organization
+GO:0030041	5	Macromolecular Complex Assembly & Organization
+GO:0030042	5	Macromolecular Complex Assembly & Organization
+GO:0030048	1	Cellular & Host Stress Response
+GO:0030050	3	Protein Transport & Localization
+GO:0030071	2	Regulation of Biological Processes
+GO:0030091	0	RNA Processing & Modification
+GO:0030100	2	Regulation of Biological Processes
+GO:0030148	4	Amino Acid & Fatty Acid Metabolism
+GO:0030150	3	Protein Transport & Localization
+GO:0030154	1	Cellular & Host Stress Response
+GO:0030155	2	Regulation of Biological Processes
+GO:0030162	2	Regulation of Biological Processes
+GO:0030163	0	RNA Processing & Modification
+GO:0030174	2	Regulation of Biological Processes
+GO:0030242	4	Amino Acid & Fatty Acid Metabolism
+GO:0030259	4	Amino Acid & Fatty Acid Metabolism
+GO:0030261	5	Macromolecular Complex Assembly & Organization
+GO:0030388	7	Nucleotide Metabolism & Biosynthesis
+GO:0030488	0	RNA Processing & Modification
+GO:0030490	0	RNA Processing & Modification
+GO:0030497	4	Amino Acid & Fatty Acid Metabolism
+GO:0030522	2	Regulation of Biological Processes
+GO:0030581	3	Protein Transport & Localization
+GO:0030705	3	Protein Transport & Localization
+GO:0030833	2	Regulation of Biological Processes
+GO:0030951	5	Macromolecular Complex Assembly & Organization
+GO:0030968	2	Regulation of Biological Processes
+GO:0030970	3	Protein Transport & Localization
+GO:0031001	1	Cellular & Host Stress Response
+GO:0031047	2	Regulation of Biological Processes
+GO:0031053	0	RNA Processing & Modification
+GO:0031087	0	RNA Processing & Modification
+GO:0031110	2	Regulation of Biological Processes
+GO:0031116	2	Regulation of Biological Processes
+GO:0031118	0	RNA Processing & Modification
+GO:0031119	0	RNA Processing & Modification
+GO:0031120	0	RNA Processing & Modification
+GO:0031122	5	Macromolecular Complex Assembly & Organization
+GO:0031123	0	RNA Processing & Modification
+GO:0031124	0	RNA Processing & Modification
+GO:0031145	0	RNA Processing & Modification
+GO:0031146	0	RNA Processing & Modification
+GO:0031167	0	RNA Processing & Modification
+GO:0031179	1	Cellular & Host Stress Response
+GO:0031204	3	Protein Transport & Localization
+GO:0031291	2	Regulation of Biological Processes
+GO:0031297	0	RNA Processing & Modification
+GO:0031338	2	Regulation of Biological Processes
+GO:0031340	2	Regulation of Biological Processes
+GO:0031365	0	RNA Processing & Modification
+GO:0031468	5	Macromolecular Complex Assembly & Organization
+GO:0031497	5	Macromolecular Complex Assembly & Organization
+GO:0031507	2	Regulation of Biological Processes
+GO:0031509	2	Regulation of Biological Processes
+GO:0031573	2	Regulation of Biological Processes
+GO:0031591	0	RNA Processing & Modification
+GO:0031647	2	Regulation of Biological Processes
+GO:0031848	6	DNA Damage Response & Repair
+GO:0031929	2	Regulation of Biological Processes
+GO:0031952	2	Regulation of Biological Processes
+GO:0031990	3	Protein Transport & Localization
+GO:0032012	2	Regulation of Biological Processes
+GO:0032049	7	Nucleotide Metabolism & Biosynthesis
+GO:0032065	3	Protein Transport & Localization
+GO:0032147	2	Regulation of Biological Processes
+GO:0032203	5	Macromolecular Complex Assembly & Organization
+GO:0032238	3	Protein Transport & Localization
+GO:0032259	1	Cellular & Host Stress Response
+GO:0032263	7	Nucleotide Metabolism & Biosynthesis
+GO:0032264	7	Nucleotide Metabolism & Biosynthesis
+GO:0032273	2	Regulation of Biological Processes
+GO:0032366	3	Protein Transport & Localization
+GO:0032436	2	Regulation of Biological Processes
+GO:0032446	0	RNA Processing & Modification
+GO:0032447	0	RNA Processing & Modification
+GO:0032456	3	Protein Transport & Localization
+GO:0032465	2	Regulation of Biological Processes
+GO:0032469	1	Cellular & Host Stress Response
+GO:0032502	1	Cellular & Host Stress Response
+GO:0032508	5	Macromolecular Complex Assembly & Organization
+GO:0032509	3	Protein Transport & Localization
+GO:0032511	3	Protein Transport & Localization
+GO:0032543	4	Amino Acid & Fatty Acid Metabolism
+GO:0032715	2	Regulation of Biological Processes
+GO:0032780	2	Regulation of Biological Processes
+GO:0032781	2	Regulation of Biological Processes
+GO:0032784	2	Regulation of Biological Processes
+GO:0032786	2	Regulation of Biological Processes
+GO:0032790	5	Macromolecular Complex Assembly & Organization
+GO:0032889	2	Regulation of Biological Processes
+GO:0032958	7	Nucleotide Metabolism & Biosynthesis
+GO:0032968	2	Regulation of Biological Processes
+GO:0032979	3	Protein Transport & Localization
+GO:0033014	4	Amino Acid & Fatty Acid Metabolism
+GO:0033036	3	Protein Transport & Localization
+GO:0033234	2	Regulation of Biological Processes
+GO:0033259	0	RNA Processing & Modification
+GO:0033314	2	Regulation of Biological Processes
+GO:0033353	4	Amino Acid & Fatty Acid Metabolism
+GO:0033365	3	Protein Transport & Localization
+GO:0033387	4	Amino Acid & Fatty Acid Metabolism
+GO:0033512	7	Nucleotide Metabolism & Biosynthesis
+GO:0033528	4	Amino Acid & Fatty Acid Metabolism
+GO:0033566	3	Protein Transport & Localization
+GO:0033567	0	RNA Processing & Modification
+GO:0033615	5	Macromolecular Complex Assembly & Organization
+GO:0033617	5	Macromolecular Complex Assembly & Organization
+GO:0033619	0	RNA Processing & Modification
+GO:0033674	2	Regulation of Biological Processes
+GO:0033962	5	Macromolecular Complex Assembly & Organization
+GO:0034058	5	Macromolecular Complex Assembly & Organization
+GO:0034063	5	Macromolecular Complex Assembly & Organization
+GO:0034067	3	Protein Transport & Localization
+GO:0034080	5	Macromolecular Complex Assembly & Organization
+GO:0034085	1	Cellular & Host Stress Response
+GO:0034184	2	Regulation of Biological Processes
+GO:0034220	3	Protein Transport & Localization
+GO:0034227	0	RNA Processing & Modification
+GO:0034243	2	Regulation of Biological Processes
+GO:0034244	2	Regulation of Biological Processes
+GO:0034247	0	RNA Processing & Modification
+GO:0034314	5	Macromolecular Complex Assembly & Organization
+GO:0034355	7	Nucleotide Metabolism & Biosynthesis
+GO:0034394	3	Protein Transport & Localization
+GO:0034453	5	Macromolecular Complex Assembly & Organization
+GO:0034462	5	Macromolecular Complex Assembly & Organization
+GO:0034473	0	RNA Processing & Modification
+GO:0034475	0	RNA Processing & Modification
+GO:0034476	0	RNA Processing & Modification
+GO:0034477	0	RNA Processing & Modification
+GO:0034497	3	Protein Transport & Localization
+GO:0034551	5	Macromolecular Complex Assembly & Organization
+GO:0034599	1	Cellular & Host Stress Response
+GO:0034605	1	Cellular & Host Stress Response
+GO:0034613	3	Protein Transport & Localization
+GO:0034620	1	Cellular & Host Stress Response
+GO:0034622	5	Macromolecular Complex Assembly & Organization
+GO:0034625	4	Amino Acid & Fatty Acid Metabolism
+GO:0034626	4	Amino Acid & Fatty Acid Metabolism
+GO:0034635	3	Protein Transport & Localization
+GO:0034724	5	Macromolecular Complex Assembly & Organization
+GO:0034727	4	Amino Acid & Fatty Acid Metabolism
+GO:0034728	5	Macromolecular Complex Assembly & Organization
+GO:0034765	2	Regulation of Biological Processes
+GO:0034975	1	Cellular & Host Stress Response
+GO:0034976	1	Cellular & Host Stress Response
+GO:0034982	0	RNA Processing & Modification
+GO:0035082	5	Macromolecular Complex Assembly & Organization
+GO:0035246	0	RNA Processing & Modification
+GO:0035269	0	RNA Processing & Modification
+GO:0035303	2	Regulation of Biological Processes
+GO:0035335	0	RNA Processing & Modification
+GO:0035372	3	Protein Transport & Localization
+GO:0035434	3	Protein Transport & Localization
+GO:0035435	3	Protein Transport & Localization
+GO:0035437	3	Protein Transport & Localization
+GO:0035494	5	Macromolecular Complex Assembly & Organization
+GO:0035542	2	Regulation of Biological Processes
+GO:0035556	2	Regulation of Biological Processes
+GO:0035600	0	RNA Processing & Modification
+GO:0035627	3	Protein Transport & Localization
+GO:0035690	1	Cellular & Host Stress Response
+GO:0035725	3	Protein Transport & Localization
+GO:0035873	3	Protein Transport & Localization
+GO:0035890	1	Cellular & Host Stress Response
+GO:0035891	1	Cellular & Host Stress Response
+GO:0035970	0	RNA Processing & Modification
+GO:0035999	4	Amino Acid & Fatty Acid Metabolism
+GO:0036066	0	RNA Processing & Modification
+GO:0036092	7	Nucleotide Metabolism & Biosynthesis
+GO:0036158	5	Macromolecular Complex Assembly & Organization
+GO:0036159	5	Macromolecular Complex Assembly & Organization
+GO:0036211	0	RNA Processing & Modification
+GO:0036261	0	RNA Processing & Modification
+GO:0036265	0	RNA Processing & Modification
+GO:0036292	5	Macromolecular Complex Assembly & Organization
+GO:0036297	6	DNA Damage Response & Repair
+GO:0036388	5	Macromolecular Complex Assembly & Organization
+GO:0036525	0	RNA Processing & Modification
+GO:0036529	4	Amino Acid & Fatty Acid Metabolism
+GO:0039694	7	Nucleotide Metabolism & Biosynthesis
+GO:0040029	2	Regulation of Biological Processes
+GO:0040031	0	RNA Processing & Modification
+GO:0042000	1	Cellular & Host Stress Response
+GO:0042026	1	Cellular & Host Stress Response
+GO:0042127	2	Regulation of Biological Processes
+GO:0042138	6	DNA Damage Response & Repair
+GO:0042147	3	Protein Transport & Localization
+GO:0042148	0	RNA Processing & Modification
+GO:0042157	0	RNA Processing & Modification
+GO:0042167	4	Amino Acid & Fatty Acid Metabolism
+GO:0042168	1	Cellular & Host Stress Response
+GO:0042176	2	Regulation of Biological Processes
+GO:0042245	0	RNA Processing & Modification
+GO:0042254	5	Macromolecular Complex Assembly & Organization
+GO:0042255	5	Macromolecular Complex Assembly & Organization
+GO:0042256	5	Macromolecular Complex Assembly & Organization
+GO:0042262	6	DNA Damage Response & Repair
+GO:0042273	5	Macromolecular Complex Assembly & Organization
+GO:0042274	5	Macromolecular Complex Assembly & Organization
+GO:0042276	6	DNA Damage Response & Repair
+GO:0042327	2	Regulation of Biological Processes
+GO:0042350	7	Nucleotide Metabolism & Biosynthesis
+GO:0042351	7	Nucleotide Metabolism & Biosynthesis
+GO:0042407	5	Macromolecular Complex Assembly & Organization
+GO:0042493	1	Cellular & Host Stress Response
+GO:0042540	0	RNA Processing & Modification
+GO:0042542	1	Cellular & Host Stress Response
+GO:0042558	1	Cellular & Host Stress Response
+GO:0042594	1	Cellular & Host Stress Response
+GO:0042744	4	Amino Acid & Fatty Acid Metabolism
+GO:0042752	2	Regulation of Biological Processes
+GO:0042761	4	Amino Acid & Fatty Acid Metabolism
+GO:0042770	2	Regulation of Biological Processes
+GO:0042773	4	Amino Acid & Fatty Acid Metabolism
+GO:0042776	7	Nucleotide Metabolism & Biosynthesis
+GO:0042783	1	Cellular & Host Stress Response
+GO:0042789	7	Nucleotide Metabolism & Biosynthesis
+GO:0042795	7	Nucleotide Metabolism & Biosynthesis
+GO:0042796	7	Nucleotide Metabolism & Biosynthesis
+GO:0042797	7	Nucleotide Metabolism & Biosynthesis
+GO:0042819	4	Amino Acid & Fatty Acid Metabolism
+GO:0042823	7	Nucleotide Metabolism & Biosynthesis
+GO:0042866	4	Amino Acid & Fatty Acid Metabolism
+GO:0042908	3	Protein Transport & Localization
+GO:0042966	4	Amino Acid & Fatty Acid Metabolism
+GO:0042981	2	Regulation of Biological Processes
+GO:0042989	2	Regulation of Biological Processes
+GO:0043001	3	Protein Transport & Localization
+GO:0043039	0	RNA Processing & Modification
+GO:0043044	5	Macromolecular Complex Assembly & Organization
+GO:0043048	7	Nucleotide Metabolism & Biosynthesis
+GO:0043065	2	Regulation of Biological Processes
+GO:0043085	2	Regulation of Biological Processes
+GO:0043087	2	Regulation of Biological Processes
+GO:0043103	7	Nucleotide Metabolism & Biosynthesis
+GO:0043137	0	RNA Processing & Modification
+GO:0043161	0	RNA Processing & Modification
+GO:0043171	4	Amino Acid & Fatty Acid Metabolism
+GO:0043248	5	Macromolecular Complex Assembly & Organization
+GO:0043335	1	Cellular & Host Stress Response
+GO:0043414	0	RNA Processing & Modification
+GO:0043461	5	Macromolecular Complex Assembly & Organization
+GO:0043484	2	Regulation of Biological Processes
+GO:0043487	2	Regulation of Biological Processes
+GO:0043488	2	Regulation of Biological Processes
+GO:0043547	2	Regulation of Biological Processes
+GO:0043570	6	DNA Damage Response & Repair
+GO:0043572	5	Macromolecular Complex Assembly & Organization
+GO:0043686	0	RNA Processing & Modification
+GO:0043934	1	Cellular & Host Stress Response
+GO:0043952	3	Protein Transport & Localization
+GO:0044003	1	Cellular & Host Stress Response
+GO:0044053	1	Cellular & Host Stress Response
+GO:0044068	1	Cellular & Host Stress Response
+GO:0044114	1	Cellular & Host Stress Response
+GO:0044179	1	Cellular & Host Stress Response
+GO:0044205	7	Nucleotide Metabolism & Biosynthesis
+GO:0044208	7	Nucleotide Metabolism & Biosynthesis
+GO:0044210	7	Nucleotide Metabolism & Biosynthesis
+GO:0044237	4	Amino Acid & Fatty Acid Metabolism
+GO:0044238	4	Amino Acid & Fatty Acid Metabolism
+GO:0044255	4	Amino Acid & Fatty Acid Metabolism
+GO:0044267	0	RNA Processing & Modification
+GO:0044409	1	Cellular & Host Stress Response
+GO:0044458	5	Macromolecular Complex Assembly & Organization
+GO:0044528	2	Regulation of Biological Processes
+GO:0044571	5	Macromolecular Complex Assembly & Organization
+GO:0044650	1	Cellular & Host Stress Response
+GO:0044658	1	Cellular & Host Stress Response
+GO:0044772	1	Cellular & Host Stress Response
+GO:0044773	2	Regulation of Biological Processes
+GO:0044774	2	Regulation of Biological Processes
+GO:0044804	4	Amino Acid & Fatty Acid Metabolism
+GO:0045003	6	DNA Damage Response & Repair
+GO:0045004	6	DNA Damage Response & Repair
+GO:0045010	5	Macromolecular Complex Assembly & Organization
+GO:0045017	4	Amino Acid & Fatty Acid Metabolism
+GO:0045039	3	Protein Transport & Localization
+GO:0045040	3	Protein Transport & Localization
+GO:0045047	3	Protein Transport & Localization
+GO:0045048	3	Protein Transport & Localization
+GO:0045053	3	Protein Transport & Localization
+GO:0045116	0	RNA Processing & Modification
+GO:0045132	1	Cellular & Host Stress Response
+GO:0045292	0	RNA Processing & Modification
+GO:0045324	3	Protein Transport & Localization
+GO:0045332	3	Protein Transport & Localization
+GO:0045333	4	Amino Acid & Fatty Acid Metabolism
+GO:0045337	7	Nucleotide Metabolism & Biosynthesis
+GO:0045454	1	Cellular & Host Stress Response
+GO:0045595	2	Regulation of Biological Processes
+GO:0045721	2	Regulation of Biological Processes
+GO:0045727	2	Regulation of Biological Processes
+GO:0045732	2	Regulation of Biological Processes
+GO:0045736	2	Regulation of Biological Processes
+GO:0045737	2	Regulation of Biological Processes
+GO:0045761	2	Regulation of Biological Processes
+GO:0045787	2	Regulation of Biological Processes
+GO:0045836	2	Regulation of Biological Processes
+GO:0045842	2	Regulation of Biological Processes
+GO:0045862	2	Regulation of Biological Processes
+GO:0045892	2	Regulation of Biological Processes
+GO:0045893	2	Regulation of Biological Processes
+GO:0045899	2	Regulation of Biological Processes
+GO:0045900	2	Regulation of Biological Processes
+GO:0045901	2	Regulation of Biological Processes
+GO:0045903	2	Regulation of Biological Processes
+GO:0045905	2	Regulation of Biological Processes
+GO:0045910	2	Regulation of Biological Processes
+GO:0045944	2	Regulation of Biological Processes
+GO:0045948	2	Regulation of Biological Processes
+GO:0045951	2	Regulation of Biological Processes
+GO:0046033	7	Nucleotide Metabolism & Biosynthesis
+GO:0046034	7	Nucleotide Metabolism & Biosynthesis
+GO:0046040	7	Nucleotide Metabolism & Biosynthesis
+GO:0046058	7	Nucleotide Metabolism & Biosynthesis
+GO:0046068	7	Nucleotide Metabolism & Biosynthesis
+GO:0046069	7	Nucleotide Metabolism & Biosynthesis
+GO:0046080	7	Nucleotide Metabolism & Biosynthesis
+GO:0046081	7	Nucleotide Metabolism & Biosynthesis
+GO:0046100	7	Nucleotide Metabolism & Biosynthesis
+GO:0046103	7	Nucleotide Metabolism & Biosynthesis
+GO:0046132	7	Nucleotide Metabolism & Biosynthesis
+GO:0046166	7	Nucleotide Metabolism & Biosynthesis
+GO:0046167	7	Nucleotide Metabolism & Biosynthesis
+GO:0046168	7	Nucleotide Metabolism & Biosynthesis
+GO:0046177	4	Amino Acid & Fatty Acid Metabolism
+GO:0046323	3	Protein Transport & Localization
+GO:0046356	7	Nucleotide Metabolism & Biosynthesis
+GO:0046386	7	Nucleotide Metabolism & Biosynthesis
+GO:0046460	4	Amino Acid & Fatty Acid Metabolism
+GO:0046471	7	Nucleotide Metabolism & Biosynthesis
+GO:0046473	7	Nucleotide Metabolism & Biosynthesis
+GO:0046474	7	Nucleotide Metabolism & Biosynthesis
+GO:0046475	7	Nucleotide Metabolism & Biosynthesis
+GO:0046488	7	Nucleotide Metabolism & Biosynthesis
+GO:0046496	7	Nucleotide Metabolism & Biosynthesis
+GO:0046512	4	Amino Acid & Fatty Acid Metabolism
+GO:0046513	4	Amino Acid & Fatty Acid Metabolism
+GO:0046653	4	Amino Acid & Fatty Acid Metabolism
+GO:0046654	4	Amino Acid & Fatty Acid Metabolism
+GO:0046655	4	Amino Acid & Fatty Acid Metabolism
+GO:0046656	4	Amino Acid & Fatty Acid Metabolism
+GO:0046677	1	Cellular & Host Stress Response
+GO:0046705	7	Nucleotide Metabolism & Biosynthesis
+GO:0046718	1	Cellular & Host Stress Response
+GO:0046777	0	RNA Processing & Modification
+GO:0046785	5	Macromolecular Complex Assembly & Organization
+GO:0046823	2	Regulation of Biological Processes
+GO:0046825	2	Regulation of Biological Processes
+GO:0046836	3	Protein Transport & Localization
+GO:0046839	7	Nucleotide Metabolism & Biosynthesis
+GO:0046854	7	Nucleotide Metabolism & Biosynthesis
+GO:0046856	7	Nucleotide Metabolism & Biosynthesis
+GO:0046907	3	Protein Transport & Localization
+GO:0046931	5	Macromolecular Complex Assembly & Organization
+GO:0048015	2	Regulation of Biological Processes
+GO:0048024	2	Regulation of Biological Processes
+GO:0048026	2	Regulation of Biological Processes
+GO:0048034	4	Amino Acid & Fatty Acid Metabolism
+GO:0048096	2	Regulation of Biological Processes
+GO:0048193	3	Protein Transport & Localization
+GO:0048205	5	Macromolecular Complex Assembly & Organization
+GO:0048209	2	Regulation of Biological Processes
+GO:0048211	3	Protein Transport & Localization
+GO:0048250	3	Protein Transport & Localization
+GO:0048254	3	Protein Transport & Localization
+GO:0048255	2	Regulation of Biological Processes
+GO:0048278	3	Protein Transport & Localization
+GO:0048280	5	Macromolecular Complex Assembly & Organization
+GO:0048285	5	Macromolecular Complex Assembly & Organization
+GO:0048469	1	Cellular & Host Stress Response
+GO:0048870	1	Cellular & Host Stress Response
+GO:0050684	2	Regulation of Biological Processes
+GO:0050776	2	Regulation of Biological Processes
+GO:0050821	2	Regulation of Biological Processes
+GO:0050896	1	Cellular & Host Stress Response
+GO:0050900	1	Cellular & Host Stress Response
+GO:0050992	7	Nucleotide Metabolism & Biosynthesis
+GO:0051014	1	Cellular & Host Stress Response
+GO:0051016	2	Regulation of Biological Processes
+GO:0051017	5	Macromolecular Complex Assembly & Organization
+GO:0051028	3	Protein Transport & Localization
+GO:0051052	2	Regulation of Biological Processes
+GO:0051083	1	Cellular & Host Stress Response
+GO:0051085	1	Cellular & Host Stress Response
+GO:0051096	2	Regulation of Biological Processes
+GO:0051103	0	RNA Processing & Modification
+GO:0051123	5	Macromolecular Complex Assembly & Organization
+GO:0051131	5	Macromolecular Complex Assembly & Organization
+GO:0051156	7	Nucleotide Metabolism & Biosynthesis
+GO:0051168	3	Protein Transport & Localization
+GO:0051169	3	Protein Transport & Localization
+GO:0051179	3	Protein Transport & Localization
+GO:0051205	3	Protein Transport & Localization
+GO:0051225	5	Macromolecular Complex Assembly & Organization
+GO:0051228	5	Macromolecular Complex Assembly & Organization
+GO:0051258	5	Macromolecular Complex Assembly & Organization
+GO:0051259	5	Macromolecular Complex Assembly & Organization
+GO:0051260	5	Macromolecular Complex Assembly & Organization
+GO:0051262	5	Macromolecular Complex Assembly & Organization
+GO:0051276	5	Macromolecular Complex Assembly & Organization
+GO:0051279	2	Regulation of Biological Processes
+GO:0051289	5	Macromolecular Complex Assembly & Organization
+GO:0051293	3	Protein Transport & Localization
+GO:0051301	1	Cellular & Host Stress Response
+GO:0051302	2	Regulation of Biological Processes
+GO:0051304	1	Cellular & Host Stress Response
+GO:0051306	1	Cellular & Host Stress Response
+GO:0051307	1	Cellular & Host Stress Response
+GO:0051315	1	Cellular & Host Stress Response
+GO:0051321	1	Cellular & Host Stress Response
+GO:0051382	5	Macromolecular Complex Assembly & Organization
+GO:0051383	5	Macromolecular Complex Assembly & Organization
+GO:0051391	0	RNA Processing & Modification
+GO:0051415	5	Macromolecular Complex Assembly & Organization
+GO:0051453	2	Regulation of Biological Processes
+GO:0051475	3	Protein Transport & Localization
+GO:0051484	7	Nucleotide Metabolism & Biosynthesis
+GO:0051493	2	Regulation of Biological Processes
+GO:0051598	2	Regulation of Biological Processes
+GO:0051603	0	RNA Processing & Modification
+GO:0051604	0	RNA Processing & Modification
+GO:0051645	3	Protein Transport & Localization
+GO:0051693	2	Regulation of Biological Processes
+GO:0051701	1	Cellular & Host Stress Response
+GO:0051726	2	Regulation of Biological Processes
+GO:0051754	5	Macromolecular Complex Assembly & Organization
+GO:0051881	2	Regulation of Biological Processes
+GO:0052167	1	Cellular & Host Stress Response
+GO:0052170	1	Cellular & Host Stress Response
+GO:0052553	1	Cellular & Host Stress Response
+GO:0052651	4	Amino Acid & Fatty Acid Metabolism
+GO:0052865	7	Nucleotide Metabolism & Biosynthesis
+GO:0055074	1	Cellular & Host Stress Response
+GO:0055085	3	Protein Transport & Localization
+GO:0055088	1	Cellular & Host Stress Response
+GO:0055129	4	Amino Acid & Fatty Acid Metabolism
+GO:0060169	2	Regulation of Biological Processes
+GO:0060213	2	Regulation of Biological Processes
+GO:0060271	5	Macromolecular Complex Assembly & Organization
+GO:0060284	2	Regulation of Biological Processes
+GO:0060285	1	Cellular & Host Stress Response
+GO:0060294	1	Cellular & Host Stress Response
+GO:0060296	2	Regulation of Biological Processes
+GO:0060327	1	Cellular & Host Stress Response
+GO:0061024	5	Macromolecular Complex Assembly & Organization
+GO:0061025	5	Macromolecular Complex Assembly & Organization
+GO:0061077	1	Cellular & Host Stress Response
+GO:0061136	2	Regulation of Biological Processes
+GO:0061157	2	Regulation of Biological Processes
+GO:0061187	2	Regulation of Biological Processes
+GO:0061564	5	Macromolecular Complex Assembly & Organization
+GO:0061640	1	Cellular & Host Stress Response
+GO:0061817	3	Protein Transport & Localization
+GO:0065002	3	Protein Transport & Localization
+GO:0065003	5	Macromolecular Complex Assembly & Organization
+GO:0070070	5	Macromolecular Complex Assembly & Organization
+GO:0070072	5	Macromolecular Complex Assembly & Organization
+GO:0070125	4	Amino Acid & Fatty Acid Metabolism
+GO:0070126	5	Macromolecular Complex Assembly & Organization
+GO:0070131	2	Regulation of Biological Processes
+GO:0070143	0	RNA Processing & Modification
+GO:0070150	0	RNA Processing & Modification
+GO:0070178	4	Amino Acid & Fatty Acid Metabolism
+GO:0070192	5	Macromolecular Complex Assembly & Organization
+GO:0070286	5	Macromolecular Complex Assembly & Organization
+GO:0070359	1	Cellular & Host Stress Response
+GO:0070370	1	Cellular & Host Stress Response
+GO:0070475	0	RNA Processing & Modification
+GO:0070476	0	RNA Processing & Modification
+GO:0070478	0	RNA Processing & Modification
+GO:0070481	0	RNA Processing & Modification
+GO:0070507	2	Regulation of Biological Processes
+GO:0070525	0	RNA Processing & Modification
+GO:0070534	0	RNA Processing & Modification
+GO:0070588	3	Protein Transport & Localization
+GO:0070646	0	RNA Processing & Modification
+GO:0070651	0	RNA Processing & Modification
+GO:0070681	0	RNA Processing & Modification
+GO:0070682	5	Macromolecular Complex Assembly & Organization
+GO:0070863	2	Regulation of Biological Processes
+GO:0070897	5	Macromolecular Complex Assembly & Organization
+GO:0070898	5	Macromolecular Complex Assembly & Organization
+GO:0070899	0	RNA Processing & Modification
+GO:0070914	6	DNA Damage Response & Repair
+GO:0070966	0	RNA Processing & Modification
+GO:0070979	0	RNA Processing & Modification
+GO:0070987	6	DNA Damage Response & Repair
+GO:0070988	1	Cellular & Host Stress Response
+GO:0071025	0	RNA Processing & Modification
+GO:0071028	0	RNA Processing & Modification
+GO:0071033	0	RNA Processing & Modification
+GO:0071034	0	RNA Processing & Modification
+GO:0071035	0	RNA Processing & Modification
+GO:0071036	0	RNA Processing & Modification
+GO:0071037	0	RNA Processing & Modification
+GO:0071038	0	RNA Processing & Modification
+GO:0071039	0	RNA Processing & Modification
+GO:0071040	0	RNA Processing & Modification
+GO:0071042	2	Regulation of Biological Processes
+GO:0071044	0	RNA Processing & Modification
+GO:0071048	0	RNA Processing & Modification
+GO:0071049	0	RNA Processing & Modification
+GO:0071051	0	RNA Processing & Modification
+GO:0071108	0	RNA Processing & Modification
+GO:0071140	0	RNA Processing & Modification
+GO:0071171	0	RNA Processing & Modification
+GO:0071218	1	Cellular & Host Stress Response
+GO:0071344	4	Amino Acid & Fatty Acid Metabolism
+GO:0071456	1	Cellular & Host Stress Response
+GO:0071466	1	Cellular & Host Stress Response
+GO:0071528	3	Protein Transport & Localization
+GO:0071577	3	Protein Transport & Localization
+GO:0071586	0	RNA Processing & Modification
+GO:0071590	7	Nucleotide Metabolism & Biosynthesis
+GO:0071592	7	Nucleotide Metabolism & Biosynthesis
+GO:0071763	5	Macromolecular Complex Assembly & Organization
+GO:0071786	5	Macromolecular Complex Assembly & Organization
+GO:0071805	3	Protein Transport & Localization
+GO:0071897	7	Nucleotide Metabolism & Biosynthesis
+GO:0071929	0	RNA Processing & Modification
+GO:0071947	0	RNA Processing & Modification
+GO:0071951	0	RNA Processing & Modification
+GO:0071976	1	Cellular & Host Stress Response
+GO:0072318	5	Macromolecular Complex Assembly & Organization
+GO:0072334	3	Protein Transport & Localization
+GO:0072344	6	DNA Damage Response & Repair
+GO:0072382	3	Protein Transport & Localization
+GO:0072583	3	Protein Transport & Localization
+GO:0072657	3	Protein Transport & Localization
+GO:0072659	3	Protein Transport & Localization
+GO:0075109	1	Cellular & Host Stress Response
+GO:0090071	2	Regulation of Biological Processes
+GO:0090110	3	Protein Transport & Localization
+GO:0090114	5	Macromolecular Complex Assembly & Organization
+GO:0090158	5	Macromolecular Complex Assembly & Organization
+GO:0090160	3	Protein Transport & Localization
+GO:0090304	0	RNA Processing & Modification
+GO:0090307	5	Macromolecular Complex Assembly & Organization
+GO:0090314	2	Regulation of Biological Processes
+GO:0090374	3	Protein Transport & Localization
+GO:0090481	3	Protein Transport & Localization
+GO:0090630	2	Regulation of Biological Processes
+GO:0090646	0	RNA Processing & Modification
+GO:0090656	6	DNA Damage Response & Repair
+GO:0090657	6	DNA Damage Response & Repair
+GO:0097036	5	Macromolecular Complex Assembly & Organization
+GO:0097054	4	Amino Acid & Fatty Acid Metabolism
+GO:0097250	5	Macromolecular Complex Assembly & Organization
+GO:0097352	5	Macromolecular Complex Assembly & Organization
+GO:0097428	0	RNA Processing & Modification
+GO:0097502	1	Cellular & Host Stress Response
+GO:0097510	0	RNA Processing & Modification
+GO:0097551	6	DNA Damage Response & Repair
+GO:0097552	6	DNA Damage Response & Repair
+GO:0097720	2	Regulation of Biological Processes
+GO:0098609	1	Cellular & Host Stress Response
+GO:0098656	3	Protein Transport & Localization
+GO:0098657	3	Protein Transport & Localization
+GO:0098719	3	Protein Transport & Localization
+GO:0098813	1	Cellular & Host Stress Response
+GO:0098869	1	Cellular & Host Stress Response
+GO:0101030	0	RNA Processing & Modification
+GO:0106004	0	RNA Processing & Modification
+GO:0106035	0	RNA Processing & Modification
+GO:0106046	7	Nucleotide Metabolism & Biosynthesis
+GO:0110051	4	Amino Acid & Fatty Acid Metabolism
+GO:0110064	0	RNA Processing & Modification
+GO:0120009	3	Protein Transport & Localization
+GO:0140021	3	Protein Transport & Localization
+GO:0140042	5	Macromolecular Complex Assembly & Organization
+GO:0140469	2	Regulation of Biological Processes
+GO:0140647	4	Amino Acid & Fatty Acid Metabolism
+GO:1901096	2	Regulation of Biological Processes
+GO:1901135	4	Amino Acid & Fatty Acid Metabolism
+GO:1901137	7	Nucleotide Metabolism & Biosynthesis
+GO:1901255	6	DNA Damage Response & Repair
+GO:1901642	3	Protein Transport & Localization
+GO:1901663	4	Amino Acid & Fatty Acid Metabolism
+GO:1901673	2	Regulation of Biological Processes
+GO:1901962	3	Protein Transport & Localization
+GO:1902349	1	Cellular & Host Stress Response
+GO:1902440	3	Protein Transport & Localization
+GO:1902600	3	Protein Transport & Localization
+GO:1902626	5	Macromolecular Complex Assembly & Organization
+GO:1902969	6	DNA Damage Response & Repair
+GO:1902975	0	RNA Processing & Modification
+GO:1902979	0	RNA Processing & Modification
+GO:1903060	2	Regulation of Biological Processes
+GO:1903259	5	Macromolecular Complex Assembly & Organization
+GO:1903292	3	Protein Transport & Localization
+GO:1903298	2	Regulation of Biological Processes
+GO:1903646	2	Regulation of Biological Processes
+GO:1903775	2	Regulation of Biological Processes
+GO:1903862	2	Regulation of Biological Processes
+GO:1904263	2	Regulation of Biological Processes
+GO:1904357	2	Regulation of Biological Processes
+GO:1904430	2	Regulation of Biological Processes
+GO:1904482	1	Cellular & Host Stress Response
+GO:1904659	3	Protein Transport & Localization
+GO:1904668	2	Regulation of Biological Processes
+GO:1904812	0	RNA Processing & Modification
+GO:1904825	3	Protein Transport & Localization
+GO:1905775	2	Regulation of Biological Processes
+GO:1905786	2	Regulation of Biological Processes
+GO:1990116	0	RNA Processing & Modification
+GO:1990126	3	Protein Transport & Localization
+GO:1990426	0	RNA Processing & Modification
+GO:1990481	0	RNA Processing & Modification
+GO:1990542	3	Protein Transport & Localization
+GO:1990544	3	Protein Transport & Localization
+GO:1990547	3	Protein Transport & Localization
+GO:2000045	2	Regulation of Biological Processes
+GO:2000147	2	Regulation of Biological Processes
+GO:2000779	2	Regulation of Biological Processes
+GO:2001023	2	Regulation of Biological Processes
+GO:2001139	2	Regulation of Biological Processes
+GO:2001295	7	Nucleotide Metabolism & Biosynthesis
+GO:0000041	3	Protein Transport & Localization
+GO:0000076	2	Regulation of Biological Processes
+GO:0000377	0	RNA Processing & Modification
+GO:0000394	0	RNA Processing & Modification
+GO:0000491	5	Macromolecular Complex Assembly & Organization
+GO:0000966	0	RNA Processing & Modification
+GO:0002097	0	RNA Processing & Modification
+GO:0005976	0	RNA Processing & Modification
+GO:0005984	4	Amino Acid & Fatty Acid Metabolism
+GO:0006081	4	Amino Acid & Fatty Acid Metabolism
+GO:0006082	4	Amino Acid & Fatty Acid Metabolism
+GO:0006083	4	Amino Acid & Fatty Acid Metabolism
+GO:0006084	7	Nucleotide Metabolism & Biosynthesis
+GO:0006144	7	Nucleotide Metabolism & Biosynthesis
+GO:0006274	0	RNA Processing & Modification
+GO:0006448	2	Regulation of Biological Processes
+GO:0006493	0	RNA Processing & Modification
+GO:0006558	4	Amino Acid & Fatty Acid Metabolism
+GO:0006560	4	Amino Acid & Fatty Acid Metabolism
+GO:0006573	4	Amino Acid & Fatty Acid Metabolism
+GO:0006575	4	Amino Acid & Fatty Acid Metabolism
+GO:0006595	1	Cellular & Host Stress Response
+GO:0006613	3	Protein Transport & Localization
+GO:0006643	4	Amino Acid & Fatty Acid Metabolism
+GO:0006664	7	Nucleotide Metabolism & Biosynthesis
+GO:0006672	4	Amino Acid & Fatty Acid Metabolism
+GO:0006720	4	Amino Acid & Fatty Acid Metabolism
+GO:0006721	4	Amino Acid & Fatty Acid Metabolism
+GO:0006734	7	Nucleotide Metabolism & Biosynthesis
+GO:0006753	7	Nucleotide Metabolism & Biosynthesis
+GO:0006760	4	Amino Acid & Fatty Acid Metabolism
+GO:0006766	4	Amino Acid & Fatty Acid Metabolism
+GO:0006767	4	Amino Acid & Fatty Acid Metabolism
+GO:0006778	1	Cellular & Host Stress Response
+GO:0006790	4	Amino Acid & Fatty Acid Metabolism
+GO:0006793	4	Amino Acid & Fatty Acid Metabolism
+GO:0006805	4	Amino Acid & Fatty Acid Metabolism
+GO:0006873	1	Cellular & Host Stress Response
+GO:0006970	1	Cellular & Host Stress Response
+GO:0007006	5	Macromolecular Complex Assembly & Organization
+GO:0007088	2	Regulation of Biological Processes
+GO:0008104	3	Protein Transport & Localization
+GO:0008334	0	RNA Processing & Modification
+GO:0008608	1	Cellular & Host Stress Response
+GO:0008610	4	Amino Acid & Fatty Acid Metabolism
+GO:0009057	0	RNA Processing & Modification
+GO:0009062	4	Amino Acid & Fatty Acid Metabolism
+GO:0009064	4	Amino Acid & Fatty Acid Metabolism
+GO:0009065	4	Amino Acid & Fatty Acid Metabolism
+GO:0009069	4	Amino Acid & Fatty Acid Metabolism
+GO:0009070	4	Amino Acid & Fatty Acid Metabolism
+GO:0009071	4	Amino Acid & Fatty Acid Metabolism
+GO:0009072	4	Amino Acid & Fatty Acid Metabolism
+GO:0009074	4	Amino Acid & Fatty Acid Metabolism
+GO:0009079	4	Amino Acid & Fatty Acid Metabolism
+GO:0009084	4	Amino Acid & Fatty Acid Metabolism
+GO:0009110	4	Amino Acid & Fatty Acid Metabolism
+GO:0009112	7	Nucleotide Metabolism & Biosynthesis
+GO:0009123	7	Nucleotide Metabolism & Biosynthesis
+GO:0009124	7	Nucleotide Metabolism & Biosynthesis
+GO:0009126	7	Nucleotide Metabolism & Biosynthesis
+GO:0009127	7	Nucleotide Metabolism & Biosynthesis
+GO:0009135	7	Nucleotide Metabolism & Biosynthesis
+GO:0009137	7	Nucleotide Metabolism & Biosynthesis
+GO:0009141	7	Nucleotide Metabolism & Biosynthesis
+GO:0009144	7	Nucleotide Metabolism & Biosynthesis
+GO:0009145	7	Nucleotide Metabolism & Biosynthesis
+GO:0009150	7	Nucleotide Metabolism & Biosynthesis
+GO:0009154	7	Nucleotide Metabolism & Biosynthesis
+GO:0009161	7	Nucleotide Metabolism & Biosynthesis
+GO:0009163	7	Nucleotide Metabolism & Biosynthesis
+GO:0009167	7	Nucleotide Metabolism & Biosynthesis
+GO:0009179	7	Nucleotide Metabolism & Biosynthesis
+GO:0009181	7	Nucleotide Metabolism & Biosynthesis
+GO:0009185	7	Nucleotide Metabolism & Biosynthesis
+GO:0009191	7	Nucleotide Metabolism & Biosynthesis
+GO:0009199	7	Nucleotide Metabolism & Biosynthesis
+GO:0009200	7	Nucleotide Metabolism & Biosynthesis
+GO:0009201	7	Nucleotide Metabolism & Biosynthesis
+GO:0009205	7	Nucleotide Metabolism & Biosynthesis
+GO:0009206	7	Nucleotide Metabolism & Biosynthesis
+GO:0009259	7	Nucleotide Metabolism & Biosynthesis
+GO:0009260	7	Nucleotide Metabolism & Biosynthesis
+GO:0009261	7	Nucleotide Metabolism & Biosynthesis
+GO:0009267	1	Cellular & Host Stress Response
+GO:0009301	7	Nucleotide Metabolism & Biosynthesis
+GO:0009308	1	Cellular & Host Stress Response
+GO:0009309	4	Amino Acid & Fatty Acid Metabolism
+GO:0009889	2	Regulation of Biological Processes
+GO:0009890	2	Regulation of Biological Processes
+GO:0009891	2	Regulation of Biological Processes
+GO:0009892	2	Regulation of Biological Processes
+GO:0009893	2	Regulation of Biological Processes
+GO:0009894	2	Regulation of Biological Processes
+GO:0009895	2	Regulation of Biological Processes
+GO:0009896	2	Regulation of Biological Processes
+GO:0009914	3	Protein Transport & Localization
+GO:0009968	2	Regulation of Biological Processes
+GO:0010257	5	Macromolecular Complex Assembly & Organization
+GO:0010286	1	Cellular & Host Stress Response
+GO:0010383	0	RNA Processing & Modification
+GO:0010556	2	Regulation of Biological Processes
+GO:0010557	2	Regulation of Biological Processes
+GO:0010558	2	Regulation of Biological Processes
+GO:0010562	2	Regulation of Biological Processes
+GO:0010605	2	Regulation of Biological Processes
+GO:0010629	2	Regulation of Biological Processes
+GO:0010638	2	Regulation of Biological Processes
+GO:0010639	2	Regulation of Biological Processes
+GO:0010646	2	Regulation of Biological Processes
+GO:0010648	2	Regulation of Biological Processes
+GO:0010817	2	Regulation of Biological Processes
+GO:0010833	6	DNA Damage Response & Repair
+GO:0010948	2	Regulation of Biological Processes
+GO:0010965	2	Regulation of Biological Processes
+GO:0010972	2	Regulation of Biological Processes
+GO:0015695	3	Protein Transport & Localization
+GO:0015698	3	Protein Transport & Localization
+GO:0015711	3	Protein Transport & Localization
+GO:0015746	3	Protein Transport & Localization
+GO:0015748	3	Protein Transport & Localization
+GO:0015807	3	Protein Transport & Localization
+GO:0015822	3	Protein Transport & Localization
+GO:0015849	3	Protein Transport & Localization
+GO:0015919	3	Protein Transport & Localization
+GO:0015931	3	Protein Transport & Localization
+GO:0015936	7	Nucleotide Metabolism & Biosynthesis
+GO:0015939	4	Amino Acid & Fatty Acid Metabolism
+GO:0015980	4	Amino Acid & Fatty Acid Metabolism
+GO:0016053	4	Amino Acid & Fatty Acid Metabolism
+GO:0016054	4	Amino Acid & Fatty Acid Metabolism
+GO:0016073	0	RNA Processing & Modification
+GO:0016074	0	RNA Processing & Modification
+GO:0016078	0	RNA Processing & Modification
+GO:0016108	4	Amino Acid & Fatty Acid Metabolism
+GO:0017004	5	Macromolecular Complex Assembly & Organization
+GO:0017062	5	Macromolecular Complex Assembly & Organization
+GO:0018205	0	RNA Processing & Modification
+GO:0019219	2	Regulation of Biological Processes
+GO:0019220	2	Regulation of Biological Processes
+GO:0019318	4	Amino Acid & Fatty Acid Metabolism
+GO:0019319	4	Amino Acid & Fatty Acid Metabolism
+GO:0019359	7	Nucleotide Metabolism & Biosynthesis
+GO:0019362	7	Nucleotide Metabolism & Biosynthesis
+GO:0019364	7	Nucleotide Metabolism & Biosynthesis
+GO:0019395	4	Amino Acid & Fatty Acid Metabolism
+GO:0019400	4	Amino Acid & Fatty Acid Metabolism
+GO:0019493	4	Amino Acid & Fatty Acid Metabolism
+GO:0019637	4	Amino Acid & Fatty Acid Metabolism
+GO:0019693	7	Nucleotide Metabolism & Biosynthesis
+GO:0019725	1	Cellular & Host Stress Response
+GO:0019751	4	Amino Acid & Fatty Acid Metabolism
+GO:0022406	1	Cellular & Host Stress Response
+GO:0022603	2	Regulation of Biological Processes
+GO:0022607	5	Macromolecular Complex Assembly & Organization
+GO:0022613	5	Macromolecular Complex Assembly & Organization
+GO:0023057	2	Regulation of Biological Processes
+GO:0030003	1	Cellular & Host Stress Response
+GO:0030029	1	Cellular & Host Stress Response
+GO:0030031	5	Macromolecular Complex Assembly & Organization
+GO:0030641	2	Regulation of Biological Processes
+GO:0030834	2	Regulation of Biological Processes
+GO:0030835	2	Regulation of Biological Processes
+GO:0031023	5	Macromolecular Complex Assembly & Organization
+GO:0031109	5	Macromolecular Complex Assembly & Organization
+GO:0031125	0	RNA Processing & Modification
+GO:0031126	0	RNA Processing & Modification
+GO:0031163	5	Macromolecular Complex Assembly & Organization
+GO:0031333	2	Regulation of Biological Processes
+GO:0031334	2	Regulation of Biological Processes
+GO:0031399	2	Regulation of Biological Processes
+GO:0031401	2	Regulation of Biological Processes
+GO:0031503	3	Protein Transport & Localization
+GO:0031570	2	Regulation of Biological Processes
+GO:0031667	1	Cellular & Host Stress Response
+GO:0031669	1	Cellular & Host Stress Response
+GO:0032048	7	Nucleotide Metabolism & Biosynthesis
+GO:0032200	5	Macromolecular Complex Assembly & Organization
+GO:0032271	2	Regulation of Biological Processes
+GO:0032272	2	Regulation of Biological Processes
+GO:0032365	3	Protein Transport & Localization
+GO:0032386	2	Regulation of Biological Processes
+GO:0032388	2	Regulation of Biological Processes
+GO:0032506	1	Cellular & Host Stress Response
+GO:0032507	3	Protein Transport & Localization
+GO:0032535	5	Macromolecular Complex Assembly & Organization
+GO:0032787	4	Amino Acid & Fatty Acid Metabolism
+GO:0032886	2	Regulation of Biological Processes
+GO:0032940	3	Protein Transport & Localization
+GO:0032970	2	Regulation of Biological Processes
+GO:0032978	3	Protein Transport & Localization
+GO:0032984	5	Macromolecular Complex Assembly & Organization
+GO:0033013	1	Cellular & Host Stress Response
+GO:0033043	2	Regulation of Biological Processes
+GO:0033044	2	Regulation of Biological Processes
+GO:0033045	2	Regulation of Biological Processes
+GO:0033046	2	Regulation of Biological Processes
+GO:0033047	2	Regulation of Biological Processes
+GO:0033048	2	Regulation of Biological Processes
+GO:0033108	5	Macromolecular Complex Assembly & Organization
+GO:0033157	2	Regulation of Biological Processes
+GO:0033313	2	Regulation of Biological Processes
+GO:0033554	1	Cellular & Host Stress Response
+GO:0033750	3	Protein Transport & Localization
+GO:0034308	4	Amino Acid & Fatty Acid Metabolism
+GO:0034311	4	Amino Acid & Fatty Acid Metabolism
+GO:0034312	4	Amino Acid & Fatty Acid Metabolism
+GO:0034404	7	Nucleotide Metabolism & Biosynthesis
+GO:0034472	0	RNA Processing & Modification
+GO:0034504	3	Protein Transport & Localization
+GO:0034552	5	Macromolecular Complex Assembly & Organization
+GO:0034644	1	Cellular & Host Stress Response
+GO:0034654	7	Nucleotide Metabolism & Biosynthesis
+GO:0034655	0	RNA Processing & Modification
+GO:0035383	4	Amino Acid & Fatty Acid Metabolism
+GO:0035592	3	Protein Transport & Localization
+GO:0035674	3	Protein Transport & Localization
+GO:0035821	1	Cellular & Host Stress Response
+GO:0035825	0	RNA Processing & Modification
+GO:0040020	2	Regulation of Biological Processes
+GO:0042180	4	Amino Acid & Fatty Acid Metabolism
+GO:0042182	4	Amino Acid & Fatty Acid Metabolism
+GO:0042278	7	Nucleotide Metabolism & Biosynthesis
+GO:0042325	2	Regulation of Biological Processes
+GO:0042364	4	Amino Acid & Fatty Acid Metabolism
+GO:0042398	4	Amino Acid & Fatty Acid Metabolism
+GO:0042401	4	Amino Acid & Fatty Acid Metabolism
+GO:0042440	1	Cellular & Host Stress Response
+GO:0042451	7	Nucleotide Metabolism & Biosynthesis
+GO:0042455	7	Nucleotide Metabolism & Biosynthesis
+GO:0042537	1	Cellular & Host Stress Response
+GO:0042559	4	Amino Acid & Fatty Acid Metabolism
+GO:0042592	1	Cellular & Host Stress Response
+GO:0042723	4	Amino Acid & Fatty Acid Metabolism
+GO:0042724	4	Amino Acid & Fatty Acid Metabolism
+GO:0042743	4	Amino Acid & Fatty Acid Metabolism
+GO:0043038	4	Amino Acid & Fatty Acid Metabolism
+GO:0043094	4	Amino Acid & Fatty Acid Metabolism
+GO:0043101	7	Nucleotide Metabolism & Biosynthesis
+GO:0043144	0	RNA Processing & Modification
+GO:0043173	7	Nucleotide Metabolism & Biosynthesis
+GO:0043174	7	Nucleotide Metabolism & Biosynthesis
+GO:0043200	1	Cellular & Host Stress Response
+GO:0043242	2	Regulation of Biological Processes
+GO:0043244	2	Regulation of Biological Processes
+GO:0043254	2	Regulation of Biological Processes
+GO:0043269	2	Regulation of Biological Processes
+GO:0043408	2	Regulation of Biological Processes
+GO:0043412	0	RNA Processing & Modification
+GO:0043413	0	RNA Processing & Modification
+GO:0043436	4	Amino Acid & Fatty Acid Metabolism
+GO:0043562	1	Cellular & Host Stress Response
+GO:0043574	3	Protein Transport & Localization
+GO:0043604	4	Amino Acid & Fatty Acid Metabolism
+GO:0043632	0	RNA Processing & Modification
+GO:0043687	0	RNA Processing & Modification
+GO:0043933	5	Macromolecular Complex Assembly & Organization
+GO:0044036	0	RNA Processing & Modification
+GO:0044087	2	Regulation of Biological Processes
+GO:0044089	2	Regulation of Biological Processes
+GO:0044248	4	Amino Acid & Fatty Acid Metabolism
+GO:0044272	4	Amino Acid & Fatty Acid Metabolism
+GO:0044281	4	Amino Acid & Fatty Acid Metabolism
+GO:0044282	4	Amino Acid & Fatty Acid Metabolism
+GO:0044283	4	Amino Acid & Fatty Acid Metabolism
+GO:0044380	3	Protein Transport & Localization
+GO:0044403	1	Cellular & Host Stress Response
+GO:0044743	3	Protein Transport & Localization
+GO:0044770	1	Cellular & Host Stress Response
+GO:0044782	5	Macromolecular Complex Assembly & Organization
+GO:0044818	2	Regulation of Biological Processes
+GO:0045184	3	Protein Transport & Localization
+GO:0045185	3	Protein Transport & Localization
+GO:0045786	2	Regulation of Biological Processes
+GO:0045835	2	Regulation of Biological Processes
+GO:0045839	2	Regulation of Biological Processes
+GO:0045841	2	Regulation of Biological Processes
+GO:0045934	2	Regulation of Biological Processes
+GO:0045935	2	Regulation of Biological Processes
+GO:0045937	2	Regulation of Biological Processes
+GO:0046031	7	Nucleotide Metabolism & Biosynthesis
+GO:0046032	7	Nucleotide Metabolism & Biosynthesis
+GO:0046039	7	Nucleotide Metabolism & Biosynthesis
+GO:0046102	7	Nucleotide Metabolism & Biosynthesis
+GO:0046112	7	Nucleotide Metabolism & Biosynthesis
+GO:0046128	7	Nucleotide Metabolism & Biosynthesis
+GO:0046129	7	Nucleotide Metabolism & Biosynthesis
+GO:0046146	4	Amino Acid & Fatty Acid Metabolism
+GO:0046148	1	Cellular & Host Stress Response
+GO:0046165	4	Amino Acid & Fatty Acid Metabolism
+GO:0046173	4	Amino Acid & Fatty Acid Metabolism
+GO:0046185	4	Amino Acid & Fatty Acid Metabolism
+GO:0046247	4	Amino Acid & Fatty Acid Metabolism
+GO:0046337	7	Nucleotide Metabolism & Biosynthesis
+GO:0046341	7	Nucleotide Metabolism & Biosynthesis
+GO:0046349	7	Nucleotide Metabolism & Biosynthesis
+GO:0046351	4	Amino Acid & Fatty Acid Metabolism
+GO:0046368	7	Nucleotide Metabolism & Biosynthesis
+GO:0046390	7	Nucleotide Metabolism & Biosynthesis
+GO:0046394	4	Amino Acid & Fatty Acid Metabolism
+GO:0046395	4	Amino Acid & Fatty Acid Metabolism
+GO:0046434	7	Nucleotide Metabolism & Biosynthesis
+GO:0046467	4	Amino Acid & Fatty Acid Metabolism
+GO:0046486	4	Amino Acid & Fatty Acid Metabolism
+GO:0046490	7	Nucleotide Metabolism & Biosynthesis
+GO:0046500	4	Amino Acid & Fatty Acid Metabolism
+GO:0046501	1	Cellular & Host Stress Response
+GO:0046618	3	Protein Transport & Localization
+GO:0046903	3	Protein Transport & Localization
+GO:0046942	3	Protein Transport & Localization
+GO:0048878	1	Cellular & Host Stress Response
+GO:0050000	3	Protein Transport & Localization
+GO:0050657	3	Protein Transport & Localization
+GO:0050658	3	Protein Transport & Localization
+GO:0050779	2	Regulation of Biological Processes
+GO:0050793	2	Regulation of Biological Processes
+GO:0050801	1	Cellular & Host Stress Response
+GO:0050993	7	Nucleotide Metabolism & Biosynthesis
+GO:0051031	3	Protein Transport & Localization
+GO:0051046	2	Regulation of Biological Processes
+GO:0051049	2	Regulation of Biological Processes
+GO:0051050	2	Regulation of Biological Processes
+GO:0051084	1	Cellular & Host Stress Response
+GO:0051125	2	Regulation of Biological Processes
+GO:0051128	2	Regulation of Biological Processes
+GO:0051129	2	Regulation of Biological Processes
+GO:0051130	2	Regulation of Biological Processes
+GO:0051170	3	Protein Transport & Localization
+GO:0051174	2	Regulation of Biological Processes
+GO:0051204	3	Protein Transport & Localization
+GO:0051222	2	Regulation of Biological Processes
+GO:0051223	2	Regulation of Biological Processes
+GO:0051235	3	Protein Transport & Localization
+GO:0051236	3	Protein Transport & Localization
+GO:0051246	2	Regulation of Biological Processes
+GO:0051247	2	Regulation of Biological Processes
+GO:0051252	2	Regulation of Biological Processes
+GO:0051253	2	Regulation of Biological Processes
+GO:0051254	2	Regulation of Biological Processes
+GO:0051261	5	Macromolecular Complex Assembly & Organization
+GO:0051273	0	RNA Processing & Modification
+GO:0051447	2	Regulation of Biological Processes
+GO:0051494	2	Regulation of Biological Processes
+GO:0051640	3	Protein Transport & Localization
+GO:0051648	3	Protein Transport & Localization
+GO:0051649	3	Protein Transport & Localization
+GO:0051650	3	Protein Transport & Localization
+GO:0051651	3	Protein Transport & Localization
+GO:0051656	3	Protein Transport & Localization
+GO:0051668	3	Protein Transport & Localization
+GO:0051783	2	Regulation of Biological Processes
+GO:0051784	2	Regulation of Biological Processes
+GO:0051985	2	Regulation of Biological Processes
+GO:0052031	1	Cellular & Host Stress Response
+GO:0052040	1	Cellular & Host Stress Response
+GO:0055080	1	Cellular & Host Stress Response
+GO:0055082	1	Cellular & Host Stress Response
+GO:0055086	7	Nucleotide Metabolism & Biosynthesis
+GO:0060255	2	Regulation of Biological Processes
+GO:0060341	2	Regulation of Biological Processes
+GO:0060627	2	Regulation of Biological Processes
+GO:0060632	2	Regulation of Biological Processes
+GO:0060918	3	Protein Transport & Localization
+GO:0061013	2	Regulation of Biological Processes
+GO:0061014	2	Regulation of Biological Processes
+GO:0061727	4	Amino Acid & Fatty Acid Metabolism
+GO:0061982	1	Cellular & Host Stress Response
+GO:0062197	1	Cellular & Host Stress Response
+GO:0065004	5	Macromolecular Complex Assembly & Organization
+GO:0065008	2	Regulation of Biological Processes
+GO:0070085	1	Cellular & Host Stress Response
+GO:0070201	2	Regulation of Biological Processes
+GO:0070585	3	Protein Transport & Localization
+GO:0070592	4	Amino Acid & Fatty Acid Metabolism
+GO:0070647	0	RNA Processing & Modification
+GO:0070727	3	Protein Transport & Localization
+GO:0070861	2	Regulation of Biological Processes
+GO:0070925	5	Macromolecular Complex Assembly & Organization
+GO:0070972	3	Protein Transport & Localization
+GO:0071027	0	RNA Processing & Modification
+GO:0071047	2	Regulation of Biological Processes
+GO:0071103	5	Macromolecular Complex Assembly & Organization
+GO:0071478	1	Cellular & Host Stress Response
+GO:0071482	1	Cellular & Host Stress Response
+GO:0071692	3	Protein Transport & Localization
+GO:0071705	3	Protein Transport & Localization
+GO:0071806	3	Protein Transport & Localization
+GO:0071824	5	Macromolecular Complex Assembly & Organization
+GO:0071826	5	Macromolecular Complex Assembly & Organization
+GO:0071985	3	Protein Transport & Localization
+GO:0072329	4	Amino Acid & Fatty Acid Metabolism
+GO:0072330	4	Amino Acid & Fatty Acid Metabolism
+GO:0072350	4	Amino Acid & Fatty Acid Metabolism
+GO:0072521	4	Amino Acid & Fatty Acid Metabolism
+GO:0072522	4	Amino Acid & Fatty Acid Metabolism
+GO:0072523	4	Amino Acid & Fatty Acid Metabolism
+GO:0072524	1	Cellular & Host Stress Response
+GO:0072525	4	Amino Acid & Fatty Acid Metabolism
+GO:0072526	4	Amino Acid & Fatty Acid Metabolism
+GO:0072527	1	Cellular & Host Stress Response
+GO:0072528	4	Amino Acid & Fatty Acid Metabolism
+GO:0072593	4	Amino Acid & Fatty Acid Metabolism
+GO:0072594	3	Protein Transport & Localization
+GO:0072595	3	Protein Transport & Localization
+GO:0072599	3	Protein Transport & Localization
+GO:0072655	3	Protein Transport & Localization
+GO:0072662	3	Protein Transport & Localization
+GO:0072663	3	Protein Transport & Localization
+GO:0072666	3	Protein Transport & Localization
+GO:0072698	3	Protein Transport & Localization
+GO:0080090	2	Regulation of Biological Processes
+GO:0090066	2	Regulation of Biological Processes
+GO:0090068	2	Regulation of Biological Processes
+GO:0090150	3	Protein Transport & Localization
+GO:0090151	3	Protein Transport & Localization
+GO:0090316	2	Regulation of Biological Processes
+GO:0090407	7	Nucleotide Metabolism & Biosynthesis
+GO:0090529	5	Macromolecular Complex Assembly & Organization
+GO:0097035	5	Macromolecular Complex Assembly & Organization
+GO:0097435	5	Macromolecular Complex Assembly & Organization
+GO:0098534	5	Macromolecular Complex Assembly & Organization
+GO:0098655	3	Protein Transport & Localization
+GO:0098659	3	Protein Transport & Localization
+GO:0098660	3	Protein Transport & Localization
+GO:0098661	3	Protein Transport & Localization
+GO:0098662	3	Protein Transport & Localization
+GO:0098771	1	Cellular & Host Stress Response
+GO:0099111	3	Protein Transport & Localization
+GO:0099116	0	RNA Processing & Modification
+GO:0099515	3	Protein Transport & Localization
+GO:0099518	3	Protein Transport & Localization
+GO:0104004	1	Cellular & Host Stress Response
+GO:0106354	0	RNA Processing & Modification
+GO:0110053	2	Regulation of Biological Processes
+GO:0120031	5	Macromolecular Complex Assembly & Organization
+GO:0120036	5	Macromolecular Complex Assembly & Organization
+GO:0120252	1	Cellular & Host Stress Response
+GO:0120253	4	Amino Acid & Fatty Acid Metabolism
+GO:0140056	3	Protein Transport & Localization
+GO:0140115	3	Protein Transport & Localization
+GO:0140352	3	Protein Transport & Localization
+GO:0140527	0	RNA Processing & Modification
+GO:0140694	5	Macromolecular Complex Assembly & Organization
+GO:0141124	2	Regulation of Biological Processes
+GO:0141137	2	Regulation of Biological Processes
+GO:0170033	4	Amino Acid & Fatty Acid Metabolism
+GO:0170034	4	Amino Acid & Fatty Acid Metabolism
+GO:0170035	4	Amino Acid & Fatty Acid Metabolism
+GO:0170036	3	Protein Transport & Localization
+GO:0170038	4	Amino Acid & Fatty Acid Metabolism
+GO:0170039	4	Amino Acid & Fatty Acid Metabolism
+GO:0170040	4	Amino Acid & Fatty Acid Metabolism
+GO:0170041	4	Amino Acid & Fatty Acid Metabolism
+GO:1901136	4	Amino Acid & Fatty Acid Metabolism
+GO:1901292	7	Nucleotide Metabolism & Biosynthesis
+GO:1901293	7	Nucleotide Metabolism & Biosynthesis
+GO:1901605	4	Amino Acid & Fatty Acid Metabolism
+GO:1901606	4	Amino Acid & Fatty Acid Metabolism
+GO:1901607	4	Amino Acid & Fatty Acid Metabolism
+GO:1901615	1	Cellular & Host Stress Response
+GO:1901617	4	Amino Acid & Fatty Acid Metabolism
+GO:1901657	4	Amino Acid & Fatty Acid Metabolism
+GO:1901661	4	Amino Acid & Fatty Acid Metabolism
+GO:1901879	2	Regulation of Biological Processes
+GO:1901880	2	Regulation of Biological Processes
+GO:1901987	2	Regulation of Biological Processes
+GO:1901988	2	Regulation of Biological Processes
+GO:1901990	2	Regulation of Biological Processes
+GO:1901991	2	Regulation of Biological Processes
+GO:1901992	2	Regulation of Biological Processes
+GO:1902099	2	Regulation of Biological Processes
+GO:1902100	2	Regulation of Biological Processes
+GO:1902221	4	Amino Acid & Fatty Acid Metabolism
+GO:1902222	4	Amino Acid & Fatty Acid Metabolism
+GO:1902296	0	RNA Processing & Modification
+GO:1902317	0	RNA Processing & Modification
+GO:1902319	0	RNA Processing & Modification
+GO:1902475	3	Protein Transport & Localization
+GO:1902531	2	Regulation of Biological Processes
+GO:1902532	2	Regulation of Biological Processes
+GO:1902679	2	Regulation of Biological Processes
+GO:1902749	2	Regulation of Biological Processes
+GO:1902750	2	Regulation of Biological Processes
+GO:1902806	2	Regulation of Biological Processes
+GO:1902903	2	Regulation of Biological Processes
+GO:1902904	2	Regulation of Biological Processes
+GO:1903008	5	Macromolecular Complex Assembly & Organization
+GO:1903050	2	Regulation of Biological Processes
+GO:1903311	2	Regulation of Biological Processes
+GO:1903313	2	Regulation of Biological Processes
+GO:1903509	7	Nucleotide Metabolism & Biosynthesis
+GO:1903530	2	Regulation of Biological Processes
+GO:1903825	3	Protein Transport & Localization
+GO:1903829	2	Regulation of Biological Processes
+GO:1904951	2	Regulation of Biological Processes
+GO:1905037	5	Macromolecular Complex Assembly & Organization
+GO:1905039	3	Protein Transport & Localization
+GO:1905818	2	Regulation of Biological Processes
+GO:1905819	2	Regulation of Biological Processes
+GO:1990546	3	Protein Transport & Localization
+GO:2000058	2	Regulation of Biological Processes
+GO:2000241	2	Regulation of Biological Processes
+GO:2000242	2	Regulation of Biological Processes
+GO:2000816	2	Regulation of Biological Processes
+GO:2001141	2	Regulation of Biological Processes
+GO:2001251	2	Regulation of Biological Processes
