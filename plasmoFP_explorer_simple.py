@@ -13,7 +13,7 @@ import uuid
 # Page configuration
 st.set_page_config(
     page_title="PlasmoFP Explorer",
-    page_icon="DNA",
+    page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
 )
