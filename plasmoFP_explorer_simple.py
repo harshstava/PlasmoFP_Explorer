@@ -507,7 +507,7 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
                 pred_df = pd.DataFrame(pred_data)
                 pred_df = pred_df.sort_values('Score', ascending=False)
                 
-                st.dataframe(pred_df, use_container_width=True, hide_index=True)
+                st.dataframe(pred_df,width='stretch', hide_index=True)
             else:
                 st.info(f"No predictions at {selected_fdr:.2f} eFDR")
         else:
@@ -553,7 +553,7 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
                 })
             
             orig_df = pd.DataFrame(orig_data_processed)
-            st.dataframe(orig_df, use_container_width=True, hide_index=True)
+            st.dataframe(orig_df,width='stretch', hide_index=True)
         else:
             st.info("No original annotations available")
     
@@ -563,7 +563,7 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
         cluster_chart = create_cluster_distribution_chart(plasmofp_data[fdr_key], aspect_code, cluster_mappings)
         
         if cluster_chart:
-            st.plotly_chart(cluster_chart, use_container_width=True, key=f"cluster_{gene_id.replace('.', '_').replace('-', '_')}_{aspect_code}_{str(selected_fdr).replace('.', '')}")
+            st.plotly_chart(cluster_chart,width='stretch', key=f"cluster_{gene_id.replace('.', '_').replace('-', '_')}_{aspect_code}_{str(selected_fdr).replace('.', '')}")
         else:
             st.info("No clustered terms available for visualization")
 
@@ -591,12 +591,12 @@ def display_gene_info(gene_id, gene_data, go_terms=None, cluster_mappings=None):
         fdr_options = sorted([float(fdr) for fdr in all_fdrs])
         
         # Use a simple, stable key based on gene ID only
+        # To this (add timestamp or session info):
         selected_fdr = st.selectbox(
             "Select eFDR threshold:",
-            fdr_options,
-            index=1 if len(fdr_options) > 1 else 0,
-            format_func=lambda x: f"{x:.2f} ({x*100:.0f}%)",
-            key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}"
+            options=available_fdrs,
+            index=default_index,
+            key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}_{hash(str(st.session_state.get('search_results', '')))}"
         )
     else:
         selected_fdr = 0.05  # Default fallback
@@ -794,12 +794,12 @@ def main():
                     with col1:
                         source_chart = create_annotation_source_pie_chart(results_by_species)
                         if source_chart:
-                            st.plotly_chart(source_chart, use_container_width=True, key=f"go_source_chart_{hash(query + 'source')}")
+                            st.plotly_chart(source_chart,width='stretch', key=f"go_source_chart_{hash(query + 'source')}")
                     
                     with col2:
                         species_chart = create_species_distribution_pie_chart(results_by_species)
                         if species_chart:
-                            st.plotly_chart(species_chart, use_container_width=True, key=f"go_species_chart_{hash(query + 'species')}")
+                            st.plotly_chart(species_chart,width='stretch', key=f"go_species_chart_{hash(query + 'species')}")
                             
                 else:
                     st.warning("No genes found with matching GO terms.")
