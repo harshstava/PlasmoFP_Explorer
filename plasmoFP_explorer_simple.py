@@ -640,7 +640,7 @@ def main():
     - **Multi-species Coverage**: 19 *Plasmodium* species 
     - **Functional Clustering**: Terms organized by functional clusters 
 
-    Developed by Jane Carlton's lab at Johns Hopkins University Malaria Research Institute
+    Developed by the Jane Carlton lab at Johns Hopkins University Malaria Research Institute
     """)
     
     st.markdown("---")
