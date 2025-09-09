@@ -591,12 +591,11 @@ def display_gene_info(gene_id, gene_data, go_terms=None, cluster_mappings=None):
         fdr_options = sorted([float(fdr) for fdr in all_fdrs])
         
         # Use a simple, stable key based on gene ID only
-        # To this (add timestamp or session info):
         selected_fdr = st.selectbox(
             "Select eFDR threshold:",
             options=available_fdrs,
             index=default_index,
-            key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}_{hash(str(st.session_state.get('search_results', '')))}"
+            key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}"
         )
     else:
         selected_fdr = 0.05  # Default fallback
@@ -645,9 +644,17 @@ def main():
     
     st.markdown("---")
     
-    # Load data
-    with st.spinner("Loading data..."):
-        gene_index, search_index, go_terms, cluster_mappings, enhanced_indices = load_optimized_data()
+    # Load data with error handling
+    try:
+        with st.spinner("Loading data..."):
+            gene_index, search_index, go_terms, cluster_mappings, enhanced_indices = load_optimized_data()
+    except FileNotFoundError as e:
+        st.error(f"Data files not found: {str(e)}")
+        st.info("Please ensure all required data files are present in the directory.")
+        st.stop()
+    except Exception as e:
+        st.error(f"Error loading data: {str(e)}")
+        st.stop()
     
     # Sidebar stats
     st.sidebar.title("Database Stats")
@@ -794,12 +801,12 @@ def main():
                     with col1:
                         source_chart = create_annotation_source_pie_chart(results_by_species)
                         if source_chart:
-                            st.plotly_chart(source_chart,width='stretch', key=f"go_source_chart_{hash(query + 'source')}")
+                            st.plotly_chart(source_chart, width='stretch', key=f"go_source_chart_{abs(hash(query))}")
                     
                     with col2:
                         species_chart = create_species_distribution_pie_chart(results_by_species)
                         if species_chart:
-                            st.plotly_chart(species_chart,width='stretch', key=f"go_species_chart_{hash(query + 'species')}")
+                            st.plotly_chart(species_chart, width='stretch', key=f"go_species_chart_{abs(hash(query))}_species")
                             
                 else:
                     st.warning("No genes found with matching GO terms.")
@@ -807,4 +814,10 @@ def main():
     
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"Application error: {str(e)}")
+        st.write("**Error details:**")
+        st.code(str(e))
+        st.stop()
