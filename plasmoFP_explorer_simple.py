@@ -679,7 +679,7 @@ def main():
     
     # Dynamic placeholders based on search type
     placeholders = {
-        "Gene ID": "e.g., PF3D7_1206100, PVX_000005, PmUG01_... or comma-separated for multiple",
+        "Gene ID": "e.g., C922_00017-t30, PBANKA_0100400,... or comma-separated for multiple",
         "Protein Description": "e.g., unknown function, hypothetical protein, DNA helicase, protein kinase",
         "GO Term": "e.g., GO:0003677, DNA binding, transcription, kinase activity"
     }
