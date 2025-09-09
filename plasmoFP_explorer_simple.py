@@ -661,9 +661,9 @@ def main():
     for data in gene_index.values():
         species_counts[data['species']] += 1
     
-    st.sidebar.metric("Total Genes", f"{total_genes:,}")
-    st.sidebar.metric("Genes with PlasmoFP", f"{genes_with_plasmofp:,}")
-    st.sidebar.metric("Genes with Annotations", f"{genes_with_original:,}")
+    st.sidebar.metric("Total Proteins", f"{total_genes:,}")
+    st.sidebar.metric("Proteins with PlasmoFP predicted GO terms", f"{genes_with_plasmofp:,}")
+    st.sidebar.metric("Proteins with existing GO term annotations", f"{genes_with_original:,}")
     st.sidebar.metric("Species", len(species_counts))
     
     # Main search interface
