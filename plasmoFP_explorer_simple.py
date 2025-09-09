@@ -589,11 +589,12 @@ def display_gene_info(gene_id, gene_data, go_terms=None, cluster_mappings=None):
     if all_fdrs:
         # Convert to floats and sort
         fdr_options = sorted([float(fdr) for fdr in all_fdrs])
+        default_index = 1 if 0.05 in fdr_options else 0
         
         # Use a simple, stable key based on gene ID only
         selected_fdr = st.selectbox(
             "Select eFDR threshold:",
-            options=available_fdrs,
+            options=fdr_options,
             index=default_index,
             key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}"
         )
