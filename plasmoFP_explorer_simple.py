@@ -9,6 +9,7 @@ import pandas as pd
 import plotly.express as px
 from collections import defaultdict
 import uuid
+import re
 
 # Page configuration
 st.set_page_config(
@@ -563,7 +564,9 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
         cluster_chart = create_cluster_distribution_chart(plasmofp_data[fdr_key], aspect_code, cluster_mappings)
         
         if cluster_chart:
-            st.plotly_chart(cluster_chart,width='stretch', key=f"cluster_{gene_id.replace('.', '_').replace('-', '_')}_{aspect_code}_{str(selected_fdr).replace('.', '')}")
+            safe_gene_id = re.sub(r'[^a-zA-Z0-9]', '_', gene_id)
+            safe_fdr = str(selected_fdr).replace('.', '_')
+            st.plotly_chart(cluster_chart, width='stretch', key=f"cluster_{safe_gene_id}_{aspect_code}_{safe_fdr}")
         else:
             st.info("No clustered terms available for visualization")
 
@@ -592,11 +595,12 @@ def display_gene_info(gene_id, gene_data, go_terms=None, cluster_mappings=None):
         default_index = 1 if 0.05 in fdr_options else 0
         
         # Use a simple, stable key based on gene ID only
+        safe_gene_id = re.sub(r'[^a-zA-Z0-9]', '_', gene_id)
         selected_fdr = st.selectbox(
             "Select eFDR threshold:",
             options=fdr_options,
             index=default_index,
-            key=f"efdr_{gene_id.replace('.', '_').replace('-', '_')}"
+            key=f"efdr_{safe_gene_id}"
         )
     else:
         selected_fdr = 0.05  # Default fallback
@@ -802,12 +806,14 @@ def main():
                     with col1:
                         source_chart = create_annotation_source_pie_chart(results_by_species)
                         if source_chart:
-                            st.plotly_chart(source_chart, width='stretch', key=f"go_source_chart_{abs(hash(query))}")
+                            safe_query = re.sub(r'[^a-zA-Z0-9]', '_', query)[:20]  # Limit length
+                            st.plotly_chart(source_chart, width='stretch', key=f"go_source_chart_{safe_query}")
                     
                     with col2:
                         species_chart = create_species_distribution_pie_chart(results_by_species)
                         if species_chart:
-                            st.plotly_chart(species_chart, width='stretch', key=f"go_species_chart_{abs(hash(query))}_species")
+                            safe_query = re.sub(r'[^a-zA-Z0-9]', '_', query)[:20]  # Limit length
+                            st.plotly_chart(species_chart, width='stretch', key=f"go_species_chart_{safe_query}_species")
                             
                 else:
                     st.warning("No genes found with matching GO terms.")
