@@ -661,22 +661,6 @@ def main():
         st.error(f"Error loading data: {str(e)}")
         st.stop()
     
-    # Sidebar stats
-    st.sidebar.title("Database Stats")
-    
-    total_genes = len(gene_index)
-    genes_with_plasmofp = sum(1 for data in gene_index.values() if data.get('pfp_predictions'))
-    genes_with_original = sum(1 for data in gene_index.values() if data.get('original_annotations'))
-    
-    # Species counts
-    species_counts = defaultdict(int)
-    for data in gene_index.values():
-        species_counts[data['species']] += 1
-    
-    st.sidebar.metric("Total Proteins", f"{total_genes:,}")
-    st.sidebar.metric("Proteins with PlasmoFP\n predicted GO terms", f"{genes_with_plasmofp:,}")
-    st.sidebar.metric("Proteins with existing\n GO term annotations", f"{genes_with_original:,}")
-    st.sidebar.metric("Species", len(species_counts))
     
     # Main search interface
     st.markdown("## Search Interface")
