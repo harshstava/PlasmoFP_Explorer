@@ -76,9 +76,9 @@ def load_cluster_mappings():
     cluster_mappings = {}
     
     cluster_files = {
-        'MF': 'MF_term_clustersAUG23.tsv',
-        'BP': 'BP_term_clustersAUG23.tsv', 
-        'CC': 'CC_term_clustersAUG23.tsv'
+        'MF': 'MF_term_clusters.tsv',
+        'BP': 'BP_term_clusters.tsv',
+        'CC': 'CC_term_clusters.tsv'
     }
     
     for aspect, filename in cluster_files.items():
