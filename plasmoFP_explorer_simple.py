@@ -483,8 +483,7 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
                 for pred in predictions:
                     go_id = pred['id']
                     go_name = pred['name']
-                    score = pred['score']
-                    
+
                     # If the name is just the GO ID, try to get the actual name from GO terms
                     if go_name == go_id and go_terms and go_id in go_terms:
                         go_name = go_terms[go_id]
@@ -501,13 +500,12 @@ def display_ontology_data(ontology_name, icon, plasmofp_data, original_data, sel
                     pred_data.append({
                         'GO ID': go_id,
                         'GO Term': go_name,
-                        'Score': round(score, 4),
                         'Cluster ID': cluster_info
                     })
-                
+
+                # Terms are already stored in descending-score order in the index.
                 pred_df = pd.DataFrame(pred_data)
-                pred_df = pred_df.sort_values('Score', ascending=False)
-                
+
                 st.dataframe(pred_df,width='stretch', hide_index=True)
             else:
                 st.info(f"No predictions at {selected_fdr:.2f} eFDR")
